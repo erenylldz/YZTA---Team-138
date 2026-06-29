@@ -8,7 +8,7 @@ Henüz belirlenecek.
 - Sema Yeşilkaya - Product Owner
 - Semiha Çıtırkı - Developer
 - Mücahit Ayyıldız - Developer
-- Berker Öner 4 - Developer
+- Berker Öner - Developer
 
 ## Ürün Açıklaması
 Bu proje, girişimci adaylarının iş fikirlerini doğrulamasına yardımcı olan AI destekli bir fikir doğrulama panelidir.
