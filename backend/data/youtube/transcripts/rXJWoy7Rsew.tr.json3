@@ -1,0 +1,1279 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 90,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Tekrar merhaba. Bu dersimizde ne konuşuyoruz"
+    } ]
+  }, {
+    "tStartMs": 2700,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Ömer Abi?"
+    } ]
+  }, {
+    "tStartMs": 5310,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Validasyon, iterasyon, pivot örnekler."
+    } ]
+  }, {
+    "tStartMs": 8040,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Örnekleri konuşuyoruz ve bunu iş modeli"
+    } ]
+  }, {
+    "tStartMs": 10260,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "kanvasında ve yalın kanvasında nasıl"
+    } ]
+  }, {
+    "tStartMs": 12840,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "açıklayabileceğinizin birkaç tane örneğini"
+    } ]
+  }, {
+    "tStartMs": 14910,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "vereceğiz. Birkaç tane yöntemini"
+    } ]
+  }, {
+    "tStartMs": 16230,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "söyleyeceğiz. İstersen her işin başı"
+    } ]
+  }, {
+    "tStartMs": 18210,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "kanvasla başlayalım."
+    } ]
+  }, {
+    "tStartMs": 20160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Kanvas bir tek sayfada çözdüğün problem"
+    } ]
+  }, {
+    "tStartMs": 24210,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "nasıl çözdüğün, kimin problemi olduğu,"
+    } ]
+  }, {
+    "tStartMs": 27150,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "onlara nasıl ulaştığın, hangi maliyetlerinin"
+    } ]
+  }, {
+    "tStartMs": 29580,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "olduğu, hangi gelir kalemlerin olduğu gibi"
+    } ]
+  }, {
+    "tStartMs": 33810,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "bileşenlerin kısaca anlatıldığı bir tek"
+    } ]
+  }, {
+    "tStartMs": 37680,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "sayfalık iş planı."
+    } ]
+  }, {
+    "tStartMs": 39780,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yalınla işin farkı da şu yalın daha işin"
+    } ]
+  }, {
+    "tStartMs": 42780,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "başındayken erken aşamadayken kullanılan tek"
+    } ]
+  }, {
+    "tStartMs": 46500,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "sayfalık plan."
+    } ]
+  }, {
+    "tStartMs": 47830,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "İş ise biraz daha ilerlediğin zaman örneğin"
+    } ]
+  }, {
+    "tStartMs": 50010,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "iş ortakları gibi bir kavram var, işi"
+    } ]
+  }, {
+    "tStartMs": 52110,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "yapıyor olmak lazım ki iş ortaklarının"
+    } ]
+  }, {
+    "tStartMs": 54120,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "olsun. Ama ikisinde de ortak olan çok temel"
+    } ]
+  }, {
+    "tStartMs": 56340,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "bir şey var. Temel birkaç şey var, bir"
+    } ]
+  }, {
+    "tStartMs": 58110,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "tanesi hangi problemi çözdğün ve dolayısıyla"
+    } ]
+  }, {
+    "tStartMs": 62340,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "değer önerin, diğeri de maliyetler ve"
+    } ]
+  }, {
+    "tStartMs": 64740,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "gelirlerin ve kimin problemi olduğu."
+    } ]
+  }, {
+    "tStartMs": 67780,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Şimdi bunlar validasyon, iterasyon, pivot"
+    } ]
+  }, {
+    "tStartMs": 70920,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "bağlamına konduğunda şu anlam ifade ediyor."
+    } ]
+  }, {
+    "tStartMs": 74520,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Mesela pivot için örnek verelim."
+    } ]
+  }, {
+    "tStartMs": 76650,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Çözdüğün problem ya da hedef kitlesini"
+    } ]
+  }, {
+    "tStartMs": 78900,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "değiştirmek ya da değer önerini değiştirmek"
+    } ]
+  }, {
+    "tStartMs": 81000,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "biraz pivot gibi. Ama müşteriye ya da"
+    } ]
+  }, {
+    "tStartMs": 86400,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "kullanıcıya eriştiğin ulaştığın kanalı"
+    } ]
+  }, {
+    "tStartMs": 88230,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "değiştirmek daha bir iterasyon gibi."
+    } ]
+  }, {
+    "tStartMs": 90900,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Peki bunları nasıl ölçeceksin, nasıl"
+    } ]
+  }, {
+    "tStartMs": 92520,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "doğrulayacaksın? Mesela sen bir örnek ver."
+    } ]
+  }, {
+    "tStartMs": 94620,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Örneğin landing page."
+    } ]
+  }, {
+    "tStartMs": 96990,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Evet, aslında tek sayfalık bir web sitesi"
+    } ]
+  }, {
+    "tStartMs": 99660,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "konusu var. Bu validasyon çalışmalarından,"
+    } ]
+  }, {
+    "tStartMs": 103770,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "validasyon yöntemlerinden benim en sık"
+    } ]
+  }, {
+    "tStartMs": 106110,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "kullandığım ve en sık da gördüğüm şeyler."
+    } ]
+  }, {
+    "tStartMs": 110160,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Bir fikriniz var, bir problem, bir problem"
+    } ]
+  }, {
+    "tStartMs": 112290,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "çözmek istiyorsunuz. Bir kitlenin birinin"
+    } ]
+  }, {
+    "tStartMs": 114570,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "bir problemini çözmek istiyorsunuz, bir"
+    } ]
+  }, {
+    "tStartMs": 116490,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "kitlenin."
+    } ]
+  }, {
+    "tStartMs": 117940,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Burada bu kitleye nasıl soru sorabilirsiniz?"
+    } ]
+  }, {
+    "tStartMs": 121470,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Tabii ki anket, birebir görüşmeler vesaire"
+    } ]
+  }, {
+    "tStartMs": 124770,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "gibi araştırma yöntemlerini"
+    } ]
+  }, {
+    "tStartMs": 126630,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "kullanabilirsiniz. Veya bu işi daha"
+    } ]
+  }, {
+    "tStartMs": 129690,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "doğrulamaya yakın bir yere çekmek için bir"
+    } ]
+  }, {
+    "tStartMs": 133110,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "text tek sayfalık web sitesi"
+    } ]
+  }, {
+    "tStartMs": 135150,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "kullanabilirsiniz. Artık bir sürü bunu"
+    } ]
+  }, {
+    "tStartMs": 138060,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "yapabileceğiniz araç var."
+    } ]
+  }, {
+    "tStartMs": 139830,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Dijital araçlar hem ucuzladı hem kolaylaştı."
+    } ]
+  }, {
+    "tStartMs": 144120,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Bunu kullanırken aslında değer önerinizi"
+    } ]
+  }, {
+    "tStartMs": 147360,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "yazıp çözümünüzü belli bir boyutta yazıp,"
+    } ]
+  }, {
+    "tStartMs": 151830,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "yani kimin hangi problemini çözüyorsun ve"
+    } ]
+  }, {
+    "tStartMs": 154020,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "nasıl çözmeyi planladığınızı tek bir sayfada"
+    } ]
+  }, {
+    "tStartMs": 156630,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "anlatıp e-mail toplayabilirsiniz."
+    } ]
+  }, {
+    "tStartMs": 159360,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Ön satış yapabilirsiniz veya sadece"
+    } ]
+  }, {
+    "tStartMs": 162390,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "bilgilendirme yapıp geribildirim"
+    } ]
+  }, {
+    "tStartMs": 163980,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "toplayabilirsiniz, bu aslında en kolay"
+    } ]
+  }, {
+    "tStartMs": 167970,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "fikrinizi veya değer öneriniz"
+    } ]
+  }, {
+    "tStartMs": 170280,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "kanıtlayabileceğiniz validasyon"
+    } ]
+  }, {
+    "tStartMs": 171630,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "yöntemlerinden biridir."
+    } ]
+  }, {
+    "tStartMs": 172860,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Peki bunu yaptın ve örneğin çok az sayıda"
+    } ]
+  }, {
+    "tStartMs": 176100,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "geri bildirim aldın."
+    } ]
+  }, {
+    "tStartMs": 177150,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Bu neye işaret olur?"
+    } ]
+  }, {
+    "tStartMs": 179230,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Bu aslında senin farklı daha demin"
+    } ]
+  }, {
+    "tStartMs": 182770,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "bahsettiğin iş modeli kanvası veya yalın"
+    } ]
+  }, {
+    "tStartMs": 184660,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "kanvastaki kutucuklardan bazılarını"
+    } ]
+  }, {
+    "tStartMs": 186670,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "değiştirmeye itebilir seni."
+    } ]
+  }, {
+    "tStartMs": 188770,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Bu ne demek? Belki senin çözdüğün problem bir"
+    } ]
+  }, {
+    "tStartMs": 193030,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "web sitesi üzerinden çözülebilecek bir şey"
+    } ]
+  }, {
+    "tStartMs": 195130,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "değildir. O yüzden problemin çözdüğü kitle"
+    } ]
+  }, {
+    "tStartMs": 198040,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "bir web sitesine etkileşime girmeyebilir."
+    } ]
+  }, {
+    "tStartMs": 202210,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Bunu bir mobil uygulama üzerinden"
+    } ]
+  }, {
+    "tStartMs": 204700,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "yapabilirsin. Bunu sosyal medyadan bir"
+    } ]
+  }, {
+    "tStartMs": 208990,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "sayfa, bir kanal olarak yapabilirsin."
+    } ]
+  }, {
+    "tStartMs": 210820,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Anket yapabilirsin orada."
+    } ]
+  }, {
+    "tStartMs": 212860,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "O yüzden ilk aşamada tek sayfalık web"
+    } ]
+  }, {
+    "tStartMs": 214900,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "sitesinden tırnak içinde landing page'den"
+    } ]
+  }, {
+    "tStartMs": 218680,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "istediğin etkileşimi alamadığın noktada"
+    } ]
+  }, {
+    "tStartMs": 221500,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "içindeki yazıları değiştirebilirsin."
+    } ]
+  }, {
+    "tStartMs": 223430,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Değer önerisini doğru anlatamıyor"
+    } ]
+  }, {
+    "tStartMs": 224950,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "olabilirsin. Çözmeye çalıştığın problemi,"
+    } ]
+  }, {
+    "tStartMs": 228100,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "problemi yaşayan insanların dilinden"
+    } ]
+  }, {
+    "tStartMs": 229960,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "anlatmak gerekir. Evet, bir iki onlara"
+    } ]
+  }, {
+    "tStartMs": 232540,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "erişmen gerekir. Hedef kitlenin tutması"
+    } ]
+  }, {
+    "tStartMs": 235300,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "lazım. Uyum, uyum sağlaması lazım."
+    } ]
+  }, {
+    "tStartMs": 237850,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Doğru kişilere sormuyor olabilirsin."
+    } ]
+  }, {
+    "tStartMs": 239660,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "Yani mesajın doğru olması lazım."
+    } ]
+  }, {
+    "tStartMs": 241480,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Kişilerin doğru olması lazım."
+    } ]
+  }, {
+    "tStartMs": 242800,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Kanalın doğru olması lazım."
+    } ]
+  }, {
+    "tStartMs": 245260,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Gibi gibi aslında ortamı çevreyi"
+    } ]
+  }, {
+    "tStartMs": 247360,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "değiştirerek istediğin etkileşimleri almaya"
+    } ]
+  }, {
+    "tStartMs": 250600,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "çalışabilirsiniz. Bunlar da olmazsa"
+    } ]
+  }, {
+    "tStartMs": 253120,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "validasyonu yakalayamazsak ne yapmak gerekir?"
+    } ]
+  }, {
+    "tStartMs": 255080,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "İterasyon yapmak gerekir."
+    } ]
+  }, {
+    "tStartMs": 257440,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Örneğin hedef kitleyi yanlış tanımladığınızı"
+    } ]
+  }, {
+    "tStartMs": 260650,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "ya da bu çözümün hedef kitlesinin bizim"
+    } ]
+  }, {
+    "tStartMs": 263470,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "ulaştığımız kitle olmadığını varsayıp onun"
+    } ]
+  }, {
+    "tStartMs": 266800,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "tanımını değiştiririz. Personayı"
+    } ]
+  }, {
+    "tStartMs": 268210,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "değiştirirsiniz, dolayısıyla bu neyi"
+    } ]
+  }, {
+    "tStartMs": 269470,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "değiştirir mesajı da değiştirir."
+    } ]
+  }, {
+    "tStartMs": 270910,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Yani deminki döngünün başına dönersin,"
+    } ]
+  }, {
+    "tStartMs": 274300,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "tekrar aynı şeyleri dönersin."
+    } ]
+  }, {
+    "tStartMs": 275710,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "Ama bazı değişikliklerle işte bunun adı"
+    } ]
+  }, {
+    "tStartMs": 277870,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "iterasyon zaten."
+    } ]
+  }, {
+    "tStartMs": 279440,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "Onun da yeterince yaptığında işte iki kere,"
+    } ]
+  }, {
+    "tStartMs": 281380,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "üç kere, beş kere neyse ama yirmi kere"
+    } ]
+  }, {
+    "tStartMs": 283270,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "değil. Ne yaparsın pivot edersin."
+    } ]
+  }, {
+    "tStartMs": 286060,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Bu biraz önce bahsettiğimiz aslında döngüye"
+    } ]
+  }, {
+    "tStartMs": 288280,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "tekrar girmek demek oluyor."
+    } ]
+  }, {
+    "tStartMs": 290050,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Validasyon örneklerinden birkaç tane daha"
+    } ]
+  }, {
+    "tStartMs": 291850,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "verelim istersen. Yine sık kullanılan bir"
+    } ]
+  }, {
+    "tStartMs": 294910,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "metod aslında doğrulanmış bir şey yapmak ya"
+    } ]
+  }, {
+    "tStartMs": 298390,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "da başka ülkede, başka bir kesimde, başka"
+    } ]
+  }, {
+    "tStartMs": 301390,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "bir kullanıcı kitlesinin hali hazırda"
+    } ]
+  }, {
+    "tStartMs": 303700,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "kullandığı problemin çözen bir şeyi taklit"
+    } ]
+  }, {
+    "tStartMs": 306430,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "etmek diyebiliriz. Bu nasıl kullanılır?"
+    } ]
+  }, {
+    "tStartMs": 310030,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Yani bu işte kopyalamak da deniyor buna daha"
+    } ]
+  }, {
+    "tStartMs": 314260,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "sokak tabiriyle, sokak tabiriyle daha açık"
+    } ]
+  }, {
+    "tStartMs": 316720,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "konuşmak gerekirse bir sakıncası yok, çok"
+    } ]
+  }, {
+    "tStartMs": 318730,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "örneği var. Dünyada bir çok başarılı girişim"
+    } ]
+  }, {
+    "tStartMs": 322100,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "daha önce o kadar da başarılı olmayan birini"
+    } ]
+  }, {
+    "tStartMs": 325450,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "kopyalayarak çıkmıştır ortaya."
+    } ]
+  }, {
+    "tStartMs": 327490,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Dolayısıyla hiçbir sakıncası yok bence."
+    } ]
+  }, {
+    "tStartMs": 330220,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Kopyala çünkü kopyalamak demek illa birebir"
+    } ]
+  }, {
+    "tStartMs": 333430,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "aynısını kopyalamak demek değil tabii"
+    } ]
+  }, {
+    "tStartMs": 335170,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "patenti olan bir şeyi kopyalayamazsın ama"
+    } ]
+  }, {
+    "tStartMs": 337510,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "yani yöntemsel olarak örneğin Instagram,"
+    } ]
+  }, {
+    "tStartMs": 340090,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Snapchat Story hep herkesin anlattığı"
+    } ]
+  }, {
+    "tStartMs": 342760,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "hikaye. Artık bunun şeyi yok."
+    } ]
+  }, {
+    "tStartMs": 345610,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Gizli bir tarafı yok. Patentlenebilir de bir"
+    } ]
+  }, {
+    "tStartMs": 348280,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "şey değil. Daha iyi yaparsan onu ya da hedef"
+    } ]
+  }, {
+    "tStartMs": 352090,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "kitlesini daha iyi bulursan daha başarılı"
+    } ]
+  }, {
+    "tStartMs": 354970,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "oluyorsun zaten. Benzer bir örnekten"
+    } ]
+  }, {
+    "tStartMs": 357580,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "gidelim. Tiktok, Instagram örneğini de"
+    } ]
+  }, {
+    "tStartMs": 360580,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "verebiliriz. Bunlar çok büyük örnekler"
+    } ]
+  }, {
+    "tStartMs": 362530,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "olduğu için, hepiniz de farkında olduğunuz"
+    } ]
+  }, {
+    "tStartMs": 364270,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "için aslında konuşulabilir örnekler."
+    } ]
+  }, {
+    "tStartMs": 367150,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "Orada da reals adı altında bir fonksiyon"
+    } ]
+  }, {
+    "tStartMs": 371140,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "olarak uygulamaya getirilen bi durum."
+    } ]
+  }, {
+    "tStartMs": 373630,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Tiktok'un ana özelliği aslında Instagram'ın"
+    } ]
+  }, {
+    "tStartMs": 376090,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "şu an büyük özelliklerinden biri olarak"
+    } ]
+  }, {
+    "tStartMs": 379000,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "faaliyete geçti. Orada kanıtlanmış bir şeyin"
+    } ]
+  }, {
+    "tStartMs": 382540,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "aynısını yapmak aslında valide olmuş bir"
+    } ]
+  }, {
+    "tStartMs": 386110,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "şeyi getirmek gibi oluyor."
+    } ]
+  }, {
+    "tStartMs": 387400,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "O yüzden siz de çözmeye çalıştığınız"
+    } ]
+  }, {
+    "tStartMs": 389710,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "problemin benzerini çözen bir girişimin"
+    } ]
+  }, {
+    "tStartMs": 392620,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "yaptığı şeyi tırnak içinde"
+    } ]
+  }, {
+    "tStartMs": 394090,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "kopyalayabilirsiniz. Bu dediği asla kötü bir"
+    } ]
+  }, {
+    "tStartMs": 396970,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "şey değil değil. Prevalidasyon ön doğrulama"
+    } ]
+  }, {
+    "tStartMs": 399550,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "aslında. Başkası ön doğrulamışsa, alıp"
+    } ]
+  }, {
+    "tStartMs": 402190,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "kullanıyorsun illa dediğim gibi yani bu da"
+    } ]
+  }, {
+    "tStartMs": 404110,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "şey gibi anlaşılmasın bu aynısını yaptılar,"
+    } ]
+  }, {
+    "tStartMs": 406690,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "hayır değil. O bir özellik ve sen onu kendi"
+    } ]
+  }, {
+    "tStartMs": 409240,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "hedef kitlene zaten yaptığın şeylerin"
+    } ]
+  }, {
+    "tStartMs": 411040,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "yanında bir ek özellik olarak sunuyorsun ve"
+    } ]
+  }, {
+    "tStartMs": 413530,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "bence uygundur yani."
+    } ]
+  }, {
+    "tStartMs": 415650,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Burada ana prensibimiz olan zihniyete de bir"
+    } ]
+  }, {
+    "tStartMs": 418720,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "atıfta bulunalım. Çünkü aynısını yapmak"
+    } ]
+  }, {
+    "tStartMs": 422200,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "değil, daha iyisini yapmak hedefi, daha"
+    } ]
+  }, {
+    "tStartMs": 425800,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "hızlısını yapmak, 10x daha iyisini yapmak"
+    } ]
+  }, {
+    "tStartMs": 428950,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "hedefiyle yola çıkarak ya da o problemi daha"
+    } ]
+  }, {
+    "tStartMs": 432100,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "iyi çözmek, daha akıllı çözmek hedefiyle siz"
+    } ]
+  }, {
+    "tStartMs": 435190,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "bir uygulama veya oyun geliştirebilirsiniz."
+    } ]
+  }, {
+    "tStartMs": 437770,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Evet, aynen öyle. Bu, elindeki kullanıcı ya"
+    } ]
+  }, {
+    "tStartMs": 441730,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "da müşteriyi daha memnun etmek veya yeni"
+    } ]
+  }, {
+    "tStartMs": 445390,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "uyguladığın özelliğin daha iyi"
+    } ]
+  }, {
+    "tStartMs": 448210,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "kullanılabileceği hedef kitlelere gitmek"
+    } ]
+  }, {
+    "tStartMs": 449920,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "gibi alternatif uygulamaları da olabilir."
+    } ]
+  }, {
+    "tStartMs": 452740,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Bu kopyalamanın iyi örneklerinden"
+    } ]
+  }, {
+    "tStartMs": 454600,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "bazılarında konuşabiliriz aslında."
+    } ]
+  }, {
+    "tStartMs": 456490,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Şimdi bu kopyalama yani benim sevdiğim bir"
+    } ]
+  }, {
+    "tStartMs": 458620,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "konu biliyorsun. Kopyalama dediğin zaman"
+    } ]
+  }, {
+    "tStartMs": 461140,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "sanki böyle kötü bir şeymiş gibi"
+    } ]
+  }, {
+    "tStartMs": 462550,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "algılanıyor. Ama bence hiç de kötü bir şey"
+    } ]
+  }, {
+    "tStartMs": 464290,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "değil. Çünkü kopyalamak, birebir kopyalamak"
+    } ]
+  }, {
+    "tStartMs": 466270,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "değil bizim burada söylediğimiz."
+    } ]
+  }, {
+    "tStartMs": 468310,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Örnek vereyim."
+    } ]
+  }, {
+    "tStartMs": 471070,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Çevrimiçi online yemek siparişi veriyorsun."
+    } ]
+  }, {
+    "tStartMs": 474580,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Dünyanın her yerinde bir sürü örneği var ve"
+    } ]
+  }, {
+    "tStartMs": 477310,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "başarılı örnekleri var."
+    } ]
+  }, {
+    "tStartMs": 479300,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Bir başkası gelip de şunun dediği zaman"
+    } ]
+  }, {
+    "tStartMs": 482800,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "tamam, ben de aynı şeyi yapıyorum ama daha"
+    } ]
+  }, {
+    "tStartMs": 485200,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "hızlı yapıyorum. Bu bir aslında farklı bir"
+    } ]
+  }, {
+    "tStartMs": 490030,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "değer. Evet kopyalıyorsun çünkü aynı işi"
+    } ]
+  }, {
+    "tStartMs": 492670,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "yapıyorsun. Ama öyle bir özellik"
+    } ]
+  }, {
+    "tStartMs": 494410,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "getiriyorsun ki belli bir hedef kitlede çok"
+    } ]
+  }, {
+    "tStartMs": 497680,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "daha yüksek memnuniyet yaratıyor."
+    } ]
+  }, {
+    "tStartMs": 499510,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Örnekleri var. Ya da ben sadece spesifik bir"
+    } ]
+  }, {
+    "tStartMs": 504100,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "yemeğin, yani ben sadece asya mutfağı"
+    } ]
+  }, {
+    "tStartMs": 505840,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "yemekleri getiriyorum diyedebiliriz."
+    } ]
+  }, {
+    "tStartMs": 507550,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Evet, aynen. Aslında bu bir işi kopyalamak"
+    } ]
+  }, {
+    "tStartMs": 510160,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "demek değil. Farklı bir yerinden tutmak."
+    } ]
+  }, {
+    "tStartMs": 512860,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Bizim odaklandığımız zihniyet probleminde"
+    } ]
+  }, {
+    "tStartMs": 516040,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "bir işi daha iyi yapmak."
+    } ]
+  }, {
+    "tStartMs": 517420,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Aynen. Dolayısıyla buradaki zihniyet yani"
+    } ]
+  }, {
+    "tStartMs": 519280,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "yeni nesil kafalı olma şuna örnek ya da öyle"
+    } ]
+  }, {
+    "tStartMs": 525390,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "uygulanmış oluyor. Aynı işi yapıyorum diye"
+    } ]
+  }, {
+    "tStartMs": 528060,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "düşünmüyorsun. Ben aynı hedef kitlenin zaten"
+    } ]
+  }, {
+    "tStartMs": 531420,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "çözülen bir problemini daha iyi çözüyorum,"
+    } ]
+  }, {
+    "tStartMs": 534870,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "daha hızlı çözüyorum ya da onun arayıp da"
+    } ]
+  }, {
+    "tStartMs": 538320,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "çok zor bulduğu şeyleri direkt ona"
+    } ]
+  }, {
+    "tStartMs": 540210,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "sağlıyorum gibi örneklendirilebilir yani."
+    } ]
+  }, {
+    "tStartMs": 545200,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Bu dersi istersen burada noktalayalım."
+    } ]
+  }, {
+    "tStartMs": 547750,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Bundan sonra biraz daha hem radikal hem de"
+    } ]
+  }, {
+    "tStartMs": 550840,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "çok da radikal olmayan pivot örneklerini"
+    } ]
+  }, {
+    "tStartMs": 552640,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "konuşalım. Tamam, anlaştık."
+    } ]
+  } ]
+}

@@ -1,0 +1,1165 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 120,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Herkese merhaba. Bu dersimizde yalın kanvas"
+    } ]
+  }, {
+    "tStartMs": 2910,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "konuşacağız. Yalın kanvas, biraz önceki"
+    } ]
+  }, {
+    "tStartMs": 5490,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "derslerde konuştuğumuz problem tanımından"
+    } ]
+  }, {
+    "tStartMs": 9180,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "problem çözüm uyumuna kadarki giden yolda"
+    } ]
+  }, {
+    "tStartMs": 12330,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "yaptıklarımızı aslında anlatma"
+    } ]
+  }, {
+    "tStartMs": 14820,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "yöntemlerinden bir tanesi."
+    } ]
+  }, {
+    "tStartMs": 16350,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Bunun tırnak içinde yalın olmasının"
+    } ]
+  }, {
+    "tStartMs": 19020,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "sebeplerini biraz konuşacağız."
+    } ]
+  }, {
+    "tStartMs": 21480,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Farklı ileri aşamadaki iş planlarından, iş"
+    } ]
+  }, {
+    "tStartMs": 24600,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "modellerinden farkını biraz daha"
+    } ]
+  }, {
+    "tStartMs": 27120,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "bahsedebiliriz. Ve dokuz kutucukdan oluşan"
+    } ]
+  }, {
+    "tStartMs": 30660,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "bu yalın kanvasın aslında her bir"
+    } ]
+  }, {
+    "tStartMs": 32700,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "kutucuğunda ne var, bunları nasıl tanımlamak"
+    } ]
+  }, {
+    "tStartMs": 35070,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "gerekir, burada bunu nasıl hazırlamak"
+    } ]
+  }, {
+    "tStartMs": 37350,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "gerekir, nasıl sunmak gerekir ve oyun ve"
+    } ]
+  }, {
+    "tStartMs": 40110,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "uygulamalara göre farklı dinamikleri nedir?"
+    } ]
+  }, {
+    "tStartMs": 42990,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Örneklerle açıklayacağız, istersen"
+    } ]
+  }, {
+    "tStartMs": 45120,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "başlayalım. Yalın ismi nereden geliyor?"
+    } ]
+  }, {
+    "tStartMs": 47640,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Oradan başlayalım. Tabii. Yalın ismi"
+    } ]
+  }, {
+    "tStartMs": 50370,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "geçmişte sen hatırlamazsın iş planları diye"
+    } ]
+  }, {
+    "tStartMs": 53970,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "benim zamanında böyle kalın kalın dosyalar"
+    } ]
+  }, {
+    "tStartMs": 56700,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "vardı. Şimdi onun yerine tek sayfalık,"
+    } ]
+  }, {
+    "tStartMs": 60300,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "üzerinde birkaç kutudan oluşan çeşitli"
+    } ]
+  }, {
+    "tStartMs": 62070,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "kanvaslar geldi."
+    } ]
+  }, {
+    "tStartMs": 63120,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Bir tanesi de bunların en yaygın olanı da"
+    } ]
+  }, {
+    "tStartMs": 66900,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "ismi üstünde yalın kanvas, yani tek bir"
+    } ]
+  }, {
+    "tStartMs": 68730,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "sayfada 9 kutucukta bütün çözdüğün sorun,"
+    } ]
+  }, {
+    "tStartMs": 73260,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "kimin sorunu, hangi kanaldan ulaşıyorsun,"
+    } ]
+  }, {
+    "tStartMs": 76440,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "maliyetlerin ne, gelirin ne, var olan her"
+    } ]
+  }, {
+    "tStartMs": 78480,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "şeyi, her şeyi tek bir sayfada ifade"
+    } ]
+  }, {
+    "tStartMs": 80310,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "edebildiğin o yüzden de adı yalın olan bir"
+    } ]
+  }, {
+    "tStartMs": 83040,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "sayfa bu. Bunu en basiti ikiye bölerek"
+    } ]
+  }, {
+    "tStartMs": 87930,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "görmeyi, anlamayı, anlatmayı seviyorum ben."
+    } ]
+  }, {
+    "tStartMs": 91010,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "Bu dokuz kutuyu yerleştirip tam ortadan bir"
+    } ]
+  }, {
+    "tStartMs": 94200,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "çizgi çizersen bunun sol tarafında çözüm,"
+    } ]
+  }, {
+    "tStartMs": 99460,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "problem ve çözüm, sağ tarafında da pazar ve"
+    } ]
+  }, {
+    "tStartMs": 103360,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "hedef kitle var. Ama bunun altında mesela"
+    } ]
+  }, {
+    "tStartMs": 105790,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "sağ tarafta gelir var."
+    } ]
+  }, {
+    "tStartMs": 107410,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Pazar ve hedef kitle olduğu için gelir orada"
+    } ]
+  }, {
+    "tStartMs": 109330,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "yazıyor. Sol tarafta çözüm olduğu için gider"
+    } ]
+  }, {
+    "tStartMs": 111730,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "orada yazıyor gibi."
+    } ]
+  }, {
+    "tStartMs": 113380,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "En basit, en sol yukarıdan başlayalım."
+    } ]
+  }, {
+    "tStartMs": 115750,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Okuma düzenine uygun bir şekilde bakmak"
+    } ]
+  }, {
+    "tStartMs": 118120,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "istersek problem kutucuğu var."
+    } ]
+  }, {
+    "tStartMs": 119950,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Problem kutucuğunun içine genellikle büyük"
+    } ]
+  }, {
+    "tStartMs": 123160,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "problemin üç alt problemini yazıyoruz."
+    } ]
+  }, {
+    "tStartMs": 125950,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Daha fazla değil, iki de olabilir, bir"
+    } ]
+  }, {
+    "tStartMs": 129130,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "olmasa iyi olur, iki ya da üç diyelim."
+    } ]
+  }, {
+    "tStartMs": 131230,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Büyük problemin alt problemleri ne demek?"
+    } ]
+  }, {
+    "tStartMs": 133780,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Büyük problemin alt problemleri şu demek."
+    } ]
+  }, {
+    "tStartMs": 135610,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Mesela yine klasik örneğimiz kullanalım, bir"
+    } ]
+  }, {
+    "tStartMs": 140290,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "yerden bir yere gitme ulaşım problemi."
+    } ]
+  }, {
+    "tStartMs": 144940,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Ulaşım problemi çok genel bir problem."
+    } ]
+  }, {
+    "tStartMs": 147460,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "Ulaşım problemini ben biraz daha daraltayım."
+    } ]
+  }, {
+    "tStartMs": 149470,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Şehir içi ulaşım diyeyim mesela."
+    } ]
+  }, {
+    "tStartMs": 152020,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Ya da belli saatlerde, trafiğin çok olduğu"
+    } ]
+  }, {
+    "tStartMs": 156520,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "saatlerde şehir içi ulaşım diyelim, ikisi"
+    } ]
+  }, {
+    "tStartMs": 159820,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "farklı küçük problemcikler."
+    } ]
+  }, {
+    "tStartMs": 161110,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Ama aynı büyük problemin alt problemleri."
+    } ]
+  }, {
+    "tStartMs": 163270,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Bunların yanındaki kutucuğa da çözümleri"
+    } ]
+  }, {
+    "tStartMs": 166960,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "yazacağız. Her birinin kendi çözümünü"
+    } ]
+  }, {
+    "tStartMs": 168520,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "yazacağız. Mesela atıyorum işte taksi yerine"
+    } ]
+  }, {
+    "tStartMs": 172990,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "özel araçların kullanılması çözümünü bir"
+    } ]
+  }, {
+    "tStartMs": 175300,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "tanesine yazacağız, bisikleti belki öbürüne"
+    } ]
+  }, {
+    "tStartMs": 177130,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "yazacağız gibi. Onun cevabı kabaca o."
+    } ]
+  }, {
+    "tStartMs": 180500,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Problem kutucuğunun hemen altında ayrı bir"
+    } ]
+  }, {
+    "tStartMs": 183100,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "kutucuk olarak değil, önemli birkaç satır"
+    } ]
+  }, {
+    "tStartMs": 186430,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "yazıyoruz şu konuda, rekabet konusunda."
+    } ]
+  }, {
+    "tStartMs": 192010,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "İlla bizim çözdüğümüz problemde bizim"
+    } ]
+  }, {
+    "tStartMs": 194110,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "çözümümüzün rakibi olmak zorunda değil ama"
+    } ]
+  }, {
+    "tStartMs": 196120,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "alternatif çözümleri oluyor."
+    } ]
+  }, {
+    "tStartMs": 198490,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Örnek verelim istiyorsan senin sevdiğin bir"
+    } ]
+  }, {
+    "tStartMs": 201130,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "örnek var. Dokuma tezgahlarında hata"
+    } ]
+  }, {
+    "tStartMs": 204100,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "yakalama ile ilgili."
+    } ]
+  }, {
+    "tStartMs": 205360,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Doğru, şöyle ki çok aslında yakından takip"
+    } ]
+  }, {
+    "tStartMs": 209080,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "ettiğimiz Türk bir girişim var."
+    } ]
+  }, {
+    "tStartMs": 210670,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Yeni nesil girişim. Yapay zekayla, dokuma"
+    } ]
+  }, {
+    "tStartMs": 214120,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "tezgahlarında, tekstil atölyelerinde, kumaş"
+    } ]
+  }, {
+    "tStartMs": 217150,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "akarken kamera sistemiyle oradaki aslında"
+    } ]
+  }, {
+    "tStartMs": 220240,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "hataları fark eden bir araç bu dijital araç."
+    } ]
+  }, {
+    "tStartMs": 224230,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Pazara baktığınızda, Googleladığınızda bunun"
+    } ]
+  }, {
+    "tStartMs": 227740,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "benzerini bulamıyorsunuz aslında."
+    } ]
+  }, {
+    "tStartMs": 230350,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Ama bir tane çıkıyor falan."
+    } ]
+  }, {
+    "tStartMs": 231940,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Ya da maksimum 1 tane çıkıyor, çok eski bir"
+    } ]
+  }, {
+    "tStartMs": 233710,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "tane çıkıyor. Ya da başka ülkeden benzer işi"
+    } ]
+  }, {
+    "tStartMs": 236770,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "yapan bir tane benzer iş bulabiliyorsunuz."
+    } ]
+  }, {
+    "tStartMs": 240040,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Ama aslında müşteriye indiğinizde, problem"
+    } ]
+  }, {
+    "tStartMs": 243040,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "doğrulamaya indiğinizde karşılaştığınız bir"
+    } ]
+  }, {
+    "tStartMs": 245800,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "şey var. O da ne?"
+    } ]
+  }, {
+    "tStartMs": 247340,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Aslında bunu insan gözüyle yapıyorlar."
+    } ]
+  }, {
+    "tStartMs": 250690,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Yani nöbetçi işçi dikiyorlar başına."
+    } ]
+  }, {
+    "tStartMs": 253120,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Onlar da bakıyor. Hata olunca durduruyor,"
+    } ]
+  }, {
+    "tStartMs": 256360,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "gidiyor. Tezgahtaki düzeltmeyi yapıyor,"
+    } ]
+  }, {
+    "tStartMs": 259270,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "devam ettiriyor. Şimdi bu bir rakip mi?"
+    } ]
+  }, {
+    "tStartMs": 262150,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Değil ama alternatif bir çözüm."
+    } ]
+  }, {
+    "tStartMs": 264370,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Buna biraz önce hep bahsettiğimiz, hep"
+    } ]
+  }, {
+    "tStartMs": 266590,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "üzerinden gittiğimiz ulaşım örneğinden de"
+    } ]
+  }, {
+    "tStartMs": 268540,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "aslında benzer bir örnek verebiliriz."
+    } ]
+  }, {
+    "tStartMs": 270640,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Biz kaykaylar, bisikletler, motosikletler,"
+    } ]
+  }, {
+    "tStartMs": 273280,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "elektrikli arabalar konuşuyoruz."
+    } ]
+  }, {
+    "tStartMs": 274810,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Ama ulaşımda çok büyük bir rekabet veya"
+    } ]
+  }, {
+    "tStartMs": 278320,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "alternatif çözüm de ne?"
+    } ]
+  }, {
+    "tStartMs": 279850,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Yürümek, yürümek."
+    } ]
+  }, {
+    "tStartMs": 281590,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "Aslında bu herkesin aklına gelmeyen ve bir"
+    } ]
+  }, {
+    "tStartMs": 285640,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "sayfada düşündüğünüz zaman veya bir iş planı"
+    } ]
+  }, {
+    "tStartMs": 287830,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "yaptığınız zaman rakipleri farklı, araba"
+    } ]
+  }, {
+    "tStartMs": 290350,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "şirketleri farklı, motorsiklet şirketleri"
+    } ]
+  }, {
+    "tStartMs": 292510,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "farklı, scooter şirketlerini yazabilirsiniz"
+    } ]
+  }, {
+    "tStartMs": 295120,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "ama yürümeyi genelde düşünmezler."
+    } ]
+  }, {
+    "tStartMs": 299170,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "O yüzden aslında alternatif çözüm alanı da"
+    } ]
+  }, {
+    "tStartMs": 302320,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "çok önemli. Burada kutucuklara da"
+    } ]
+  }, {
+    "tStartMs": 305350,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "ilerlemeden hemen bunun biraz önce"
+    } ]
+  }, {
+    "tStartMs": 308440,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "bahsettiğin, benim hatırlamadığım ve aslında"
+    } ]
+  }, {
+    "tStartMs": 310750,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "kalın iş planlarının aslında yeni nesli, iş"
+    } ]
+  }, {
+    "tStartMs": 315250,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "modeli kanvasları da var."
+    } ]
+  }, {
+    "tStartMs": 317110,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Yalın kanvasla iş modeli kanvasın bir"
+    } ]
+  }, {
+    "tStartMs": 319330,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "farkından bahsedebiliriz."
+    } ]
+  }, {
+    "tStartMs": 321130,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Şimdi iş modeli kanvası, daha önce"
+    } ]
+  }, {
+    "tStartMs": 323080,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "geliştirilmiş bir üniversite çalışması"
+    } ]
+  }, {
+    "tStartMs": 325750,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "sonucu, doktora tezi çalışması sırasında ve"
+    } ]
+  }, {
+    "tStartMs": 329290,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "daha çok mevcut ve belli bir ölçüye gelmiş"
+    } ]
+  }, {
+    "tStartMs": 332110,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "işlerde işe yarayan bir şey."
+    } ]
+  }, {
+    "tStartMs": 334150,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Mesela onun da en basit, en soldaki"
+    } ]
+  }, {
+    "tStartMs": 335890,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "kutucukta iş ortakları yazıyor."
+    } ]
+  }, {
+    "tStartMs": 338290,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Şimdi herhangi bir çözümün ya da bir"
+    } ]
+  }, {
+    "tStartMs": 340780,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "girişimin iş ortağının olabilmesi için"
+    } ]
+  }, {
+    "tStartMs": 342730,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "işinin olması lazım, işinin olması için de"
+    } ]
+  }, {
+    "tStartMs": 345130,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "çözümünün doğrulanmış ve kullanılır hale"
+    } ]
+  }, {
+    "tStartMs": 348820,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "gelmiş olması lazım. O yüzden iş ortaklarını"
+    } ]
+  }, {
+    "tStartMs": 350890,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "boş bırakmak durumunda kalıyorsun eğer çok"
+    } ]
+  }, {
+    "tStartMs": 352870,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "erken aşamadaysan. O yüzden zamanı gelince"
+    } ]
+  }, {
+    "tStartMs": 355510,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "diyoruz. Ondan da konuşacağız."
+    } ]
+  }, {
+    "tStartMs": 358060,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Önce yalın kanvasla başlıyoruz, iş ortakları"
+    } ]
+  }, {
+    "tStartMs": 361330,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "veya başka daha ileri aşamadaki doldurulacak"
+    } ]
+  }, {
+    "tStartMs": 364030,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "kutucuklar yerine problemimizden, problemin"
+    } ]
+  }, {
+    "tStartMs": 368470,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "pazardaki alternatif çözüm yöntemlerinden"
+    } ]
+  }, {
+    "tStartMs": 371110,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "veya rakiplerden bahsediyoruz."
+    } ]
+  }, {
+    "tStartMs": 373090,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "İşin oluşması lazım, iş planında iş"
+    } ]
+  }, {
+    "tStartMs": 376240,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "kanvasını doldurmak için diyoruz."
+    } ]
+  }, {
+    "tStartMs": 378100,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Ve aslında biz yalın kanvastan sonra pazara"
+    } ]
+  }, {
+    "tStartMs": 380830,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "çıkaracağımız ürünle yolda öğrendiğimiz bir"
+    } ]
+  }, {
+    "tStartMs": 383740,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "sürü farklı içgörüyle artık iş modeli"
+    } ]
+  }, {
+    "tStartMs": 387460,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "kanvasını da doldurabilir hale geliyoruz."
+    } ]
+  }, {
+    "tStartMs": 390430,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Burada tabii ki daha sonra konuşacağımız"
+    } ]
+  }, {
+    "tStartMs": 393190,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "validasyonlar, iterasyonlar, yapacağımız"
+    } ]
+  }, {
+    "tStartMs": 395410,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "farklı belki pivotlar, işin yönünü"
+    } ]
+  }, {
+    "tStartMs": 398350,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "değiştireceğimiz hareketler de olabilecek."
+    } ]
+  }, {
+    "tStartMs": 401830,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "Problem kutucuğunu aslında doldurduk."
+    } ]
+  }, {
+    "tStartMs": 404410,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Alternatif çözümlerden bahsettik,"
+    } ]
+  }, {
+    "tStartMs": 406220,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "rakiplerden bahsettik."
+    } ]
+  }, {
+    "tStartMs": 407860,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Daha sonra neyi dolduruyoruz? Yanındaki"
+    } ]
+  }, {
+    "tStartMs": 409270,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "kutuya geçiyoruz. Hemen sağa doğru okuma"
+    } ]
+  }, {
+    "tStartMs": 411520,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "düzeninde çözüm kutucuğu."
+    } ]
+  }, {
+    "tStartMs": 413860,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Bu arada demin önemli ve güzel bir şey"
+    } ]
+  }, {
+    "tStartMs": 415420,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "söyledin, onu ben parantez içine koymak"
+    } ]
+  }, {
+    "tStartMs": 417160,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "istiyorum. Bu kanvaslar, her zaman yaşayan"
+    } ]
+  }, {
+    "tStartMs": 420370,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "dökümanlar. Yani değişiyor."
+    } ]
+  }, {
+    "tStartMs": 422650,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Zaten değişim biliyorsun erken aşama"
+    } ]
+  }, {
+    "tStartMs": 425110,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "girişimlerin, hatta yeni nesil girişimlerin"
+    } ]
+  }, {
+    "tStartMs": 427570,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "çoğunun olmazsa olmazı değişim var."
+    } ]
+  }, {
+    "tStartMs": 431140,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Yani ya pazarda değişim var, ya çözümde"
+    } ]
+  }, {
+    "tStartMs": 433300,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "değişim var ya hedef kitlede bir şeyler"
+    } ]
+  }, {
+    "tStartMs": 435610,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "değişiyor. Dolayısıyla döküman da değişiyor,"
+    } ]
+  }, {
+    "tStartMs": 437230,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "versiyonları oluyor."
+    } ]
+  }, {
+    "tStartMs": 439090,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Çözümü hemen yanına koymamızın nedeni hani"
+    } ]
+  }, {
+    "tStartMs": 442390,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "üç tane maksimum koyalım dedik ya problem"
+    } ]
+  }, {
+    "tStartMs": 444910,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "onların yanına yazıyoruz. Birinci problemin"
+    } ]
+  }, {
+    "tStartMs": 446590,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "çözümü şu işte kaykay, ikincinin çözümü"
+    } ]
+  }, {
+    "tStartMs": 449170,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "bisiklet. Üçüncünün çözümü elektrikli araç"
+    } ]
+  }, {
+    "tStartMs": 451250,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "gibi koyuyoruz. Çok basite indirgedim tabi."
+    } ]
+  }, {
+    "tStartMs": 455080,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Ondan sonra da hemen altına bunun bir"
+    } ]
+  }, {
+    "tStartMs": 457840,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "kutucuk daha koyuyoruz, o kutucuğa da kaç"
+    } ]
+  }, {
+    "tStartMs": 460390,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "oldu sorusunun cevabını yazıyorsun."
+    } ]
+  }, {
+    "tStartMs": 462250,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Kaç oldu ne demek."
+    } ]
+  }, {
+    "tStartMs": 463290,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "Şimdi uyum bakıyorsan mesela ne uyum"
+    } ]
+  }, {
+    "tStartMs": 465880,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "bakıyorsun, problem çözüm uyum bakıyorsun."
+    } ]
+  }, {
+    "tStartMs": 467690,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "Nasıl bakıyorsun, laç kişiye gösterdin, kaç"
+    } ]
+  }, {
+    "tStartMs": 470320,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "kişi yüzüne bile bakmadı, kaç kişiye"
+    } ]
+  }, {
+    "tStartMs": 472150,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "gösterdin, kaç kişi yüzüne baktı ama"
+    } ]
+  }, {
+    "tStartMs": 474280,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "ilerlemedi. Kaç kişi biraz kullandı bir daha"
+    } ]
+  }, {
+    "tStartMs": 476860,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "geri gelmedi, işte bunların sayılarının"
+    } ]
+  }, {
+    "tStartMs": 478990,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "yazdığı İngilizcesi KPI dediğimiz key"
+    } ]
+  }, {
+    "tStartMs": 484090,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "performance indicator yani kilit metrikler,"
+    } ]
+  }, {
+    "tStartMs": 488710,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "kilit ölçüler yani işinle ilgili neleri"
+    } ]
+  }, {
+    "tStartMs": 491470,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "sayıyorsan onları hemen şeyin altına"
+    } ]
+  }, {
+    "tStartMs": 494800,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "yazıyorsun, çözümün altına yazıyorsun ki"
+    } ]
+  }, {
+    "tStartMs": 497560,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "çözümü doğrularken ya da sonraki adımlara"
+    } ]
+  }, {
+    "tStartMs": 500860,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "geçerken yönünü kaybetme."
+    } ]
+  }, {
+    "tStartMs": 504950,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "Problem ve çözüm kutucuklarını aslında biraz"
+    } ]
+  }, {
+    "tStartMs": 507940,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "konuştuk ama aslında kanvasımız yoğun bir"
+    } ]
+  }, {
+    "tStartMs": 511090,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "kanvas. Diğer kutucukları da bir sonraki"
+    } ]
+  }, {
+    "tStartMs": 513700,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "derste konuşalım, olur mu? Okay anlaştık."
+    } ]
+  } ]
+}

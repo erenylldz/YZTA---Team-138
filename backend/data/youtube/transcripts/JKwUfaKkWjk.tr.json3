@@ -1,0 +1,1363 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 90,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Tekrar merhaba. Bu dersimizde bir önceki"
+    } ]
+  }, {
+    "tStartMs": 2700,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "dersimizde konuştuğumuzun devamı olarak"
+    } ]
+  }, {
+    "tStartMs": 5970,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "bütçe yönetiminde yatırımı aldıktan sonra"
+    } ]
+  }, {
+    "tStartMs": 8250,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "nerelere kullanabiliriz?"
+    } ]
+  }, {
+    "tStartMs": 9810,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Hangi kalemlere bakabiliriz, hangi"
+    } ]
+  }, {
+    "tStartMs": 11250,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "metrikleri sürekli olarak incelememiz"
+    } ]
+  }, {
+    "tStartMs": 13320,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "gerekiyor? Ne noktada kendimizi daha az"
+    } ]
+  }, {
+    "tStartMs": 15600,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "kaldırmamız gerekiyor?"
+    } ]
+  }, {
+    "tStartMs": 17220,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Biraz bunları konuşmuştuk."
+    } ]
+  }, {
+    "tStartMs": 19020,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Şimdi de aslında bütçe yönetiminin aslında"
+    } ]
+  }, {
+    "tStartMs": 21810,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "masraflarımızın giderlerimizin en büyük"
+    } ]
+  }, {
+    "tStartMs": 24960,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "bölümü olan çalışanlarla devam edelim"
+    } ]
+  }, {
+    "tStartMs": 26730,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "istersen. Bütçenin ne kadarı çalışanlara"
+    } ]
+  }, {
+    "tStartMs": 29730,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "ayrılıyor, nasıl yönetiliyor biraz"
+    } ]
+  }, {
+    "tStartMs": 31800,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "dinleyelim. Pitching'de şunu konuşmuştuk."
+    } ]
+  }, {
+    "tStartMs": 35280,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Parayı nasıl kullanacaksın sorusunun"
+    } ]
+  }, {
+    "tStartMs": 37050,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "cevabını koy demiştik hatırlarsan."
+    } ]
+  }, {
+    "tStartMs": 40440,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Ve nasıl demiştik orda, işte maaşlara şu"
+    } ]
+  }, {
+    "tStartMs": 43890,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "kadar harcayacağım demek yerine ürün"
+    } ]
+  }, {
+    "tStartMs": 46470,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "geliştirmeye bu kadar harcayacağım, satışa"
+    } ]
+  }, {
+    "tStartMs": 49740,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "bu kadar harcayacağım, pazarlamaya bu kadar"
+    } ]
+  }, {
+    "tStartMs": 51750,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "harcayacağım de ve bunun içinde insanlara"
+    } ]
+  }, {
+    "tStartMs": 55230,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "verdiğim maaş, prim vesaire gibi şeyleri"
+    } ]
+  }, {
+    "tStartMs": 58050,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "ayrıca göster demiştik."
+    } ]
+  }, {
+    "tStartMs": 59580,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Şimdi oradan hareketle istiyorsan başlık"
+    } ]
+  }, {
+    "tStartMs": 62340,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "başlık gidelim. Ürün tarafı en kolay."
+    } ]
+  }, {
+    "tStartMs": 64920,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Çünkü üründe bir insanlara verdiğin maaş ve"
+    } ]
+  }, {
+    "tStartMs": 68430,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "diğer parasal değerler var."
+    } ]
+  }, {
+    "tStartMs": 70770,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Onların masrafları var."
+    } ]
+  }, {
+    "tStartMs": 72480,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Yemekti şuydu buydu falan gibi."
+    } ]
+  }, {
+    "tStartMs": 74050,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "Artı onların kullandığı altyapıların"
+    } ]
+  }, {
+    "tStartMs": 77160,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "masrafları var."
+    } ]
+  }, {
+    "tStartMs": 78210,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Örneğin işte bulut kiraları falan gibi ya da"
+    } ]
+  }, {
+    "tStartMs": 82020,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "başka işte bilgisayar şuydu buydu."
+    } ]
+  }, {
+    "tStartMs": 83820,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Onların bir kısmı bir kerelik masraflar, bir"
+    } ]
+  }, {
+    "tStartMs": 86520,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "kısmı tekrarlanan ve hatta kullanıma göre"
+    } ]
+  }, {
+    "tStartMs": 91410,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "artan ya da azalan masraflar."
+    } ]
+  }, {
+    "tStartMs": 92970,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Bunu baya dikkatli planlamak gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 96630,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Maaş nispeten hani en azından bir yıl"
+    } ]
+  }, {
+    "tStartMs": 100080,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "değilse bile altı ay aynı kalacak olan bir"
+    } ]
+  }, {
+    "tStartMs": 103470,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "masraf ama diyelim ki ürün gelişti, büyüdü,"
+    } ]
+  }, {
+    "tStartMs": 106950,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "hızla kullanım arttı."
+    } ]
+  }, {
+    "tStartMs": 108030,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Senin bulut giderlerin artabilir ya da"
+    } ]
+  }, {
+    "tStartMs": 110280,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "eleman sayısı arttı."
+    } ]
+  }, {
+    "tStartMs": 111980,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "Onları maaşı ve onların bilgisayarları, şusu"
+    } ]
+  }, {
+    "tStartMs": 115290,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "busu artabilir. Onun için buna dikkat etmek"
+    } ]
+  }, {
+    "tStartMs": 118200,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "kaydıyla ürün geliştirme nispeten kolay"
+    } ]
+  }, {
+    "tStartMs": 120930,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "olanı. Şimdi satış şöyle göreceli olarak"
+    } ]
+  }, {
+    "tStartMs": 124890,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "kolay çünkü en kolay dönüş hesabı orada."
+    } ]
+  }, {
+    "tStartMs": 128580,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Ne demek dönüş hesabı?"
+    } ]
+  }, {
+    "tStartMs": 129660,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Sen bir maaş veriyorsun, iki prim veriyorsun"
+    } ]
+  }, {
+    "tStartMs": 131640,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "satıcıya çok standart."
+    } ]
+  }, {
+    "tStartMs": 133650,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Oradan satış geri dönüşüne orantılı prim"
+    } ]
+  }, {
+    "tStartMs": 137010,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "veriyorsun. Burada eğer nakit akışı, yani o"
+    } ]
+  }, {
+    "tStartMs": 140010,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "satışın geri dönüşü ya da churn'ü"
+    } ]
+  }, {
+    "tStartMs": 144060,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "hesaplayarak yapıyorsan prim ödemesini ya da"
+    } ]
+  }, {
+    "tStartMs": 146310,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "hesaplamasını problem yok."
+    } ]
+  }, {
+    "tStartMs": 148110,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Ama sattığı anda primi veriyorsan bir"
+    } ]
+  }, {
+    "tStartMs": 150510,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "problem, churn'ü hesaba katmadan prim"
+    } ]
+  }, {
+    "tStartMs": 153090,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "veriyorsan bir problem."
+    } ]
+  }, {
+    "tStartMs": 154590,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Örneğin bir satış yaptı bir satıcı bir ay"
+    } ]
+  }, {
+    "tStartMs": 157980,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "sonra ödedin onun primini ve toplam bir"
+    } ]
+  }, {
+    "tStartMs": 160200,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "yıllık getiri üzerinden dedin."
+    } ]
+  }, {
+    "tStartMs": 161970,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Bu yanlış. Çünkü ikinci ayda churn ederse"
+    } ]
+  }, {
+    "tStartMs": 164460,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "şirket zarara girer bundan."
+    } ]
+  }, {
+    "tStartMs": 166740,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Bu arada bunun bitiminde zarar kar konusunda"
+    } ]
+  }, {
+    "tStartMs": 170070,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "konuşacağız sanırım."
+    } ]
+  }, {
+    "tStartMs": 172770,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Dolayısıyla nispeten satışta ürün kadar"
+    } ]
+  }, {
+    "tStartMs": 175320,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "değilse bile kolay."
+    } ]
+  }, {
+    "tStartMs": 177540,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "En hesaplaması sürprizli olabilecek olan, zor"
+    } ]
+  }, {
+    "tStartMs": 181830,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "demeyeceğim, sürprizli olabilecek olansa"
+    } ]
+  }, {
+    "tStartMs": 184080,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "pazarlama. Niye pazarlama?"
+    } ]
+  }, {
+    "tStartMs": 185460,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Çünkü parayı harcayan onlar."
+    } ]
+  }, {
+    "tStartMs": 187380,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Evet, parayı harcayan onlar."
+    } ]
+  }, {
+    "tStartMs": 189150,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Özellikle dijital pazarlama yapıyorsan, bu"
+    } ]
+  }, {
+    "tStartMs": 192300,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "oyun bambaşka bir oyun."
+    } ]
+  }, {
+    "tStartMs": 194780,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Dijital pazarlamada maaş en küçük bileşen,"
+    } ]
+  }, {
+    "tStartMs": 199940,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "harcadığın özellikle paid marketing"
+    } ]
+  }, {
+    "tStartMs": 203360,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "dediğimiz reklam açık kaldığı sürece"
+    } ]
+  }, {
+    "tStartMs": 206300,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "ödediğin para en büyük kalem."
+    } ]
+  }, {
+    "tStartMs": 208820,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Orada çok ciddi metrik lazım."
+    } ]
+  }, {
+    "tStartMs": 211010,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "O metriğin adı reklama harcanan paranın geri"
+    } ]
+  }, {
+    "tStartMs": 214730,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "dönüşü. Yani ROAS, return on advertising"
+    } ]
+  }, {
+    "tStartMs": 218660,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "spend. Reklamda harcanan paranın geri"
+    } ]
+  }, {
+    "tStartMs": 221240,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "dönüşü. Şimdi bu çok kritik."
+    } ]
+  }, {
+    "tStartMs": 223640,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Diyelim ki basit bir örnek olsun oyun veya"
+    } ]
+  }, {
+    "tStartMs": 227840,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "herhangi bir uygulama, burada da yine basit"
+    } ]
+  }, {
+    "tStartMs": 230360,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "olsun diye kullanıcı müşteri oluyor."
+    } ]
+  }, {
+    "tStartMs": 233600,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "O müşteri aylık para ödüyor olsun."
+    } ]
+  }, {
+    "tStartMs": 236090,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "Ve bunun ortalama içerde kaldığı ay süresi"
+    } ]
+  }, {
+    "tStartMs": 238500,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "de altı ay olsun. Ne oldu life time value"
+    } ]
+  }, {
+    "tStartMs": 241160,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "senin yaşam boyu değerin 6 çarpı 1 aylık"
+    } ]
+  }, {
+    "tStartMs": 245480,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "gelir oldu."
+    } ]
+  }, {
+    "tStartMs": 247120,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Şimdi diyelim ki o da 6 lira olsun."
+    } ]
+  }, {
+    "tStartMs": 251290,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Şimdi eğer sen bu 6 lira ortalamada 6 lira"
+    } ]
+  }, {
+    "tStartMs": 254050,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "ödeyecek olan müşteri kullanıcı müşteriyi 1"
+    } ]
+  }, {
+    "tStartMs": 258190,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "liraya alıyorsan mükemmel."
+    } ]
+  }, {
+    "tStartMs": 260350,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "Niye, 6 katı para kazandırır."
+    } ]
+  }, {
+    "tStartMs": 261860,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Varını yoğunu o reklama koyabilir demiştik."
+    } ]
+  }, {
+    "tStartMs": 265030,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Biz iki bile okay diyoruz 2'ye alıp 6"
+    } ]
+  }, {
+    "tStartMs": 267880,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "getiriyorsa ama mesela 6 liraysa büyük"
+    } ]
+  }, {
+    "tStartMs": 270280,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "problem. Çünkü o aslında zarar ediyorsun"
+    } ]
+  }, {
+    "tStartMs": 272920,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "demek. Yani bu işlemden zarar ediyorsun"
+    } ]
+  }, {
+    "tStartMs": 275620,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "demek. Yani burada şöyle bir şey gözden"
+    } ]
+  }, {
+    "tStartMs": 277720,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "kaçıyor. O yüzden doğası önemli."
+    } ]
+  }, {
+    "tStartMs": 280570,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "Bir de organik gelenler var."
+    } ]
+  }, {
+    "tStartMs": 282010,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Yani senin para harcamadan gelenler."
+    } ]
+  }, {
+    "tStartMs": 283810,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Nereden geliyor bunlar? İçerik pazarlamada"
+    } ]
+  }, {
+    "tStartMs": 286600,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "content marketing'den geliyor, referal'den"
+    } ]
+  }, {
+    "tStartMs": 288940,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "geliyor, tavsiye üzerine geliyor."
+    } ]
+  }, {
+    "tStartMs": 290920,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "İşte eşten, dosttan, arkadaştan ya da"
+    } ]
+  }, {
+    "tStartMs": 293920,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "geleneksel medyada çıkan haberlerden vesaire"
+    } ]
+  }, {
+    "tStartMs": 296350,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "geliyor. Bunları da eklendiğinde"
+    } ]
+  }, {
+    "tStartMs": 297910,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "harmanlanmış gelir var."
+    } ]
+  }, {
+    "tStartMs": 301510,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Toplam işte diyelim ki 10 kişi geldi ama"
+    } ]
+  }, {
+    "tStartMs": 304510,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "bunun dördü reklamdan, 6'sı organik geldi."
+    } ]
+  }, {
+    "tStartMs": 307990,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Öyle düşünmemek lazım."
+    } ]
+  }, {
+    "tStartMs": 309280,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "Yani harmanlanmış ya da blended, maliyet ve"
+    } ]
+  }, {
+    "tStartMs": 313450,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "onun gelirine bakarsan çok yanıltıcı"
+    } ]
+  }, {
+    "tStartMs": 315370,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "olabilir. Çünkü niye içerikten ya da diğer"
+    } ]
+  }, {
+    "tStartMs": 319450,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "kanallardan gelenler zaman içinde artan"
+    } ]
+  }, {
+    "tStartMs": 322450,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "gelirler, paralı reklam ise sürekli reklam"
+    } ]
+  }, {
+    "tStartMs": 326890,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "olduğu sürece gelen."
+    } ]
+  }, {
+    "tStartMs": 328640,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Onu kestiği anda bir anda giderlerin çok"
+    } ]
+  }, {
+    "tStartMs": 331540,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "ortaya çıkabilir. Onun için onu kesmemek"
+    } ]
+  }, {
+    "tStartMs": 334060,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "lazım. Özellikle ürün pazar uyumu aradığın"
+    } ]
+  }, {
+    "tStartMs": 336640,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "sıralarda artık reklama harcayacağım para"
+    } ]
+  }, {
+    "tStartMs": 339190,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "bence gayet uygun bir para, mübah bir para"
+    } ]
+  }, {
+    "tStartMs": 342670,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "yani. Onu harcamalısın ki ROAS'ını takip"
+    } ]
+  }, {
+    "tStartMs": 346870,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "ederek ne zaman, nereye, ne kadar, hangi"
+    } ]
+  }, {
+    "tStartMs": 349270,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "kanala ne kadar para harcıyorsun ve onun"
+    } ]
+  }, {
+    "tStartMs": 351010,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "sana geri dönüşü, life time value'su ne"
+    } ]
+  }, {
+    "tStartMs": 354430,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "kadarı takip etmen lazım."
+    } ]
+  }, {
+    "tStartMs": 356080,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "O yüzden bütün bunları sağlarsak sonuçta"
+    } ]
+  }, {
+    "tStartMs": 358480,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "pazarlama bütçesine ROAS merkezli yine"
+    } ]
+  }, {
+    "tStartMs": 361960,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "tekrar ediyorum bu ürün pazar uyumu"
+    } ]
+  }, {
+    "tStartMs": 364510,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "aşamasıyla ya da ölçek aşamasıyla geçerli"
+    } ]
+  }, {
+    "tStartMs": 367150,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "tabii. O zaman buna dayandıracaksın ve"
+    } ]
+  }, {
+    "tStartMs": 370060,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "paranın en büyüğü de büyük olasılıkla oraya"
+    } ]
+  }, {
+    "tStartMs": 371860,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "gidecek. Ama en çok geri dönüş de orada"
+    } ]
+  }, {
+    "tStartMs": 374140,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "olacak. Burada dediğin çok önemli bir şey"
+    } ]
+  }, {
+    "tStartMs": 376660,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "var. ROAS odaklı gidince aslında ne"
+    } ]
+  }, {
+    "tStartMs": 379300,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "getirdiğini de bilerek gidiyorsun."
+    } ]
+  }, {
+    "tStartMs": 381250,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Sadece harcama değil, ne getirdiğini de"
+    } ]
+  }, {
+    "tStartMs": 383290,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "hesaplayan bir konumda oluyorsun."
+    } ]
+  }, {
+    "tStartMs": 385120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "O zaman zaten kesmen mantıksız oluyor."
+    } ]
+  }, {
+    "tStartMs": 388660,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Senin o eğer paran varsa sürekli olarak"
+    } ]
+  }, {
+    "tStartMs": 391390,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "oraya ayırdığım bir bütçe kalemi var ve"
+    } ]
+  }, {
+    "tStartMs": 393520,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "orayı sürekli optimize etmeye çalıştığında"
+    } ]
+  }, {
+    "tStartMs": 395770,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "bir pazarlama ekibin umarız vardır diye"
+    } ]
+  }, {
+    "tStartMs": 400090,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "düşünüyoruz. Dediğin gibi çalışan kısmını"
+    } ]
+  }, {
+    "tStartMs": 403030,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "aslında bayağı bi ürün tarafında tabii ki"
+    } ]
+  }, {
+    "tStartMs": 405670,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "designer'lar da var."
+    } ]
+  }, {
+    "tStartMs": 407050,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Çünkü oyun tarafında ürün çok daha gelişmiş"
+    } ]
+  }, {
+    "tStartMs": 409600,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "hem geliştiriciler hem designer'lar,"
+    } ]
+  }, {
+    "tStartMs": 411970,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "tasarımcılar, ürün yöneticileri belki buraya"
+    } ]
+  }, {
+    "tStartMs": 415090,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "girebilir. Yani ürünle alakalı olan aslında"
+    } ]
+  }, {
+    "tStartMs": 418480,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "her title, her kişi burada olabilir."
+    } ]
+  }, {
+    "tStartMs": 423050,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Satış ve pazarlama diye ayrılıyor kurucu"
+    } ]
+  }, {
+    "tStartMs": 425320,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "ortaklar bir yerde, belki asistan level'ında"
+    } ]
+  }, {
+    "tStartMs": 429700,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "bir back office dediğimiz kişiler, ofisin"
+    } ]
+  }, {
+    "tStartMs": 433390,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "idaresi veya kültür, İK gibi aslında"
+    } ]
+  }, {
+    "tStartMs": 438640,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "ikincil önemi taşıyan bu aşamalarda ölçek"
+    } ]
+  }, {
+    "tStartMs": 442060,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "aşamasında tabii ki çok önemli ve birincile"
+    } ]
+  }, {
+    "tStartMs": 444640,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "çıkacaktır. Ancak büyüme aşamasında bu tarz"
+    } ]
+  }, {
+    "tStartMs": 449830,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "destek fonksiyonlarını birincil saymamak,"
+    } ]
+  }, {
+    "tStartMs": 452140,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "hatta belki dışarıdan kullanmak gerekebilir."
+    } ]
+  }, {
+    "tStartMs": 454270,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Evet, aynen öyle. Bu önemli bir şey"
+    } ]
+  }, {
+    "tStartMs": 455920,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "söyledin. Dışarıdan kaynak kullanmak, hizmet"
+    } ]
+  }, {
+    "tStartMs": 458890,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "olarak almak çoğu zaman çok uygun seçim"
+    } ]
+  }, {
+    "tStartMs": 461350,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "oluyor. Neden? Çünkü ihtiyacın oldukça"
+    } ]
+  }, {
+    "tStartMs": 463360,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "kullanıyorsun. Belki pahalıya geliyor."
+    } ]
+  }, {
+    "tStartMs": 465310,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Yani işe alsaydın birini daha ucuza"
+    } ]
+  }, {
+    "tStartMs": 467170,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "geliyormuş gibi olacaktı."
+    } ]
+  }, {
+    "tStartMs": 468460,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Ama sürekli kullanmadığı zaman daha pahalıya"
+    } ]
+  }, {
+    "tStartMs": 470950,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "gelecektir. Onun için ölçek aşaması bir sürü"
+    } ]
+  }, {
+    "tStartMs": 473620,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "şeyin çok değiştiği bir aşama."
+    } ]
+  }, {
+    "tStartMs": 475850,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Hemen böyle bir birkaç ipucu verelim orada,"
+    } ]
+  }, {
+    "tStartMs": 479530,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "o da nedir? Çalışan sayısı genellikle 50"
+    } ]
+  }, {
+    "tStartMs": 482740,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "civarına gelip onun üstüne çıktığı zaman"
+    } ]
+  }, {
+    "tStartMs": 484630,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "artık bütün dinamik değişiyor."
+    } ]
+  }, {
+    "tStartMs": 486920,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Bu sefer ara yönetici kavramı giriyor,"
+    } ]
+  }, {
+    "tStartMs": 489670,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "asistan kavramı giriyor."
+    } ]
+  }, {
+    "tStartMs": 491230,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Destek işlevleri kavramı giriyor."
+    } ]
+  }, {
+    "tStartMs": 493520,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Dolayısıyla üç kişinin yaptığı, üç kişinin"
+    } ]
+  }, {
+    "tStartMs": 496870,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "oluşturduğu bir departmanın bir kişi başına"
+    } ]
+  }, {
+    "tStartMs": 499030,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "maliyeti ile 30 kişinin oluştuğu departman"
+    } ]
+  }, {
+    "tStartMs": 501940,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "kişi başına maliyeti çok farklı oluyor."
+    } ]
+  }, {
+    "tStartMs": 504400,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Overhead dediğimiz fazladan normalde üç"
+    } ]
+  }, {
+    "tStartMs": 507340,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "kişilik organizasyonun harcamayacağı paralar"
+    } ]
+  }, {
+    "tStartMs": 509560,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "harcanmaya başlıyor ve bir de tabii maaştan"
+    } ]
+  }, {
+    "tStartMs": 512350,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "ibaret değil ya bireye verdiğin para, o da"
+    } ]
+  }, {
+    "tStartMs": 515770,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "son derece kritik. Onun için burada"
+    } ]
+  }, {
+    "tStartMs": 518920,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "söylediklerimizin hepsi hangi aşamada"
+    } ]
+  }, {
+    "tStartMs": 521680,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "olduğuna göre farklılık gösterecektir."
+    } ]
+  }, {
+    "tStartMs": 525040,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Biz genellikle o aşamayı belirterek"
+    } ]
+  }, {
+    "tStartMs": 526750,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "anlatmaya çalışıyoruz."
+    } ]
+  }, {
+    "tStartMs": 528130,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Ama her zaman bu soruyu kendisine sorması"
+    } ]
+  }, {
+    "tStartMs": 530260,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "lazım girişimcinin. Ben hangi aşamadayım,"
+    } ]
+  }, {
+    "tStartMs": 532690,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "şimdi burada birisini mi alsam yoksa ben mi"
+    } ]
+  }, {
+    "tStartMs": 535030,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "biraz fazla çalışsam ya da dış kaynak mı"
+    } ]
+  }, {
+    "tStartMs": 537370,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "kullansam diye sorması lazım."
+    } ]
+  }, {
+    "tStartMs": 539650,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Burada çok önemli bir şeyden bahsettin biraz"
+    } ]
+  }, {
+    "tStartMs": 541930,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "önce. O da aslında çalışanın maliyeti sadece"
+    } ]
+  }, {
+    "tStartMs": 545320,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "maaşı değil. Özellikle MVP aşamasında ve"
+    } ]
+  }, {
+    "tStartMs": 550070,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "ürün pazar uyumu aşamasında böyle bir algı da"
+    } ]
+  }, {
+    "tStartMs": 553070,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "var. Ama işte o kişinin en verimli"
+    } ]
+  }, {
+    "tStartMs": 556520,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "çalışmasını sağlayacak ortamı sağlamak,"
+    } ]
+  }, {
+    "tStartMs": 558890,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "belki ofis giderleri, belki işte"
+    } ]
+  }, {
+    "tStartMs": 560720,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "sandalyeler, masalar, ekranlar, belki işte"
+    } ]
+  }, {
+    "tStartMs": 564140,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "zaten çalışmanın ana unsuru olan"
+    } ]
+  }, {
+    "tStartMs": 566870,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "bilgisayarlar, teknolojik ekipmanlar"
+    } ]
+  }, {
+    "tStartMs": 569060,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "vesaire. Bunları da aslında harmanlanmış"
+    } ]
+  }, {
+    "tStartMs": 573020,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "düşünmek gerekiyor kişinin maliyetini"
+    } ]
+  }, {
+    "tStartMs": 575510,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "düşünürken."
+    } ]
+  }, {
+    "tStartMs": 576840,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "Çalışan kısmını aslında bitirmek üzereyiz bu"
+    } ]
+  }, {
+    "tStartMs": 580220,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "derste ama bir sonraki derste şununla"
+    } ]
+  }, {
+    "tStartMs": 582320,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "başlayalım istersen. O da ciro ve çalışan"
+    } ]
+  }, {
+    "tStartMs": 587300,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "eşleşmesini nasıl kontrol edeceğimiz."
+    } ]
+  }, {
+    "tStartMs": 589100,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Evet, ve bunun oranının bize ne"
+    } ]
+  }, {
+    "tStartMs": 591470,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "söyleyeceğinden bir sonraki derste"
+    } ]
+  }, {
+    "tStartMs": 592940,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "bahsedelim. Tabii bunda ayrıca şey bağlamına"
+    } ]
+  }, {
+    "tStartMs": 595100,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "koyalım. Demin söylediğim karlılık mı,"
+    } ]
+  }, {
+    "tStartMs": 598400,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "büyüme mi bağlamına koyalım."
+    } ]
+  }, {
+    "tStartMs": 600710,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Oradan devam edelim."
+    } ]
+  } ]
+}

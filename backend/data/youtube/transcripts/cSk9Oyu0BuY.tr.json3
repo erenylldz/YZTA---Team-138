@@ -1,0 +1,1675 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 540,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Tekrar merhaba. Bu dersimizde ölçeklenme"
+    } ]
+  }, {
+    "tStartMs": 4560,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "aşamasındaki girişimlerin metriklerine"
+    } ]
+  }, {
+    "tStartMs": 6480,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "bakacağız. Bir önceki derslerimizde aslında"
+    } ]
+  }, {
+    "tStartMs": 10350,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "fikir aşamasından MVP'ye ve daha sonra da"
+    } ]
+  }, {
+    "tStartMs": 13020,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "ürün pazar uyumu aşamalarına kadar devam"
+    } ]
+  }, {
+    "tStartMs": 15960,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "etmiştik. Buradaki metriklere odaklanmıştık."
+    } ]
+  }, {
+    "tStartMs": 18610,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "Ölçeklenme aslında scale up diye de tabir"
+    } ]
+  }, {
+    "tStartMs": 22440,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "edebileceğimiz artık büyümeye geçmiş bir"
+    } ]
+  }, {
+    "tStartMs": 25800,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "girişim demek. Nerelere bakmak lazım burada"
+    } ]
+  }, {
+    "tStartMs": 28260,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Ömer abi?"
+    } ]
+  }, {
+    "tStartMs": 29370,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Şimdi büyüme tabii her zaman olan bir şey."
+    } ]
+  }, {
+    "tStartMs": 31290,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Deminde konuştuk ya bir önceki derste"
+    } ]
+  }, {
+    "tStartMs": 34290,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "haftalık yüzde 7 büyüme hedefini koy falan"
+    } ]
+  }, {
+    "tStartMs": 36720,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "diye. Büyüme zaten hep olması gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 39850,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Burada çok kritik bir viraj ya da eşikteyiz"
+    } ]
+  }, {
+    "tStartMs": 43470,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "diyelim. Ölçeklenme aşamasına gelmiş bir"
+    } ]
+  }, {
+    "tStartMs": 46440,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "girişim büyük olasılıkla yeni bir yatırım"
+    } ]
+  }, {
+    "tStartMs": 48540,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "almıştır. Şart değil ama almış olunması"
+    } ]
+  }, {
+    "tStartMs": 51270,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "ihtimali yüksek. Nedeni de şu büyümeyi daha"
+    } ]
+  }, {
+    "tStartMs": 54420,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "da hızlandırıp artık pazar payını ve başka"
+    } ]
+  }, {
+    "tStartMs": 57480,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "pazarlara açılmayı hedeflemesi lazım."
+    } ]
+  }, {
+    "tStartMs": 59880,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Bu son derece kritik o yüzden yani aslında"
+    } ]
+  }, {
+    "tStartMs": 63510,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "ürün pazar uyumunu yakaladıysan büyük"
+    } ]
+  }, {
+    "tStartMs": 65100,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "ihtimalle karlılığı da yakalama ihtimali"
+    } ]
+  }, {
+    "tStartMs": 66840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "var. Karlı olmasam bile bu break even"
+    } ]
+  }, {
+    "tStartMs": 69330,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "dediğimiz gelirle gideri dengelendiği bir"
+    } ]
+  }, {
+    "tStartMs": 71460,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "aşamaya gelmiş oluyor genellikle girişim."
+    } ]
+  }, {
+    "tStartMs": 73680,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Ama bu bir sonraki aşamaya, yani başka"
+    } ]
+  }, {
+    "tStartMs": 75960,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "pazarlar ve pazar payında lider olmayı"
+    } ]
+  }, {
+    "tStartMs": 80070,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "sağlamıyor, sağlayamıyor genellikle, özel"
+    } ]
+  }, {
+    "tStartMs": 82920,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "durumda sağlanabilir."
+    } ]
+  }, {
+    "tStartMs": 84300,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "O zaman ne yapması gerekiyor?"
+    } ]
+  }, {
+    "tStartMs": 86160,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Ekstra kaynak gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 87810,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "O kaynakları kullanarak da büyüme hızını"
+    } ]
+  }, {
+    "tStartMs": 90780,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "düşürmeden yeni pazarlara açılıp üründe yeni"
+    } ]
+  }, {
+    "tStartMs": 96120,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "geliştirmeleri yapabilmeyi sağlaması"
+    } ]
+  }, {
+    "tStartMs": 98430,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "gerekiyor. Aslında son dediğin önemli."
+    } ]
+  }, {
+    "tStartMs": 101310,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Sadece gelir değildir muhtemelen burada yani"
+    } ]
+  }, {
+    "tStartMs": 103680,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "pazar payı farklı ürün geliştirmelerle de"
+    } ]
+  }, {
+    "tStartMs": 107670,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "sağlanabilir. O yüzden bazen gelire bakmak"
+    } ]
+  }, {
+    "tStartMs": 111000,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "değil hakikaten ben ne kadar hızlı ürün"
+    } ]
+  }, {
+    "tStartMs": 113460,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "geliştirebiliyorum, ben ne kadar farklı bu"
+    } ]
+  }, {
+    "tStartMs": 116700,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "birkaç modül önce de konuşmuştuk tornado"
+    } ]
+  }, {
+    "tStartMs": 119340,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "dediğimiz, kasırga dediğimiz farklı ürün"
+    } ]
+  }, {
+    "tStartMs": 121410,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "geliştirme moduna nasıl girebiliyoruz?"
+    } ]
+  }, {
+    "tStartMs": 123480,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Çünkü artık erken çoğunluk ve geç çoğunluğun"
+    } ]
+  }, {
+    "tStartMs": 126390,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "bir kısmını almaya çalışıyoruz."
+    } ]
+  }, {
+    "tStartMs": 128780,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "Pazar orası olduğu için pazar payı dediğimiz"
+    } ]
+  }, {
+    "tStartMs": 130800,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "yer aslında erken çoğunluk ve geç"
+    } ]
+  }, {
+    "tStartMs": 132750,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "çoğunluktan alınıyor."
+    } ]
+  }, {
+    "tStartMs": 134410,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Onu almak için de siz bir sürü farklı yöntem"
+    } ]
+  }, {
+    "tStartMs": 137580,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "denemek gerekecektir diye düşünüyorum."
+    } ]
+  }, {
+    "tStartMs": 139090,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Tabii rekabet de geliyor ya artık geç"
+    } ]
+  }, {
+    "tStartMs": 140820,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "çoğunluk demek ne demek, rekabet de var"
+    } ]
+  }, {
+    "tStartMs": 142800,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "demek. Yani gerçekten alternatif çözüm değil"
+    } ]
+  }, {
+    "tStartMs": 145260,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "rekabet. Direkt aynı işi yapıyor, daha ucuz"
+    } ]
+  }, {
+    "tStartMs": 147720,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "satıyor mesela, ne yapman gerekiyor?"
+    } ]
+  }, {
+    "tStartMs": 150240,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Daha verimli çalışman gerekiyor, daha ucuza"
+    } ]
+  }, {
+    "tStartMs": 152640,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "satabilmeyi karşılayabilmen gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 155520,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Yeni özellikler geliştirerek içeride"
+    } ]
+  }, {
+    "tStartMs": 158610,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "müşteriyi tutmaya çalışman gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 160380,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Ya da yeni pazarlara açılıyorsan olay daha"
+    } ]
+  }, {
+    "tStartMs": 162690,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "da kompleksleşiyor."
+    } ]
+  }, {
+    "tStartMs": 164410,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Niçin, o pazarların ürüne cevabı değişik"
+    } ]
+  }, {
+    "tStartMs": 168690,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "olabilir. Mesela bazı özellikler o pazarları"
+    } ]
+  }, {
+    "tStartMs": 170760,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "tutmayabilir. O zaman o pazarları tutacak"
+    } ]
+  }, {
+    "tStartMs": 174510,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "özellik geliştirmesine girmen gerekir."
+    } ]
+  }, {
+    "tStartMs": 177480,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Bütün bunlar ölçeklenme aşamasının yeni"
+    } ]
+  }, {
+    "tStartMs": 180810,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "hedeflerini belirleyen dışsal koşullar."
+    } ]
+  }, {
+    "tStartMs": 184710,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Burada bir örnek verelim istersen."
+    } ]
+  }, {
+    "tStartMs": 187620,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Uzakdoğu ülkelerinde bankacılık ve aslında"
+    } ]
+  }, {
+    "tStartMs": 191190,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "FinTech uygulamalarının çok geliştiğini"
+    } ]
+  }, {
+    "tStartMs": 193530,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "biliyoruz. Burada QR da çok uzun zamandır"
+    } ]
+  }, {
+    "tStartMs": 197430,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "kullanılıyor. Yani bizim hayatımızda belki"
+    } ]
+  }, {
+    "tStartMs": 200310,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "özellikle pandemiden dolayı çok hızlı girdi"
+    } ]
+  }, {
+    "tStartMs": 202590,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "ama ondan önce QR kullanım oranları çok"
+    } ]
+  }, {
+    "tStartMs": 206070,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "düşüktü. Ama Uzakdoğu ülkelerinde özellikle"
+    } ]
+  }, {
+    "tStartMs": 210510,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "fintech alanında ödeme yaparken, ödeme"
+    } ]
+  }, {
+    "tStartMs": 212070,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "alırken QR çok sık kullanılan bir şeydi."
+    } ]
+  }, {
+    "tStartMs": 215820,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Bir FinTech uygulaması, Uzak Doğu'yu"
+    } ]
+  }, {
+    "tStartMs": 218280,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "açılırken içinde QR fonksiyonu yoksa şansı"
+    } ]
+  }, {
+    "tStartMs": 222360,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "yok. Şansı çok düşük ya da yok."
+    } ]
+  }, {
+    "tStartMs": 224700,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "O yüzden bu fonksiyonun, yani senin dediğin"
+    } ]
+  }, {
+    "tStartMs": 226380,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "gibi farklı ülkeler, farklı lokasyonlar,"
+    } ]
+  }, {
+    "tStartMs": 228600,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "farklı tepkiler de verebiliyor."
+    } ]
+  }, {
+    "tStartMs": 230550,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Özellikle FinTech örneğinde bu şekilde belki"
+    } ]
+  }, {
+    "tStartMs": 233190,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "oyunda diller farklılaşabilir, karakter"
+    } ]
+  }, {
+    "tStartMs": 235620,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "özellikleri yaklaşabilir, kanallar"
+    } ]
+  }, {
+    "tStartMs": 237810,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "paylaşabilir. Tabii aynen kanal da çok"
+    } ]
+  }, {
+    "tStartMs": 240780,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "önemli faktör."
+    } ]
+  }, {
+    "tStartMs": 242400,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Çünkü bazı ülkelerde sosyal medya, müşteri"
+    } ]
+  }, {
+    "tStartMs": 247320,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "edinim çok daha yüksek performansla"
+    } ]
+  }, {
+    "tStartMs": 250110,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "çalışırken, başka ülkelerde paid marketing"
+    } ]
+  }, {
+    "tStartMs": 254070,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "daha iyi çalışıyor. Başka ülkelerde içerik"
+    } ]
+  }, {
+    "tStartMs": 256320,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "pazarlaması daha iyi çalışıyor."
+    } ]
+  }, {
+    "tStartMs": 258150,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Mesela onu oraya gidip ya da uzaktan"
+    } ]
+  }, {
+    "tStartMs": 261210,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "yapılabiliyorsa uzaktan yapıp ona uygun"
+    } ]
+  }, {
+    "tStartMs": 263520,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "geliştirmek lazım. Bu aşamada aslında bir"
+    } ]
+  }, {
+    "tStartMs": 265590,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "şey daha parantez içinde söyleyelim, çok da"
+    } ]
+  }, {
+    "tStartMs": 269010,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "direkt konumuz değil. Çünkü hedef değil bu."
+    } ]
+  }, {
+    "tStartMs": 271530,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Ama olan bir şey. Bunu bilmekte fayda var."
+    } ]
+  }, {
+    "tStartMs": 273930,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "Genellikle ölçeklenme aşamasına gelen start"
+    } ]
+  }, {
+    "tStartMs": 277060,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "uplarda, üst yönetimde bazen değişiklik"
+    } ]
+  }, {
+    "tStartMs": 279900,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "oluyor. Yani kurucular yönetim kuruluna"
+    } ]
+  }, {
+    "tStartMs": 283860,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "geçiyor. Hepsi değilse bile bazıları."
+    } ]
+  }, {
+    "tStartMs": 287970,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "İşte CEO ya da CTO ya da CMO gibi C seviyesi"
+    } ]
+  }, {
+    "tStartMs": 293640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "yöneticiler dışarıdan ve kurumlardan"
+    } ]
+  }, {
+    "tStartMs": 296640,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "transfer edilebiliyor. Kurumlardan da artık"
+    } ]
+  }, {
+    "tStartMs": 299880,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "yeni nesil kafalı yöneticiler gelebiliyor."
+    } ]
+  }, {
+    "tStartMs": 303180,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Onlar da öğreniyorlar işte inovasyon"
+    } ]
+  }, {
+    "tStartMs": 304770,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "merkezleri açıyorlar, girişimcilik"
+    } ]
+  }, {
+    "tStartMs": 306240,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "merkezleri açıyorlar. Onları da almak söz"
+    } ]
+  }, {
+    "tStartMs": 309150,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "konusu olabilir. Onu da parantez içinde"
+    } ]
+  }, {
+    "tStartMs": 311010,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "söylemiş olalım. Minik bir yorum yapalım"
+    } ]
+  }, {
+    "tStartMs": 312750,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "buna. Aslında sektörden ve kendi işinde"
+    } ]
+  }, {
+    "tStartMs": 316950,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "uzmanlaşmış insanların sektöre girmesi çok"
+    } ]
+  }, {
+    "tStartMs": 319710,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "önemli dedik. Bu aslında şey farklılaşma"
+    } ]
+  }, {
+    "tStartMs": 323520,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "noktası dedik. Hani yalın kanvasımızda bizi"
+    } ]
+  }, {
+    "tStartMs": 326550,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "farklılaştıran noktaları anlatırken"
+    } ]
+  }, {
+    "tStartMs": 328920,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "konuştuğumuz bir şeydi tecrübe kurucu"
+    } ]
+  }, {
+    "tStartMs": 331590,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "ortakların tecrübesi gibi aslında ölçeklenme"
+    } ]
+  }, {
+    "tStartMs": 335430,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "aşamasındaki bir girişimin daha sonradan"
+    } ]
+  }, {
+    "tStartMs": 337680,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "gelen C seviyesindeki bir yöneticinin"
+    } ]
+  }, {
+    "tStartMs": 340320,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "deneyimi de bu konuda çok önemli olabiliyor."
+    } ]
+  }, {
+    "tStartMs": 343350,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Evet, burada bir sorum olacak."
+    } ]
+  }, {
+    "tStartMs": 345690,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Şimdi geleneksel bir bakış açısı olsa bile"
+    } ]
+  }, {
+    "tStartMs": 348900,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "karlılık her zaman işlerimizde konuşulan bir"
+    } ]
+  }, {
+    "tStartMs": 352650,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "konu. Benim uygulama veya geliştirdiğim iş,"
+    } ]
+  }, {
+    "tStartMs": 358500,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "dijital iş, uygulama, oyun ne kadar karlı"
+    } ]
+  }, {
+    "tStartMs": 361170,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "olmalı ki ben kendimi başarılı hissederim?"
+    } ]
+  }, {
+    "tStartMs": 365010,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Şimdi çok yerinde bir soru bu."
+    } ]
+  }, {
+    "tStartMs": 367770,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Konuşulması gereken bir şey."
+    } ]
+  }, {
+    "tStartMs": 369450,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Hatta biraz parantez içinde de olsa kurumsal"
+    } ]
+  }, {
+    "tStartMs": 373170,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "dünyadan yönetici, üst düzey C seviyesi"
+    } ]
+  }, {
+    "tStartMs": 376230,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "yönetici almaktan da bahsettik ya şimdi o"
+    } ]
+  }, {
+    "tStartMs": 379620,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "tür insanlar genel, yani yeni nesil kafalı"
+    } ]
+  }, {
+    "tStartMs": 381820,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "olsa da olmasa da refleks olarak genellikle"
+    } ]
+  }, {
+    "tStartMs": 384810,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "kar merkezli bakabiliyorlar, kar etmek lazım"
+    } ]
+  }, {
+    "tStartMs": 389280,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "diye düşünebiliyorlar."
+    } ]
+  }, {
+    "tStartMs": 391110,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Bunun düşünülmesi çok iyi bir şey ama"
+    } ]
+  }, {
+    "tStartMs": 394020,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "önceliklendirilmesi her zaman iyi"
+    } ]
+  }, {
+    "tStartMs": 395670,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "olmayabilir. Neden örnek verelim."
+    } ]
+  }, {
+    "tStartMs": 397720,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "Yeni bir pazar açıldı."
+    } ]
+  }, {
+    "tStartMs": 399150,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Dediğin gibi bir özelliğin eksik olduğu için"
+    } ]
+  }, {
+    "tStartMs": 401040,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "bir türlü tutturamadı. Sonra onu fark ettin"
+    } ]
+  }, {
+    "tStartMs": 403530,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "özelliği ekledin ve büyümeye başladın."
+    } ]
+  }, {
+    "tStartMs": 406080,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Şimdi burada kar peşinde koşarsan daha"
+    } ]
+  }, {
+    "tStartMs": 409800,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "önceki pazarda erken çoğunluk ve geç"
+    } ]
+  }, {
+    "tStartMs": 412650,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "çoğunluğa geldiğin halde burada daha orada"
+    } ]
+  }, {
+    "tStartMs": 414960,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "değilsin. Demek ki orada kar kovalaman doğru"
+    } ]
+  }, {
+    "tStartMs": 417330,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "değil. Tamam, hangi aşamada, hangi pazar,"
+    } ]
+  }, {
+    "tStartMs": 420360,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "hangi teknoloji uyum seviyesinde"
+    } ]
+  }, {
+    "tStartMs": 426330,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "kullanıcıların ya da müşterilerin vara bakıp"
+    } ]
+  }, {
+    "tStartMs": 428670,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "orada kar mı, büyüme mi seçmen gerekiyor?"
+    } ]
+  }, {
+    "tStartMs": 432150,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Onun için yani ölçeklenmede bir formül yok."
+    } ]
+  }, {
+    "tStartMs": 435150,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "Ölçeklenme seviyesinde aşamasındaki start"
+    } ]
+  }, {
+    "tStartMs": 437680,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "up'da bir formül yok. Hangi pazarda hangi"
+    } ]
+  }, {
+    "tStartMs": 439980,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "ürününe, hangi hedef kitledesin ona bakmak"
+    } ]
+  }, {
+    "tStartMs": 443790,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "lazım. Retention'lara bakmak lazım yani geri"
+    } ]
+  }, {
+    "tStartMs": 446160,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "geliyor mu? Ulaştığında iki şeye, geç"
+    } ]
+  }, {
+    "tStartMs": 449130,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "çoğunluğa. Ama tention düşük, geri gelmiyor."
+    } ]
+  }, {
+    "tStartMs": 451860,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Bir ay sonra, ne yapacağız?"
+    } ]
+  }, {
+    "tStartMs": 454720,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "Demek ki bir şeyler yanlış."
+    } ]
+  }, {
+    "tStartMs": 455740,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Onu düzeltmek lazım onun için toplam bilanço"
+    } ]
+  }, {
+    "tStartMs": 458920,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "ya da toplam gelir gider tablosuna bakmak"
+    } ]
+  }, {
+    "tStartMs": 461170,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "değil, pazar bazında ya da ürün bazında"
+    } ]
+  }, {
+    "tStartMs": 463450,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "bakmak lazım. Burada rekabette de aslında"
+    } ]
+  }, {
+    "tStartMs": 466960,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "fark yaratıyor. Karlılığa bakan bir şirket"
+    } ]
+  }, {
+    "tStartMs": 469000,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "veya büyüme odaklı bir şirket olmak"
+    } ]
+  }, {
+    "tStartMs": 470900,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "ölçeklenme aşamasında."
+    } ]
+  }, {
+    "tStartMs": 472540,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Genelde kar odaklı şirketler biraz önce"
+    } ]
+  }, {
+    "tStartMs": 476050,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "söylediğin gibi kullanıcıya verdiği değerden"
+    } ]
+  }, {
+    "tStartMs": 478870,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "ziyade kazandığı kar odaklı çalışıyor."
+    } ]
+  }, {
+    "tStartMs": 481750,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Ama büyümede sadece kullanıcıya değer verme"
+    } ]
+  }, {
+    "tStartMs": 484090,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "odaklı çalışmaya çalışıyorlar."
+    } ]
+  }, {
+    "tStartMs": 485710,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "O da sizin büyümemizi tabi ki etkiliyor."
+    } ]
+  }, {
+    "tStartMs": 487450,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Daha hızlı büyüyorsunuz, daha çok pazar payı"
+    } ]
+  }, {
+    "tStartMs": 489820,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "alıyorsunuz. Aslında bu seviyenin, bu"
+    } ]
+  }, {
+    "tStartMs": 493780,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "aşamanın mottosu diyelim aslında pazar"
+    } ]
+  }, {
+    "tStartMs": 497230,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "payını nasıl alırız olabilir de aslında."
+    } ]
+  }, {
+    "tStartMs": 500410,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Aslında mesela sen demin dedin ya,"
+    } ]
+  }, {
+    "tStartMs": 503050,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "ölçeklenme aşamasındaki start up'lara scale"
+    } ]
+  }, {
+    "tStartMs": 505960,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "up da deniyor diye. Yine başka bir modülde"
+    } ]
+  }, {
+    "tStartMs": 508120,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "konuşmuştuk. Stole up diye de bir şey var"
+    } ]
+  }, {
+    "tStartMs": 510130,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "yani stole up demek büyümesi yavaşlamış,"
+    } ]
+  }, {
+    "tStartMs": 512830,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "stop etmiş scale up'lara stole up deniyor."
+    } ]
+  }, {
+    "tStartMs": 515920,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Nasıl ölçülüyor bu da, çok basit."
+    } ]
+  }, {
+    "tStartMs": 518590,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Çalışan sayısının artışı ve çalışan başına"
+    } ]
+  }, {
+    "tStartMs": 521020,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "gelir. Yeni çalışan eklenmesi, yeni"
+    } ]
+  }, {
+    "tStartMs": 523270,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "pazarlara açılma gibi CPI ya da metriklere"
+    } ]
+  }, {
+    "tStartMs": 527500,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "bakarak stole mu ediyorsun yoksa hala scale"
+    } ]
+  }, {
+    "tStartMs": 530530,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "mi ediyorsun, ayırt edebiliyorsun."
+    } ]
+  }, {
+    "tStartMs": 532540,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Burada aslında şöyle bir şeyle kapamak bu"
+    } ]
+  }, {
+    "tStartMs": 534340,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "modülü iyi olacaktır diye düşünüyorum."
+    } ]
+  }, {
+    "tStartMs": 537190,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Scale yani ölçek ve aslında lineer büyümeyi"
+    } ]
+  }, {
+    "tStartMs": 539920,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "biraz konuşmak lazım."
+    } ]
+  }, {
+    "tStartMs": 542350,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Bazı aslında modüllerde aralarda bunlara hep"
+    } ]
+  }, {
+    "tStartMs": 545230,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "değindik ama lineer büyümeyle ölçek"
+    } ]
+  }, {
+    "tStartMs": 549430,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "büyümesinin arasındaki fark tam olarak ne?"
+    } ]
+  }, {
+    "tStartMs": 551650,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "Şöyle doğrusal ve üstel yani lineer ve"
+    } ]
+  }, {
+    "tStartMs": 556720,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "exponentional'dan bahsediyoruz burada."
+    } ]
+  }, {
+    "tStartMs": 558790,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Doğrusal büyümenin en basit örneği bir, iki,"
+    } ]
+  }, {
+    "tStartMs": 561610,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "üç, dört, beş, altı yedi diye gidiyor."
+    } ]
+  }, {
+    "tStartMs": 563350,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Bizim tercihimiz burada masraflarımızın"
+    } ]
+  }, {
+    "tStartMs": 566740,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "harcadığımız kaynağın bir, iki, üç, dört,"
+    } ]
+  }, {
+    "tStartMs": 568510,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "beş, altı, yedi diye büyümesi."
+    } ]
+  }, {
+    "tStartMs": 570370,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Gelirimiz ya da hedeflediğimiz CPI her neyse"
+    } ]
+  }, {
+    "tStartMs": 573310,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "onun bir, iki, dört, altı, bir, iki, dört,"
+    } ]
+  }, {
+    "tStartMs": 576310,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "sekiz, on altı, otuz iki diye büyümesi."
+    } ]
+  }, {
+    "tStartMs": 577960,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Yani üstel büyümesi."
+    } ]
+  }, {
+    "tStartMs": 579640,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Bunu sağladıysan ölçekleniyorsun demektir."
+    } ]
+  }, {
+    "tStartMs": 582070,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Bunu sağlayamadıysan yani o aradaki fark"
+    } ]
+  }, {
+    "tStartMs": 586840,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "mutlak değer olarak sabit kalıyor ama ikisi"
+    } ]
+  }, {
+    "tStartMs": 588730,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "de büyüyorsa bu iyi bir şey değil."
+    } ]
+  }, {
+    "tStartMs": 590590,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Bu aslında bir önceki verdiğimiz dersteki"
+    } ]
+  }, {
+    "tStartMs": 592990,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "haftalık yüzde bir büyümek ve yüzde yedi"
+    } ]
+  }, {
+    "tStartMs": 595720,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "büyümek arasındaki farka çok benziyor."
+    } ]
+  }, {
+    "tStartMs": 598510,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "İkisinin grafiklerini çizerseniz birinin"
+    } ]
+  }, {
+    "tStartMs": 600550,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "daha doğrusal birinin daha üstel büyümeye"
+    } ]
+  }, {
+    "tStartMs": 602590,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "yakın olduğunu aslında görebilirsiniz."
+    } ]
+  }, {
+    "tStartMs": 605290,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Bu yüzden tırnak içinde Silikon Vadisi veya"
+    } ]
+  }, {
+    "tStartMs": 607750,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "gelişmiş girişim ekosistemlerinde yüzde"
+    } ]
+  }, {
+    "tStartMs": 610420,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "7'ye, yüzde beşe daha yakın haftalık büyüme"
+    } ]
+  }, {
+    "tStartMs": 612970,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "oranları, yani üstel büyümeye daha yakın"
+    } ]
+  }, {
+    "tStartMs": 616300,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "büyüme oranları verilir diyebiliriz."
+    } ]
+  }, {
+    "tStartMs": 618840,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "Bu modülde neler çıktı, burada neler"
+    } ]
+  }, {
+    "tStartMs": 621730,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "konuştuk, sen de özetlersek süper olur."
+    } ]
+  }, {
+    "tStartMs": 623620,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Evet, modül yoğun bir modüldü."
+    } ]
+  }, {
+    "tStartMs": 626740,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Çok sayıda ders vardı ama neyi konuştuk?"
+    } ]
+  }, {
+    "tStartMs": 629680,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Temel olarak hangi aşamada olduğuna göre,"
+    } ]
+  }, {
+    "tStartMs": 633250,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "yeni nesil girişimin hangi metriklere"
+    } ]
+  }, {
+    "tStartMs": 636970,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "bakması ve bunların hangilerinin birincil"
+    } ]
+  }, {
+    "tStartMs": 640480,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "metrik ya da CPI olması, kutup yıldız olması"
+    } ]
+  }, {
+    "tStartMs": 644170,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "konusunu konuştuk ve bunun örneğin fikir"
+    } ]
+  }, {
+    "tStartMs": 648940,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "doğrulama aşamasında farklı MVP aşamasında"
+    } ]
+  }, {
+    "tStartMs": 652720,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "farklı ölçek product market ya da ürün pazar"
+    } ]
+  }, {
+    "tStartMs": 658450,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "uyum aşamasında farklı ölçeklenme ya da"
+    } ]
+  }, {
+    "tStartMs": 661330,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "scale up aşamasında farklı olduğunu konuştuk."
+    } ]
+  }, {
+    "tStartMs": 663190,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Ama hepsinde temel olan bir şey var."
+    } ]
+  }, {
+    "tStartMs": 665050,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Belli büyüme oranları ve doğrusal ve üstel"
+    } ]
+  }, {
+    "tStartMs": 668410,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "büyümenin farklarını konuştuk ve karlılığı"
+    } ]
+  }, {
+    "tStartMs": 672100,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "kovalamak için ölçeklenme aşamasının aşağı"
+    } ]
+  }, {
+    "tStartMs": 676210,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "yukarı sonuna kadar beklemek gerektiğini de"
+    } ]
+  }, {
+    "tStartMs": 678070,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "konuştuk. Aynen öyle burada tabiki bu sizin"
+    } ]
+  }, {
+    "tStartMs": 682690,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "aslında şimdiden farkında olmanız gereken"
+    } ]
+  }, {
+    "tStartMs": 686980,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "ama fikir aşamasından, MVP aşamasından, ön"
+    } ]
+  }, {
+    "tStartMs": 689560,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "tarafı görüp bunun ileriki aşamalarını görüp"
+    } ]
+  }, {
+    "tStartMs": 692350,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "önlem almanız gereken hazırlık yapmanız"
+    } ]
+  }, {
+    "tStartMs": 694420,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "gereken bazı noktalardan da bahsettik."
+    } ]
+  }, {
+    "tStartMs": 697060,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Umarız bu akademiden çıkan bazı uygulamalar"
+    } ]
+  }, {
+    "tStartMs": 700210,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "ve girişimler ölçeklenme aşamasında yönetim"
+    } ]
+  }, {
+    "tStartMs": 703720,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "kuruluna geçer ve bunu kanıtlamış olur."
+    } ]
+  }, {
+    "tStartMs": 707560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Aslında buradaki hipotezleri kanıtlamış olur."
+    } ]
+  }, {
+    "tStartMs": 710260,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "IPO yapar yani borsaya halka açılır."
+    } ]
+  }, {
+    "tStartMs": 712840,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "Halka açılan girişimlerin tabii ki daha kar"
+    } ]
+  }, {
+    "tStartMs": 717190,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "odaklı olması gerektiği, bunun hisse"
+    } ]
+  }, {
+    "tStartMs": 721810,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "fiyatlarına etki ettiğini kesinlikle"
+    } ]
+  }, {
+    "tStartMs": 723910,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "konuşabiliriz. Burada ben aslında bir de"
+    } ]
+  }, {
+    "tStartMs": 726220,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "minik bir tavsiye vermek istiyorum ilk başta"
+    } ]
+  }, {
+    "tStartMs": 729460,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "eğer onaylarsan ilk başta çok fazla paralı"
+    } ]
+  }, {
+    "tStartMs": 732940,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "reklam veya hani paid marketing yapan"
+    } ]
+  }, {
+    "tStartMs": 736300,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "girişimlerin aslında yine kendini kandırdığı"
+    } ]
+  }, {
+    "tStartMs": 739810,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "görülebiliyor. O yüzden ilk başta gerçekten"
+    } ]
+  }, {
+    "tStartMs": 742810,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "bir problem çözüyorsa veya oyun"
+    } ]
+  }, {
+    "tStartMs": 745150,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "geliştiriyorsa da gerçekten hikayesi"
+    } ]
+  }, {
+    "tStartMs": 746770,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "kuvvetli ise görselleri tasarım dili"
+    } ]
+  }, {
+    "tStartMs": 749050,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "kuvvetli ise müşteriye ulaşabiliyorsa"
+    } ]
+  }, {
+    "tStartMs": 751480,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "kullanıcıya ulaşabiliyorsa aslında bunun ilk"
+    } ]
+  }, {
+    "tStartMs": 754530,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "baş için yeterli olabileceğini savunuyoruz."
+    } ]
+  }, {
+    "tStartMs": 758490,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Paralı reklamın ilk başta çok tırnak içinde"
+    } ]
+  }, {
+    "tStartMs": 761820,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "kendini kaldırabileceğini savunuyoruz."
+    } ]
+  }, {
+    "tStartMs": 764100,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "O yüzden erken aşama girişimlere böyle bir"
+    } ]
+  }, {
+    "tStartMs": 766950,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "tavsiye de verebiliriz."
+    } ]
+  }, {
+    "tStartMs": 768440,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Evet. Bu modülün burada sonuna geldik."
+    } ]
+  }, {
+    "tStartMs": 772200,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Umarız faydalı bir modül olmuştur."
+    } ]
+  }, {
+    "tStartMs": 774780,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Bundan sonraki derslerde modüllerde görüşmek"
+    } ]
+  }, {
+    "tStartMs": 776880,
+    "dDurationMs": 270,
+    "segs": [ {
+      "utf8": "üzere."
+    } ]
+  } ]
+}

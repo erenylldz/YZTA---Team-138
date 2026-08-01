@@ -1,0 +1,1531 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 390,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Tekrar merhaba bu dersimizde, kişisel"
+    } ]
+  }, {
+    "tStartMs": 3090,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "verilerin korunma kanunu ve GDPR da aslında"
+    } ]
+  }, {
+    "tStartMs": 6610,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "Avrupa Birliği'nde kullanılan yurt dışında"
+    } ]
+  }, {
+    "tStartMs": 8640,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "kullanılan GDPR konularına değineceğiz."
+    } ]
+  }, {
+    "tStartMs": 12660,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Yine burada bir açıklama yapmakta fayda var."
+    } ]
+  }, {
+    "tStartMs": 15430,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Eee biz bu konunun uzmanları değil ama"
+    } ]
+  }, {
+    "tStartMs": 17790,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "farklı aşamalarda ki startuplarda KVK ile"
+    } ]
+  }, {
+    "tStartMs": 21150,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "nasıl etkileşime girilir, kişisel verilerle"
+    } ]
+  }, {
+    "tStartMs": 23400,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "nasıl etkileşime girilir?"
+    } ]
+  }, {
+    "tStartMs": 24750,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Biraz bundan bahsedeceğiz."
+    } ]
+  }, {
+    "tStartMs": 26070,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Deneyim aktarımı."
+    } ]
+  }, {
+    "tStartMs": 27150,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Deneyim aktarımı yapacağız."
+    } ]
+  }, {
+    "tStartMs": 28260,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Kişisel veri nedir? Bir bizim"
+    } ]
+  }, {
+    "tStartMs": 29670,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "perspektifimizden sen açıkla istersen."
+    } ]
+  }, {
+    "tStartMs": 31920,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Valla bu KVKK konusu,CDPR konusu aslında"
+    } ]
+  }, {
+    "tStartMs": 34980,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "hızla yayılıyor. Dünyada sadece Avrupa'da"
+    } ]
+  }, {
+    "tStartMs": 37500,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "başladı. CDPR Avrupada geçerli."
+    } ]
+  }, {
+    "tStartMs": 40710,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Eee KVKK Türkiye'de geçerli ancak bu başka"
+    } ]
+  }, {
+    "tStartMs": 45810,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "ülkelerde de başladı."
+    } ]
+  }, {
+    "tStartMs": 47100,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Hatta Amerika'da bile önce Kaliforniya'da"
+    } ]
+  }, {
+    "tStartMs": 49740,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "sonra başka bazı eyaletlerde, eyalet bazlı"
+    } ]
+  }, {
+    "tStartMs": 53340,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "kişisel veri koruma kanunları çıkmaya"
+    } ]
+  }, {
+    "tStartMs": 56130,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "başladı. Kişisel verinin tanımı tabi o"
+    } ]
+  }, {
+    "tStartMs": 59340,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "kanunun hangi ülkede ya da hangi statüde"
+    } ]
+  }, {
+    "tStartMs": 62160,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "olduğuna göre değişebiliyor."
+    } ]
+  }, {
+    "tStartMs": 64530,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Yine uzmanlık konusu olduğu için çok iyi"
+    } ]
+  }, {
+    "tStartMs": 66960,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "bilmediğim bir konu. Ama bildiğim"
+    } ]
+  }, {
+    "tStartMs": 68310,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "taraflarını söyleyeyim hemen."
+    } ]
+  }, {
+    "tStartMs": 69990,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "Mesela İsmin, adın, soyadın, doğum tarihin,"
+    } ]
+  }, {
+    "tStartMs": 74360,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "net tartışmasız bir şekilde işte TC kimlik"
+    } ]
+  }, {
+    "tStartMs": 78180,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "numaranı ya da vergi numaramı ya da başka"
+    } ]
+  }, {
+    "tStartMs": 80850,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "ülkelerde. İşte social security number"
+    } ]
+  }, {
+    "tStartMs": 83190,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "dediğimiz bu."
+    } ]
+  }, {
+    "tStartMs": 83680,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "Sosyal.Güvenlik numarası."
+    } ]
+  }, {
+    "tStartMs": 84990,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Güvenli mi mesela? Bu tür şeyler kişisel veri"
+    } ]
+  }, {
+    "tStartMs": 89850,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "olarak sayılıyor. Başka şeyler de kişisel"
+    } ]
+  }, {
+    "tStartMs": 92130,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "veri olarak sayılıyor."
+    } ]
+  }, {
+    "tStartMs": 93420,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Mesela göz, rengin, fotoğrafın."
+    } ]
+  }, {
+    "tStartMs": 97320,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Bütün bunlar kişisel veri."
+    } ]
+  }, {
+    "tStartMs": 101010,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Tabii fotoğrafın açık alanda çekilmiş ise"
+    } ]
+  }, {
+    "tStartMs": 105000,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "nasıl kullanılacağı. Onlar biraz daha böyle"
+    } ]
+  }, {
+    "tStartMs": 107460,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "gri alanlar. Ama senin bir yere bir şeye"
+    } ]
+  }, {
+    "tStartMs": 111690,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "başvururken sana sorulduğunda girdiğin"
+    } ]
+  }, {
+    "tStartMs": 115770,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "şeyler kişisel veri kabul ediliyor."
+    } ]
+  }, {
+    "tStartMs": 118740,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Eee dediğim gibi yani ikincisine girecek"
+    } ]
+  }, {
+    "tStartMs": 121560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "kadar bilmiyorum ama diyelim ki bununla"
+    } ]
+  }, {
+    "tStartMs": 123960,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "sınırlı olsun. Esas bizim burada aktarmak"
+    } ]
+  }, {
+    "tStartMs": 127260,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "istediğimiz bir start up'ın, bir yeni nesil"
+    } ]
+  }, {
+    "tStartMs": 133020,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "girişimin şirket olduktan sonra neye dikkat"
+    } ]
+  }, {
+    "tStartMs": 135960,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "edeceği, tanımların ne olduğu."
+    } ]
+  }, {
+    "tStartMs": 140070,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Tabii bütün bunlar da güncellenebilir"
+    } ]
+  }, {
+    "tStartMs": 141990,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "bununla ilgili. Türkiye'de de yurtdışında da"
+    } ]
+  }, {
+    "tStartMs": 145680,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "web siteleri var. Burada bu tanımlar çok net"
+    } ]
+  }, {
+    "tStartMs": 147750,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "yapılıyor ama yine biz deneyim aktarımı ile"
+    } ]
+  }, {
+    "tStartMs": 150360,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "devam edelim isterseniz."
+    } ]
+  }, {
+    "tStartMs": 151680,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Çok kısa bir şey değinmek gerekiyor burada."
+    } ]
+  }, {
+    "tStartMs": 153510,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Aslında kişileri tanımlayabileceğimiz"
+    } ]
+  }, {
+    "tStartMs": 155670,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "herhangi özellikler ve bilgiler kişisel veri"
+    } ]
+  }, {
+    "tStartMs": 158310,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "kapsamına giriyor bu odada."
+    } ]
+  }, {
+    "tStartMs": 160560,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Eee şu anda bu çekimi yaptığımız odada"
+    } ]
+  }, {
+    "tStartMs": 163020,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "gözlüklü ve gri gömlekli kişi."
+    } ]
+  }, {
+    "tStartMs": 166740,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Eeee dediğimizde anlayabileceğimiz aslında"
+    } ]
+  }, {
+    "tStartMs": 169350,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "tanımlayabileceğimiz bir kişi varsa, aslında"
+    } ]
+  }, {
+    "tStartMs": 172350,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "bu da senin kişisel verilerin kapsamına"
+    } ]
+  }, {
+    "tStartMs": 174480,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "giriyor. Çünkü o zaman seni direkt olarak"
+    } ]
+  }, {
+    "tStartMs": 178170,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "tanımlayabilir oluyoruz."
+    } ]
+  }, {
+    "tStartMs": 180060,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "Daha güzel bir tanımla tanımlı ya bilen veri"
+    } ]
+  }, {
+    "tStartMs": 182600,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "gider veya aynen öyle."
+    } ]
+  }, {
+    "tStartMs": 184230,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "O yüzden ne aşamada olursa olsun şirketle"
+    } ]
+  }, {
+    "tStartMs": 187170,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "çizdikten sonra tırnak içinde eğer bir"
+    } ]
+  }, {
+    "tStartMs": 189720,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "kişisel veriyi saklıyorsunuz."
+    } ]
+  }, {
+    "tStartMs": 191220,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Saklamak demek, deftere yazmak demek de"
+    } ]
+  }, {
+    "tStartMs": 193530,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "olabilir. Saklamak demek, Google'da da"
+    } ]
+  }, {
+    "tStartMs": 196380,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "tutmak demek de olabilir veya farklı farklı"
+    } ]
+  }, {
+    "tStartMs": 200610,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "dökümanlar da. Bilgisayarınızda tutmak da"
+    } ]
+  }, {
+    "tStartMs": 202350,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "olabilir bunda."
+    } ]
+  }, {
+    "tStartMs": 204550,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "Yine biz ne demiştik?"
+    } ]
+  }, {
+    "tStartMs": 206340,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "En bir aşamasından sonra şirket kurmak"
+    } ]
+  }, {
+    "tStartMs": 208200,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "faydalı olabilir demiştik."
+    } ]
+  }, {
+    "tStartMs": 209730,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "En bir aşamasında ürün pazar uyumu"
+    } ]
+  }, {
+    "tStartMs": 211950,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "aşamasında ve ölçeklenme aşamasında ve"
+    } ]
+  }, {
+    "tStartMs": 214830,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "bundan sonra zaten kurumsallaşma aşamasında"
+    } ]
+  }, {
+    "tStartMs": 216990,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "her zaman derinlemesine dikkat edilmesi"
+    } ]
+  }, {
+    "tStartMs": 219090,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "gereken bir konu. Artık kullanıcılar da buna"
+    } ]
+  }, {
+    "tStartMs": 221460,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "çok dikkat etmeye başladı."
+    } ]
+  }, {
+    "tStartMs": 223020,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Sadece regülasyonuna göre hareket etmek"
+    } ]
+  }, {
+    "tStartMs": 226470,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "değil buradaki konu. Asıl kullanıcı da"
+    } ]
+  }, {
+    "tStartMs": 228900,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "endişelenmeye başladı bu konuda."
+    } ]
+  }, {
+    "tStartMs": 231280,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Hatta legal-dizayn dediğimiz aslında hukuki"
+    } ]
+  }, {
+    "tStartMs": 234630,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "dizayn konuları da işin içine girmeye"
+    } ]
+  }, {
+    "tStartMs": 237840,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "başladı. Eee KVKK metinlerinin kısa"
+    } ]
+  }, {
+    "tStartMs": 240360,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "hallerinin özetlenebilir bir şekilde"
+    } ]
+  }, {
+    "tStartMs": 242160,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "kullanıcıya verilmesi."
+    } ]
+  }, {
+    "tStartMs": 243810,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Eee o eski reklamlarda alttan geçen siyah"
+    } ]
+  }, {
+    "tStartMs": 246480,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "bantların kolay okuyabilmesi ve hangi"
+    } ]
+  }, {
+    "tStartMs": 250470,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "bilgilerin aslında kullanıcıya sunulması"
+    } ]
+  }, {
+    "tStartMs": 252240,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "gerektiği konularında legal-dizayn dediğimiz"
+    } ]
+  }, {
+    "tStartMs": 254670,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "hukuksal dizayn konuları ön plana çıkmaya"
+    } ]
+  }, {
+    "tStartMs": 256950,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "başladı. Eee, bazı çok büyük markalar"
+    } ]
+  }, {
+    "tStartMs": 259950,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "aslında güvenliği, kişisel veriyi"
+    } ]
+  }, {
+    "tStartMs": 262020,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "kullanmamayı, bir pazarlama unsuru olarak da"
+    } ]
+  }, {
+    "tStartMs": 264330,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "kullanmaya başladı. E o yüzden bunlara da"
+    } ]
+  }, {
+    "tStartMs": 266790,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "dikkat ederek, bunları da"
+    } ]
+  }, {
+    "tStartMs": 268230,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "kullanılabilirliğini de göz önünde"
+    } ]
+  }, {
+    "tStartMs": 270120,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "bulundurarak aslında bu konuya zaman ayırmak"
+    } ]
+  }, {
+    "tStartMs": 272580,
+    "dDurationMs": 450,
+    "segs": [ {
+      "utf8": "gerekir."
+    } ]
+  }, {
+    "tStartMs": 273120,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Evet, kesinlikle şeyi biraz tanımla istersen"
+    } ]
+  }, {
+    "tStartMs": 276180,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "bu oradaki rolleri."
+    } ]
+  }, {
+    "tStartMs": 279700,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Eee kişisel veriler koruma kanunada yine"
+    } ]
+  }, {
+    "tStartMs": 282120,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "başka diğer hukuksal modüller de daha derine"
+    } ]
+  }, {
+    "tStartMs": 285270,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "indiğiniz modüller var."
+    } ]
+  }, {
+    "tStartMs": 286380,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Ama burada çok basit bazı asal taktikler"
+    } ]
+  }, {
+    "tStartMs": 289110,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "var. Biz bu deneyim aktarımını taktik olarak"
+    } ]
+  }, {
+    "tStartMs": 291930,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "da düşünebilirsiniz. Eee sizin bu biraz önce"
+    } ]
+  }, {
+    "tStartMs": 295500,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "bahsettiğimiz bilgisayarınızda veya"
+    } ]
+  }, {
+    "tStartMs": 299490,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "defterinizde veya offline da tuttuğunuz bazı"
+    } ]
+  }, {
+    "tStartMs": 301570,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "bilgileri şu şekilde tutmanız iyi olacaktır"
+    } ]
+  }, {
+    "tStartMs": 304990,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Sizi bir şekilde güvenli tarafa çekebilir."
+    } ]
+  }, {
+    "tStartMs": 307840,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Kolay ulaşabilir olmamak, olmaması, bu"
+    } ]
+  }, {
+    "tStartMs": 309970,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "bilgilerin ve online ortamda tutulmaması"
+    } ]
+  }, {
+    "tStartMs": 313000,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "aslında bu işi en doğru yere doğru çekiyor."
+    } ]
+  }, {
+    "tStartMs": 316030,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Bu ne demek? Yani defter örneğinden gidersek"
+    } ]
+  }, {
+    "tStartMs": 318850,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "deftere kolay ulaşılabilir bir şey."
+    } ]
+  }, {
+    "tStartMs": 321910,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "O yüzden defterde durmaması iyi olur ama"
+    } ]
+  }, {
+    "tStartMs": 324760,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "kişisel defterin de durmaması iyi olur."
+    } ]
+  }, {
+    "tStartMs": 327250,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Çünkü çalınabilir veya biri bakabilir,"
+    } ]
+  }, {
+    "tStartMs": 330160,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "görebilir. Ve bu biraz önce verdiğimiz gibi"
+    } ]
+  }, {
+    "tStartMs": 333220,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "gri gömlekli, gözlüklü kişiyi bu odada"
+    } ]
+  }, {
+    "tStartMs": 335590,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "olduğunu tanımlayabilir, fark edebilir."
+    } ]
+  }, {
+    "tStartMs": 338300,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Eee, burada anonimleştirme diye bir konu"
+    } ]
+  }, {
+    "tStartMs": 340450,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "var. E yani offline ortam kolay ulaşılabilir"
+    } ]
+  }, {
+    "tStartMs": 342910,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "olmaması ve offline ortamda durması ve bunun"
+    } ]
+  }, {
+    "tStartMs": 346030,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "anonimleştirilmiş bir şekilde durması."
+    } ]
+  }, {
+    "tStartMs": 348790,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Yani eğer orada Ömer Erkmen yazıyorsa Ö"
+    } ]
+  }, {
+    "tStartMs": 351820,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "yıldız yıldız E'ye Yıldız Yıldız diye."
+    } ]
+  }, {
+    "tStartMs": 354490,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "E aslında senin bilgilerini"
+    } ]
+  }, {
+    "tStartMs": 355810,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "anonimleştirilebilir. Anonimleştirilmiş"
+    } ]
+  }, {
+    "tStartMs": 358750,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "bilgiler daha kolay erişilebilir de"
+    } ]
+  }, {
+    "tStartMs": 360940,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "durabilir. Çünkü belki persona tanımların"
+    } ]
+  }, {
+    "tStartMs": 364420,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "da, belki hani Ö yıldız yıldız e yıldız"
+    } ]
+  }, {
+    "tStartMs": 368470,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "yıldızı belli bir personaya etiketli yor"
+    } ]
+  }, {
+    "tStartMs": 371230,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "oradaki pazarlama ekibi ve bununla ilgili"
+    } ]
+  }, {
+    "tStartMs": 373300,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "bazı çalışmalar yapıyor ama seni"
+    } ]
+  }, {
+    "tStartMs": 376330,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "tanımlayamayacağı bir noktada aslında senin"
+    } ]
+  }, {
+    "tStartMs": 378730,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "vereni kullanabilir. E burada derdimiz"
+    } ]
+  }, {
+    "tStartMs": 381460,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "tanımlamak ile alakalı."
+    } ]
+  }, {
+    "tStartMs": 383590,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Burada bir veri sorumlusu atanması"
+    } ]
+  }, {
+    "tStartMs": 385330,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "gerekiyor. Yine teknik derslerde daha"
+    } ]
+  }, {
+    "tStartMs": 387910,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "detayını öğrenebilirsiniz."
+    } ]
+  }, {
+    "tStartMs": 389020,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Ama bu veri sorumlusunun bu kolay"
+    } ]
+  }, {
+    "tStartMs": 391240,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "ulaşılabilir olmayan ve offline ortamda"
+    } ]
+  }, {
+    "tStartMs": 393340,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "duran verilere ulaşımı olabiliyor."
+    } ]
+  }, {
+    "tStartMs": 396250,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Ama yine de sizin o veriyle işiniz bittikten"
+    } ]
+  }, {
+    "tStartMs": 399610,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "sonra onu artık yok etmeniz bekleniyor."
+    } ]
+  }, {
+    "tStartMs": 402490,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Eee hem KVKK da hem CDPR konularında bu tarz"
+    } ]
+  }, {
+    "tStartMs": 406300,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "mevzuatlar mevcut."
+    } ]
+  }, {
+    "tStartMs": 407550,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Yine incelemeniz gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 409790,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Eee ülke bazlı ııı hareket ederken."
+    } ]
+  }, {
+    "tStartMs": 413410,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Bir de galiba kullanıcı isterse silmen"
+    } ]
+  }, {
+    "tStartMs": 415720,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 416500,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "O zaten kullanıcı ne derse yapmamız gerekiyor"
+    } ]
+  }, {
+    "tStartMs": 419350,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "bu dünyada. O yüzden tabi ki izinleri"
+    } ]
+  }, {
+    "tStartMs": 423220,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "aldıktan sonra bile kullanıcı talep ederse"
+    } ]
+  }, {
+    "tStartMs": 426260,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "bu kendi kişisel bilgilerinin ulaşılamaz"
+    } ]
+  }, {
+    "tStartMs": 428710,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "olmasını isteme hakkı var."
+    } ]
+  }, {
+    "tStartMs": 430270,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Hatta bu talep edildikten sonra herhangi bir"
+    } ]
+  }, {
+    "tStartMs": 433840,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "sıkıntı yaşanırsa o bilgiler bir şekilde"
+    } ]
+  }, {
+    "tStartMs": 436900,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "açık bırakılıp ulaşılırsa büyük sıkıntılar"
+    } ]
+  }, {
+    "tStartMs": 439960,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "yaşanabilir."
+    } ]
+  }, {
+    "tStartMs": 440770,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "Büyük cezalar var."
+    } ]
+  }, {
+    "tStartMs": 441520,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Büyük cezalar yenilebilir girişimler"
+    } ]
+  }, {
+    "tStartMs": 443920,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "açısından çok kolay altından kaldırılabilir"
+    } ]
+  }, {
+    "tStartMs": 447100,
+    "dDurationMs": 390,
+    "segs": [ {
+      "utf8": "olmaz o durumda."
+    } ]
+  }, {
+    "tStartMs": 447490,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Bİr de şey dedin ya sen?"
+    } ]
+  }, {
+    "tStartMs": 449860,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Bu izin meselesi aslında en kritik yer orası"
+    } ]
+  }, {
+    "tStartMs": 452050,
+    "dDurationMs": 330,
+    "segs": [ {
+      "utf8": "değil mi?"
+    } ]
+  }, {
+    "tStartMs": 453250,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Tabii ki izinli."
+    } ]
+  }, {
+    "tStartMs": 454330,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Yani kullanıcı eğer bilgilerini kullanmaya,"
+    } ]
+  }, {
+    "tStartMs": 456880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "yani seni tanımlamayı kabul ederse, yani sen"
+    } ]
+  }, {
+    "tStartMs": 459520,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "benim adımı Ö yıldız yıldız e Yıldız Yıldız"
+    } ]
+  }, {
+    "tStartMs": 462220,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "değil, Ömer Erkmen olarak kullanabilirsin."
+    } ]
+  }, {
+    "tStartMs": 464980,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Benim gri gömleğimi ve gözlüğümü benle eş"
+    } ]
+  }, {
+    "tStartMs": 467950,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "eleştirip tanıtabilirsin."
+    } ]
+  }, {
+    "tStartMs": 469990,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Iznini verdikten sonra yine onu da belli bir"
+    } ]
+  }, {
+    "tStartMs": 472930,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "sene veya ay içe için veriyorsunuz."
+    } ]
+  }, {
+    "tStartMs": 475610,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Ee oradan sonra kullanım daha kolaylaşıyor."
+    } ]
+  }, {
+    "tStartMs": 478060,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Biraz istersen şeye değinelim."
+    } ]
+  }, {
+    "tStartMs": 479230,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Yani erken aşamada bu ne kadar kritik,"
+    } ]
+  }, {
+    "tStartMs": 482590,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "ileriki aşamalarda bu ne kadar kritik?"
+    } ]
+  }, {
+    "tStartMs": 484330,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Şöyle aslında bir nokta daha var."
+    } ]
+  }, {
+    "tStartMs": 485770,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Demin sen onu söyledin ama mesela bir Google"
+    } ]
+  }, {
+    "tStartMs": 488200,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Doc tuttuğun zaman Google Doc'un serverı"
+    } ]
+  }, {
+    "tStartMs": 491890,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Türkiye dışında ya."
+    } ]
+  }, {
+    "tStartMs": 495850,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Aslında Türkiye dışına çıkmaması gereken"
+    } ]
+  }, {
+    "tStartMs": 497680,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "veriyi alıp orada tutmamak lazım ya."
+    } ]
+  }, {
+    "tStartMs": 499540,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Mesela finansal veriler, banka falan ona da"
+    } ]
+  }, {
+    "tStartMs": 502750,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "dikkat etmek gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 503980,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Verinin yurt dışına çıkmaması, güvenli"
+    } ]
+  }, {
+    "tStartMs": 506590,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "olması, izinli olması yani 3 tane temel."
+    } ]
+  }, {
+    "tStartMs": 509650,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Benim bildiğim, anladığım şey var."
+    } ]
+  }, {
+    "tStartMs": 511420,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Bunun boyutu var."
+    } ]
+  }, {
+    "tStartMs": 512830,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Erken aşamada ekipler burada güvenli tarafta"
+    } ]
+  }, {
+    "tStartMs": 515500,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "kalmak için ne yapabilir?"
+    } ]
+  }, {
+    "tStartMs": 517330,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Birinci kural farkındalık."
+    } ]
+  }, {
+    "tStartMs": 519370,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Yani bizim burada söylediklerimiz sadece"
+    } ]
+  }, {
+    "tStartMs": 522190,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "konunun önemini ve farkındalığını belki"
+    } ]
+  }, {
+    "tStartMs": 527050,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "ortaya koyuyor. Ama gerçekten diğer"
+    } ]
+  }, {
+    "tStartMs": 529720,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "modüllerden öğrenip, hatta onunla bile"
+    } ]
+  }, {
+    "tStartMs": 531520,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "yetinmeyip bunun işte hukuki tarafta veya bu"
+    } ]
+  }, {
+    "tStartMs": 537730,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "konunun uzmanları tarafında da mentorluğunu"
+    } ]
+  }, {
+    "tStartMs": 541090,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "önce sonra da danışmanlığını almalarında"
+    } ]
+  }, {
+    "tStartMs": 543190,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "büyük fayda var ki, o anormal cezalara ki"
+    } ]
+  }, {
+    "tStartMs": 548560,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "örneklerini gördük, bunun haberlerde maruz"
+    } ]
+  }, {
+    "tStartMs": 551710,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "kalmasınlar. Ha genellikle şu uygulanıyor"
+    } ]
+  }, {
+    "tStartMs": 557330,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "yani bir yeni girişim, yeni kurulmuş yeni"
+    } ]
+  }, {
+    "tStartMs": 560380,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "bir şey yapıyor, ufak bir hata yapıyor, ona"
+    } ]
+  }, {
+    "tStartMs": 563050,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "çok büyük bir ceza vermiyorlar."
+    } ]
+  }, {
+    "tStartMs": 564400,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Belki bir uyarı veriyorlar ama yine de"
+    } ]
+  }, {
+    "tStartMs": 566170,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "burada birinci senin sorunun cevabı"
+    } ]
+  }, {
+    "tStartMs": 568900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "farkındalık. Bunun farkında olup neyle"
+    } ]
+  }, {
+    "tStartMs": 571900,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "karşılaşabileceğini, hangi riski aldığımı"
+    } ]
+  }, {
+    "tStartMs": 575170,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "bilmesi lazım. Ondan sonraki adımlar işin"
+    } ]
+  }, {
+    "tStartMs": 579190,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "daha sonraki büyüme aşamalarında bu"
+    } ]
+  }, {
+    "tStartMs": 581380,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "önlemlerin gerçekten onaylı kabul edilen"
+    } ]
+  }, {
+    "tStartMs": 585190,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "uzmanlar tarafından imzalanmış bir şekilde"
+    } ]
+  }, {
+    "tStartMs": 588550,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "korunmuş olması. Bu da yetmeyebilir."
+    } ]
+  }, {
+    "tStartMs": 590890,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Mesela en çok ceza benim duyduğum veri"
+    } ]
+  }, {
+    "tStartMs": 594580,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "güvenliğinden geliyor."
+    } ]
+  }, {
+    "tStartMs": 596790,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Mesela küçük bir şirket ya da büyük bir"
+    } ]
+  }, {
+    "tStartMs": 598710,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "şirket hiç fark etmez."
+    } ]
+  }, {
+    "tStartMs": 601080,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Senin izin verdiğin, kullanılma, izin"
+    } ]
+  }, {
+    "tStartMs": 603870,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "verdiğin bir veriyi bile mesela bir hacker"
+    } ]
+  }, {
+    "tStartMs": 606180,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "da kaptırır ise gene ceza yer."
+    } ]
+  }, {
+    "tStartMs": 609570,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Ya da yurt dışında tutarsa gene ceza yiyor."
+    } ]
+  }, {
+    "tStartMs": 612870,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Bu aslında hukuksal taraftan biraz siber"
+    } ]
+  }, {
+    "tStartMs": 614970,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "güvenlik tarafına geçtiğimiz bir şey."
+    } ]
+  }, {
+    "tStartMs": 618660,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Burada çok kolay ulaşılabilir siber güvenlik"
+    } ]
+  }, {
+    "tStartMs": 622410,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "ürünleri olmakla birlikte çok büyük"
+    } ]
+  }, {
+    "tStartMs": 624510,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "şirketlerin ve altyapılarını kullanmak"
+    } ]
+  }, {
+    "tStartMs": 627600,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "aslında biraz daha bu işin riskini"
+    } ]
+  }, {
+    "tStartMs": 629370,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "azaltıyor, hacklenebilirliğini azaltıyor."
+    } ]
+  }, {
+    "tStartMs": 632790,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "İstersen bu dersi burada noktalayalım."
+    } ]
+  }, {
+    "tStartMs": 634380,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Bir sonraki derste yeni nesil girişimlerin"
+    } ]
+  }, {
+    "tStartMs": 636720,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "aşaması fark etmeksizin aslında en çok"
+    } ]
+  }, {
+    "tStartMs": 638880,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "ilgilendiği konu bu kişisel verilerin"
+    } ]
+  }, {
+    "tStartMs": 641610,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "pazarlamada kullanılabilirliği konusu."
+    } ]
+  }, {
+    "tStartMs": 644550,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Kişisel verileri almak ve saklamak ne kadar"
+    } ]
+  }, {
+    "tStartMs": 647040,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "zorlu açtıysa da marketing de pazarlama"
+    } ]
+  }, {
+    "tStartMs": 649860,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "departmanlarının bunu kullanması yine bir o"
+    } ]
+  }, {
+    "tStartMs": 652410,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "kadar zorlaştı. O yüzden bir sonraki"
+    } ]
+  }, {
+    "tStartMs": 655560,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "dersimiz de bu."
+    } ]
+  }, {
+    "tStartMs": 657270,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Pazarlama konusunu biraz derinlemesine"
+    } ]
+  }, {
+    "tStartMs": 659160,
+    "dDurationMs": 450,
+    "segs": [ {
+      "utf8": "inceleyelim."
+    } ]
+  } ]
+}

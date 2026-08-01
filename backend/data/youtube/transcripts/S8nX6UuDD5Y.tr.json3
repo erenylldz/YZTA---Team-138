@@ -1,0 +1,775 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 210,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Tekrar merhaba. Bu dersimizde kişisel verinin"
+    } ]
+  }, {
+    "tStartMs": 3480,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "korunma kanunu. Kişisel verilerin"
+    } ]
+  }, {
+    "tStartMs": 5460,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "pazarlamada kullanılması tarafını"
+    } ]
+  }, {
+    "tStartMs": 7800,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "inceleyeceğiz. Yeni nesil girişimlerin aşama"
+    } ]
+  }, {
+    "tStartMs": 10560,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "fark etmeksizin en fazla düşündüğü şey, en"
+    } ]
+  }, {
+    "tStartMs": 13860,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "fazla kafa yorduğu konulardan birinin biri"
+    } ]
+  }, {
+    "tStartMs": 17670,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "bu. Nasıl aksiyon alabilir burada gelişimler"
+    } ]
+  }, {
+    "tStartMs": 21030,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "ve neler değişti? Son zamanlarda."
+    } ]
+  }, {
+    "tStartMs": 22800,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Neler değişti? Den yola çıkmak lazım."
+    } ]
+  }, {
+    "tStartMs": 25170,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Şimdi Kişisel Verileri Koruma Kanunu."
+    } ]
+  }, {
+    "tStartMs": 28080,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Başka bir şey. Bir de şirketlerin, özellikle"
+    } ]
+  }, {
+    "tStartMs": 30960,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "büyük teknoloji şirketlerinin bu konudaki"
+    } ]
+  }, {
+    "tStartMs": 33390,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "yaklaşımları da başka bir şey."
+    } ]
+  }, {
+    "tStartMs": 35280,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Bazıları daha katı bu konuda kullanıcısının"
+    } ]
+  }, {
+    "tStartMs": 40500,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "hiçbir verisini hiçbir şekilde kimsenin"
+    } ]
+  }, {
+    "tStartMs": 42690,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "kullanmasını istemeyebilir."
+    } ]
+  }, {
+    "tStartMs": 44160,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Bazısı biraz daha esnek, bazısı izin"
+    } ]
+  }, {
+    "tStartMs": 46980,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "aldıktan sonra kullanıyor falan filan."
+    } ]
+  }, {
+    "tStartMs": 49500,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Bazı anonimleştirip kullanıyor."
+    } ]
+  }, {
+    "tStartMs": 53280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Ama ne olursa olsun bütün bunlar pazarlamada"
+    } ]
+  }, {
+    "tStartMs": 57600,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "engel haline geldi."
+    } ]
+  }, {
+    "tStartMs": 59370,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Ha engel derken."
+    } ]
+  }, {
+    "tStartMs": 61050,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Eeee doğrudur, yanlıştır tartışmıyorum."
+    } ]
+  }, {
+    "tStartMs": 64150,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Eeee, veri ne kadar çoksa, izlenebilirlik ve"
+    } ]
+  }, {
+    "tStartMs": 67950,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "erişilebilirlik o kadar artıyor ya."
+    } ]
+  }, {
+    "tStartMs": 70320,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Şimdi KVKk burada yeni bir katman getirdi."
+    } ]
+  }, {
+    "tStartMs": 73560,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Dedi ki Yok, sen bunu izni almadan"
+    } ]
+  }, {
+    "tStartMs": 75660,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "kullanamazsın, yok anonimleştirmeden"
+    } ]
+  }, {
+    "tStartMs": 77490,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "kullanamazsın. Kullandığın zaman ne"
+    } ]
+  }, {
+    "tStartMs": 78990,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "oluyordu? Daha kolay ulaşıyordu, daha kolay"
+    } ]
+  }, {
+    "tStartMs": 81720,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "izliyordu. Neyle ilgileniyor, nereye"
+    } ]
+  }, {
+    "tStartMs": 83430,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "giriyor, çıkıyor, hangi uygulamayı"
+    } ]
+  }, {
+    "tStartMs": 84840,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "kullanıyor? Şimdi onlar zorlaştı."
+    } ]
+  }, {
+    "tStartMs": 87570,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Dolayısıyla aslında maliyet arttı."
+    } ]
+  }, {
+    "tStartMs": 89550,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Hangi maliyet arttı?"
+    } ]
+  }, {
+    "tStartMs": 91280,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Eeee parayla verilen reklamlardaki izleme"
+    } ]
+  }, {
+    "tStartMs": 94560,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "zorlaştığı için birim maliyet arttı."
+    } ]
+  }, {
+    "tStartMs": 97110,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Yani bir kullanıcı edinmek için 1 lira"
+    } ]
+  }, {
+    "tStartMs": 99030,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "harcıyor. Sen iki lira harcıyorsun."
+    } ]
+  }, {
+    "tStartMs": 101100,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Neden? Kvkk uyumlu olman gerektiği için ya"
+    } ]
+  }, {
+    "tStartMs": 104460,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "da o teknoloji şirketinin tercihleri"
+    } ]
+  }, {
+    "tStartMs": 108540,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "doğrultusunda."
+    } ]
+  }, {
+    "tStartMs": 110040,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Peki burada aslında bir önceki modül de"
+    } ]
+  }, {
+    "tStartMs": 113220,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "detaylarına girdik ama reklamla büyümek ve"
+    } ]
+  }, {
+    "tStartMs": 117030,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "reklamla kullanıcı edinmek ve aslında"
+    } ]
+  }, {
+    "tStartMs": 119130,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "içerikle kullanıcı edinmenin farkı burada"
+    } ]
+  }, {
+    "tStartMs": 121200,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "çok ön plana çıkıyor."
+    } ]
+  }, {
+    "tStartMs": 123420,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Eee ne kadar erken içeriklerini geliştirmeye"
+    } ]
+  }, {
+    "tStartMs": 126840,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "başlarsanız aslında birim maliyetini uzun"
+    } ]
+  }, {
+    "tStartMs": 129450,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "vadede düşürebilirsiniz."
+    } ]
+  }, {
+    "tStartMs": 131850,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Normalde hep kısa vadeli planlar yapmayı"
+    } ]
+  }, {
+    "tStartMs": 134640,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "tavsiye ettiğimiz, öngördüğümüz,"
+    } ]
+  }, {
+    "tStartMs": 136080,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "konuştuğumuz noktada bu nokta farklılaşan"
+    } ]
+  }, {
+    "tStartMs": 138990,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "bir nokta. Uzun vadeli plan yapılıp içerik"
+    } ]
+  }, {
+    "tStartMs": 141720,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "pazarlamasına aslında yatırım yapılmasını"
+    } ]
+  }, {
+    "tStartMs": 144060,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "tekrar edelim burada."
+    } ]
+  }, {
+    "tStartMs": 145290,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Evet, içerik pazarlaması aslında bana"
+    } ]
+  }, {
+    "tStartMs": 148680,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "sorarsan olmazsa olmaz."
+    } ]
+  }, {
+    "tStartMs": 150060,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Mutlaka yapılmalı, ilk günden başlanmalı."
+    } ]
+  }, {
+    "tStartMs": 152550,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Çünkü daha önce de konuştuğumuz gibi ne"
+    } ]
+  }, {
+    "tStartMs": 155010,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "kadar eskidi ise o."
+    } ]
+  }, {
+    "tStartMs": 156750,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Eee o kadar eee değeri artıyor."
+    } ]
+  }, {
+    "tStartMs": 159870,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Yani bu seo dediğimiz olay zaten web"
+    } ]
+  }, {
+    "tStartMs": 163830,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "sitesinin yaşına, o içeriğin ne kadar eski"
+    } ]
+  }, {
+    "tStartMs": 166500,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "olduğuna, ne kadar web sitesinin yaptığı"
+    } ]
+  }, {
+    "tStartMs": 168810,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "işler ve diğer içerikle ilişkili olduğuna"
+    } ]
+  }, {
+    "tStartMs": 170940,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "göre güçleniyor, güçleniyor ve öne çıkıyor."
+    } ]
+  }, {
+    "tStartMs": 173490,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Dolayısıyla onun için bir kere bu şart"
+    } ]
+  }, {
+    "tStartMs": 175710,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "olmazsa olmaz. Artı sadece o da değil, aynı"
+    } ]
+  }, {
+    "tStartMs": 178860,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "zamanda işte. Ne bileyim video içerikler,"
+    } ]
+  }, {
+    "tStartMs": 181590,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "sosyal medyadaki görsel içerikler,"
+    } ]
+  }, {
+    "tStartMs": 183840,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "etiketler. Bütün bunlar yaptığımız iş,"
+    } ]
+  }, {
+    "tStartMs": 186630,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "çözdüğümüz problemle ilgili"
+    } ]
+  }, {
+    "tStartMs": 188220,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "erişilebilirliğinizi arttıran şeyler ve"
+    } ]
+  }, {
+    "tStartMs": 190320,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "zamanla değer kazanan şeyler."
+    } ]
+  }, {
+    "tStartMs": 192570,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Ha tabii ki paralı reklam ya da paid"
+    } ]
+  }, {
+    "tStartMs": 196290,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "marketing yapmalısın."
+    } ]
+  }, {
+    "tStartMs": 197580,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Ama hem bir taraftan bir onun kestiğiniz"
+    } ]
+  }, {
+    "tStartMs": 200130,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "zaman etkisinin kalmaması, bir taraftan da"
+    } ]
+  }, {
+    "tStartMs": 202440,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "bu KVKK veya teknoloji şirketlerinin"
+    } ]
+  }, {
+    "tStartMs": 205410,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "tercihleri nedeniyle zorlaşması, yani"
+    } ]
+  }, {
+    "tStartMs": 208560,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "maliyetinin artması diğerinin önemini bir"
+    } ]
+  }, {
+    "tStartMs": 211440,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "kat da artırıyor."
+    } ]
+  }, {
+    "tStartMs": 213480,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Bu gidişat daha da zorlaşacak ama biraz da"
+    } ]
+  }, {
+    "tStartMs": 216330,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "onu konuşalım yani."
+    } ]
+  }, {
+    "tStartMs": 217620,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Birini hedeflemek, bir kullanıcıyı"
+    } ]
+  }, {
+    "tStartMs": 219150,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "hedeflemek, birim maliyetin ucuzluğu yani."
+    } ]
+  }, {
+    "tStartMs": 222330,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Pahalılaşması devam edecek mi?"
+    } ]
+  }, {
+    "tStartMs": 225180,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "Zor soru. Öyle gibi görünse bile bu teknoloji"
+    } ]
+  }, {
+    "tStartMs": 230520,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "dünyası biliyorsun. Şey biraz böyle"
+    } ]
+  }, {
+    "tStartMs": 232140,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "kovalamaca oyunu."
+    } ]
+  }, {
+    "tStartMs": 234190,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Bir şeyle çıkıyorlar ve onu etrafından"
+    } ]
+  }, {
+    "tStartMs": 237130,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "dolaşıp önüne geçebiliyorlar."
+    } ]
+  }, {
+    "tStartMs": 238510,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Çok örnekleri var bunun çok detayını"
+    } ]
+  }, {
+    "tStartMs": 241210,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "bilmediğim için vermeyeyim o örneği ama"
+    } ]
+  }, {
+    "tStartMs": 242980,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "araştırıp bulabilirler."
+    } ]
+  }, {
+    "tStartMs": 244540,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Çok zorlaşacağını sanmıyorum ben ama bir"
+    } ]
+  }, {
+    "tStartMs": 246400,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "miktar maliyet artacak diye düşünüyorum."
+    } ]
+  }, {
+    "tStartMs": 248800,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Bu noktada aslında diğer modüller de"
+    } ]
+  }, {
+    "tStartMs": 250990,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "verdiğimiz taktiklere gidip bakmak yine"
+    } ]
+  }, {
+    "tStartMs": 253450,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "faydalı olacaktır."
+    } ]
+  }, {
+    "tStartMs": 254590,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Ama bir önceki dersimiz de konuştuğumuz gibi"
+    } ]
+  }, {
+    "tStartMs": 258190,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "farkındalık aslında bu."
+    } ]
+  }, {
+    "tStartMs": 260230,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Bu modül de vermek istediğimiz ana mesajdı."
+    } ]
+  }, {
+    "tStartMs": 262850,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "Evet, burada bu modülün bir mottosu var mı"
+    } ]
+  }, {
+    "tStartMs": 267100,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "yok mu bilmiyorum ama aslında kişisel"
+    } ]
+  }, {
+    "tStartMs": 269980,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "verilerin farkında olmak ve her seviyede"
+    } ]
+  }, {
+    "tStartMs": 272530,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "bunun önemini ve verilen eforu bir adım"
+    } ]
+  }, {
+    "tStartMs": 275560,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "arttırmak sizin yararınıza olacaktır diye"
+    } ]
+  }, {
+    "tStartMs": 277660,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "düşünüyorum."
+    } ]
+  }, {
+    "tStartMs": 278170,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Evet evet, aslında farkındalık güzel oldu, bu"
+    } ]
+  }, {
+    "tStartMs": 280480,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "modül de. Çünkü farkındalık genelde çok"
+    } ]
+  }, {
+    "tStartMs": 283150,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "önemli. Ama mesela daha çok bilgiye dayanan,"
+    } ]
+  }, {
+    "tStartMs": 285820,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "daha çok teknik bilgiye dayanan, daha çok"
+    } ]
+  }, {
+    "tStartMs": 287680,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "uzmanlık bilgisine dayanan konularda"
+    } ]
+  }, {
+    "tStartMs": 289450,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "farkındalık bence en önemli nokta."
+    } ]
+  }, {
+    "tStartMs": 293470,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Çünkü farkında değilsen kimseye sormaz,"
+    } ]
+  }, {
+    "tStartMs": 295990,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "farkında insan sorarız."
+    } ]
+  }, {
+    "tStartMs": 298060,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Hızlandırma programlarında ve veya"
+    } ]
+  }, {
+    "tStartMs": 301120,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "ulaşabileceğiniz noktalarda aslında bu"
+    } ]
+  }, {
+    "tStartMs": 303280,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "konuyla alakalı mentorluk alabilirsiniz."
+    } ]
+  }, {
+    "tStartMs": 306340,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Hızlıca mentorluk da sizi ve diğer teknik"
+    } ]
+  }, {
+    "tStartMs": 310030,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "modüller. Bu akademinin içindeki diğer"
+    } ]
+  }, {
+    "tStartMs": 312400,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "teknik modüller siz doğru yere"
+    } ]
+  }, {
+    "tStartMs": 313780,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "yönlendirecektir diye düşünüyoruz ve bu"
+    } ]
+  }, {
+    "tStartMs": 317050,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "modülü burada kapıyoruz."
+    } ]
+  }, {
+    "tStartMs": 318880,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Tekrar teşekkürler."
+    } ]
+  } ]
+}

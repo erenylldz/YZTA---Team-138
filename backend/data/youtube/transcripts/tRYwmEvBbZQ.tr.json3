@@ -1,0 +1,1231 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 360,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Tekrar yeni dersimize hoş geldiniz."
+    } ]
+  }, {
+    "tStartMs": 2610,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Bu derste bir önceki dersten konuştuğumuzdan"
+    } ]
+  }, {
+    "tStartMs": 5010,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "farklı olarak ve devamı olarak ürün pazar"
+    } ]
+  }, {
+    "tStartMs": 7830,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "uyumu aşamasındaki girişimlerin hangi"
+    } ]
+  }, {
+    "tStartMs": 12150,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "metrikleri aslında baktığına devam ediyoruz."
+    } ]
+  }, {
+    "tStartMs": 14640,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Burada iki tane konumuz kalmıştır."
+    } ]
+  }, {
+    "tStartMs": 16440,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Bir tanesi pazar yeri modelini benimsemiş"
+    } ]
+  }, {
+    "tStartMs": 19080,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "uygulamalar ve girişimlerin hangi metrikleri"
+    } ]
+  }, {
+    "tStartMs": 21570,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "benimsediği, hangi metrikleri önemsemesi"
+    } ]
+  }, {
+    "tStartMs": 23730,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "gerektiği birincil yapması gerekti."
+    } ]
+  }, {
+    "tStartMs": 25860,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "İkincisi de haftalık büyümeyi nasıl kontrol"
+    } ]
+  }, {
+    "tStartMs": 30210,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "etmemiz gerekiyor, nasıl bakmamız gerekiyor"
+    } ]
+  }, {
+    "tStartMs": 31860,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "konusu pazar yerleri konusundaki ana metriği"
+    } ]
+  }, {
+    "tStartMs": 35070,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "konuşabiliriz."
+    } ]
+  }, {
+    "tStartMs": 35820,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Pazar yerleri iki değişik rolde kullanıcının"
+    } ]
+  }, {
+    "tStartMs": 40140,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "olduğu, müşterinin ise sadece bir taraf veya"
+    } ]
+  }, {
+    "tStartMs": 43110,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "iki taraf birden olabildiği bir iş"
+    } ]
+  }, {
+    "tStartMs": 45780,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "modelleri. Ne demek bu?"
+    } ]
+  }, {
+    "tStartMs": 47610,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Bir servis sağlayan ya da bir şey satan"
+    } ]
+  }, {
+    "tStartMs": 50490,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "taraf var. Bir de o servisi tüketen ya da"
+    } ]
+  }, {
+    "tStartMs": 53610,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "satın alan taraf var."
+    } ]
+  }, {
+    "tStartMs": 54930,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "Genellikle komisyon solist çalışıyor."
+    } ]
+  }, {
+    "tStartMs": 58200,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "Bu şeyler pazar yeri modeli girişimler"
+    } ]
+  }, {
+    "tStartMs": 62490,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "komisyonunu ya bir taraftan alıyor ya iki"
+    } ]
+  }, {
+    "tStartMs": 64320,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "taraftan da alıyor."
+    } ]
+  }, {
+    "tStartMs": 65910,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Dolayısıyla gelir işlem sayısı ve iş her bir"
+    } ]
+  }, {
+    "tStartMs": 69450,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "işlemin büyüklüğüyle orantılı."
+    } ]
+  }, {
+    "tStartMs": 72180,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Şimdi buradaki açmazlar dan biri şu yeni"
+    } ]
+  }, {
+    "tStartMs": 73980,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "başladığın zaman her iki taraftan da az"
+    } ]
+  }, {
+    "tStartMs": 76650,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "sayıda var içeride. Yani servisi sağlayan ve"
+    } ]
+  }, {
+    "tStartMs": 79440,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "kullanan da az var."
+    } ]
+  }, {
+    "tStartMs": 81210,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Biri çok fazlaysa sorun ne?"
+    } ]
+  }, {
+    "tStartMs": 83880,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Öbür taraf zayıf kalıyor."
+    } ]
+  }, {
+    "tStartMs": 86830,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Mesela çok satan var, az alan var."
+    } ]
+  }, {
+    "tStartMs": 89220,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Satanlar bir süre sonra burada iş yok diye"
+    } ]
+  }, {
+    "tStartMs": 90990,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "gidiyor. Ya da az satan var, çok alan var."
+    } ]
+  }, {
+    "tStartMs": 94410,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Servisten memnun kalmıyor, cevap alamıyor"
+    } ]
+  }, {
+    "tStartMs": 96450,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "vesaire. Oysa buradaki birinci kural dengeli"
+    } ]
+  }, {
+    "tStartMs": 98940,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "büyüme. Yani bir pazar yerinin her iki"
+    } ]
+  }, {
+    "tStartMs": 101430,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "tarafı da dengeli büyütmesi lazım."
+    } ]
+  }, {
+    "tStartMs": 103590,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Burada farklı sektörlerdeki pazar yerlerinde"
+    } ]
+  }, {
+    "tStartMs": 106050,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "yine bulabileceğiniz aslında bazı sayılar"
+    } ]
+  }, {
+    "tStartMs": 108360,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "var. Yani atıyorum endüstriyel bir pazar"
+    } ]
+  }, {
+    "tStartMs": 110610,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "yeri ise bunun dengesi 1'e 3 oranı olabilir,"
+    } ]
+  }, {
+    "tStartMs": 114690,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "1'e 5 oranı olabilir."
+    } ]
+  }, {
+    "tStartMs": 115830,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Burada farklılaşabilir, ülkelere göre de"
+    } ]
+  }, {
+    "tStartMs": 118110,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "farklılaşabilir. Ama atıyorum bir e-ticaret"
+    } ]
+  }, {
+    "tStartMs": 121920,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "pazaryeri ise bu yine farklı bir dengede"
+    } ]
+  }, {
+    "tStartMs": 125370,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "olabilir. Burada sektörümüze göre, ülkenize"
+    } ]
+  }, {
+    "tStartMs": 128700,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "göre, operasyon yaptığınız yere göre,"
+    } ]
+  }, {
+    "tStartMs": 131940,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "kullanıcıya göre değişebilir."
+    } ]
+  }, {
+    "tStartMs": 133320,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Yani o dengenin illa bire bir, bire üç olması"
+    } ]
+  }, {
+    "tStartMs": 136680,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "gerekmiyor. Dediğin gibi hangi ülkede"
+    } ]
+  }, {
+    "tStartMs": 138780,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "olduğuna göre bir oranın olması gerekir."
+    } ]
+  }, {
+    "tStartMs": 141030,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Tabii şimdi dengeli büyümeden bahsettik."
+    } ]
+  }, {
+    "tStartMs": 143280,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Peki metrik olarak neye bakacağız."
+    } ]
+  }, {
+    "tStartMs": 145230,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Çok önemli. Genellikle pazar yerlerinde"
+    } ]
+  }, {
+    "tStartMs": 148560,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "önemli olan bu dengeli büyümeden sonraki"
+    } ]
+  }, {
+    "tStartMs": 151260,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "bakılan şey işlem sayısıdır."
+    } ]
+  }, {
+    "tStartMs": 154980,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "Tarafların doğrusal büyüdüğü."
+    } ]
+  }, {
+    "tStartMs": 157260,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Yani bir, iki, üç, dört, beş diye büyüdüğü."
+    } ]
+  }, {
+    "tStartMs": 159300,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Bir pazar yerinde beklenen işlemlerin bir,"
+    } ]
+  }, {
+    "tStartMs": 162690,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "iki, 4, 8, 16, 32 diye büyümesi."
+    } ]
+  }, {
+    "tStartMs": 164790,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Yani üstel büyümesi. Birinin doğrusal"
+    } ]
+  }, {
+    "tStartMs": 166410,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "birinin üstel büyümesi. Ama bu da çok"
+    } ]
+  }, {
+    "tStartMs": 169920,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "yeterli olmayabilir, çünkü işlemlerin"
+    } ]
+  }, {
+    "tStartMs": 171960,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "büyüklüğü önemli. Yani bir liralık işlem ve"
+    } ]
+  }, {
+    "tStartMs": 174420,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "bin liralık işlem aynı pazar yerinde varsa"
+    } ]
+  }, {
+    "tStartMs": 177510,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "bu da bir sorun. O yüzden en çok benimsenen,"
+    } ]
+  }, {
+    "tStartMs": 180150,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "en çok kullanan iş hacmi ölçütüdür"
+    } ]
+  }, {
+    "tStartMs": 183750,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "İngilizcesi bunun GMV bir gross motion"
+    } ]
+  }, {
+    "tStartMs": 187010,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "volume. Yani işlem hacmi."
+    } ]
+  }, {
+    "tStartMs": 189750,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Yani toplam. Diyelim ki sen bir liralık ya"
+    } ]
+  }, {
+    "tStartMs": 191520,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "da bin liralık işlemler yapıyorsun, üç beş,"
+    } ]
+  }, {
+    "tStartMs": 193860,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "on yapıyorsun ama önemli değil."
+    } ]
+  }, {
+    "tStartMs": 195570,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Bir ay içinde bunlardan toplamda ne kadar iş"
+    } ]
+  }, {
+    "tStartMs": 198570,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "hacmi geçiyor? Şimdi bu şeyin geliri değil,"
+    } ]
+  }, {
+    "tStartMs": 202480,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "start up'ın geliri değil."
+    } ]
+  }, {
+    "tStartMs": 203730,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Niye? Çünkü bu alıcıyla satıcı arasındaki"
+    } ]
+  }, {
+    "tStartMs": 207300,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "paranın toplam hacmi sen diye yüzde 20"
+    } ]
+  }, {
+    "tStartMs": 210750,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "alıyorsan, bin liralık işlem yapıyorsan işte"
+    } ]
+  }, {
+    "tStartMs": 213660,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "200 lira kazanırsın."
+    } ]
+  }, {
+    "tStartMs": 215280,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Ama o 200 lira çok da önemli değil."
+    } ]
+  }, {
+    "tStartMs": 216970,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "Esas olan o bin lira, bin lira büyüyorsa ve"
+    } ]
+  }, {
+    "tStartMs": 221280,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "de dikeyine göre işte burada MRR yok ya"
+    } ]
+  }, {
+    "tStartMs": 226870,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "yıllık CMV var, yıllık CMVnin büyümesi de"
+    } ]
+  }, {
+    "tStartMs": 229710,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "aylık takip edilebilir."
+    } ]
+  }, {
+    "tStartMs": 231400,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Mesela son 12 aydaki CMVye bakarak"
+    } ]
+  }, {
+    "tStartMs": 233700,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "gidebilirsin. 12 aylık CMVnin büyümesi,"
+    } ]
+  }, {
+    "tStartMs": 235920,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "buradaki MRR'rın aşağı yukarı abonelik"
+    } ]
+  }, {
+    "tStartMs": 238710,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "modelindeki sales modelindeki gelir"
+    } ]
+  }, {
+    "tStartMs": 241830,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "modelinin karşılığı oluyor ve genellikle"
+    } ]
+  }, {
+    "tStartMs": 245520,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "pazar yeri girişimlerinde yatırım alırken"
+    } ]
+  }, {
+    "tStartMs": 249570,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "değerleme veya satılırsa exit'leme söz"
+    } ]
+  }, {
+    "tStartMs": 254610,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "konusuysa oradaki değeri bu CMV ile"
+    } ]
+  }, {
+    "tStartMs": 257670,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "orantılı oluyor bazen CMV eşit oluyor."
+    } ]
+  }, {
+    "tStartMs": 260040,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Yeterince büyükse bazen erken aşamada ise"
+    } ]
+  }, {
+    "tStartMs": 263010,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "CMVnin işte iki, üç, beş katı oluyor gibi"
+    } ]
+  }, {
+    "tStartMs": 265860,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "dolayısıyla CMV o açıdan pazar verilerindeki"
+    } ]
+  }, {
+    "tStartMs": 267960,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "önemli bir metrik."
+    } ]
+  }, {
+    "tStartMs": 271470,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Biraz önce söylediğin şey çok önemliydi."
+    } ]
+  }, {
+    "tStartMs": 273750,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "E aslında bir uygulamanın, bir oyun"
+    } ]
+  }, {
+    "tStartMs": 276600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "stüdyosunun, bir oyunun ölçeklenmesi,"
+    } ]
+  }, {
+    "tStartMs": 279600,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "büyümesi. E Biz hep sektörde nasıl"
+    } ]
+  }, {
+    "tStartMs": 282330,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "ölçüyoruz? Aslında şirket değeri,"
+    } ]
+  }, {
+    "tStartMs": 284040,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "değerlemesi. E Çok konuşulan bir konu, çok"
+    } ]
+  }, {
+    "tStartMs": 286800,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "konuşulan bir aslında terim değerleme de"
+    } ]
+  }, {
+    "tStartMs": 289200,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "aslında bu metrik geliyor."
+    } ]
+  }, {
+    "tStartMs": 291120,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Yani aslında siz bizim ilk yatırıma"
+    } ]
+  }, {
+    "tStartMs": 293730,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "çıktığınızda, ilk yatırımı almak"
+    } ]
+  }, {
+    "tStartMs": 295170,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "istediğinizde bunu ilerleyen modellerde"
+    } ]
+  }, {
+    "tStartMs": 296880,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "konuşacağız. Yatırım almakistediğinizde"
+    } ]
+  }, {
+    "tStartMs": 299580,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "bizim değerimiz ne diye baktığınızda aslında"
+    } ]
+  }, {
+    "tStartMs": 302620,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "hemen bu birincil ikincil metriklere de,"
+    } ]
+  }, {
+    "tStartMs": 304930,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "aylık tekrardan geliriniz de iş hacminin"
+    } ]
+  }, {
+    "tStartMs": 308440,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "büyüklüğüne. Günlük aktif kullanıcının bir"
+    } ]
+  }, {
+    "tStartMs": 311500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "kullanıcıya ne kadar reklam ettiğinize"
+    } ]
+  }, {
+    "tStartMs": 313300,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "vesaire dönüp bakmanız gerekecek."
+    } ]
+  }, {
+    "tStartMs": 315070,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Çünkü sektör önünüze göre bu mesleklere"
+    } ]
+  }, {
+    "tStartMs": 317890,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "bakarak değerleme yapabileceksiniz."
+    } ]
+  }, {
+    "tStartMs": 320290,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Şimdi bu değerleme yaparken de yine çok çok"
+    } ]
+  }, {
+    "tStartMs": 323500,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "kritik ve aslında taktik diyebileceğimiz bir"
+    } ]
+  }, {
+    "tStartMs": 327520,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "haftalık ölçüt var."
+    } ]
+  }, {
+    "tStartMs": 329380,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Biraz ondan bahset istersen."
+    } ]
+  }, {
+    "tStartMs": 330760,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Tabii büyüme."
+    } ]
+  }, {
+    "tStartMs": 332860,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Haftalık büyüme. Niye haftalık büyüme?"
+    } ]
+  }, {
+    "tStartMs": 335680,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Çünkü yıllık büyüme diye bakarsan çok geç"
+    } ]
+  }, {
+    "tStartMs": 339070,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "kalmış olabilirsin. Aylık büyümeye bakarsan"
+    } ]
+  }, {
+    "tStartMs": 341890,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "bile geç kalmış olabilirsin."
+    } ]
+  }, {
+    "tStartMs": 343330,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Demin örneğini verdin sanırım."
+    } ]
+  }, {
+    "tStartMs": 344710,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Çünkü bir ayın toplamına baktığımda belki"
+    } ]
+  }, {
+    "tStartMs": 347950,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "bir ay içinde bir kere girenler var."
+    } ]
+  }, {
+    "tStartMs": 349690,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Belki bir ay sonra çekip gidecekler"
+    } ]
+  }, {
+    "tStartMs": 351520,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "bilmiyorsun. O yüzden haftalık büyüme en çok"
+    } ]
+  }, {
+    "tStartMs": 356230,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "kullanılan ölçüt. Neden haftalık büyüme?"
+    } ]
+  }, {
+    "tStartMs": 358060,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Onu da hemen bir örnekle açıklayalım."
+    } ]
+  }, {
+    "tStartMs": 359740,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Istiyorsan haftada yüzde 1 büyüyorsa ne"
+    } ]
+  }, {
+    "tStartMs": 363280,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "olursa olsun büyüme. Kullanıcı sayısı"
+    } ]
+  }, {
+    "tStartMs": 364870,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "olabilir, gelir olabilir, komisyon olabilir."
+    } ]
+  }, {
+    "tStartMs": 367660,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "CMV olur hiç önemli değil."
+    } ]
+  }, {
+    "tStartMs": 369580,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Haftalık yüzde bir biliyorsan, elli iki"
+    } ]
+  }, {
+    "tStartMs": 371590,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "hafta sonunda yüzde 67 büyüyoruz."
+    } ]
+  }, {
+    "tStartMs": 375550,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Yani 100 lirayla başladıysa birinci haftada"
+    } ]
+  }, {
+    "tStartMs": 379150,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "elli ikinci haftada 167 oluyorsun."
+    } ]
+  }, {
+    "tStartMs": 380980,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Ama haftalık yüzde 7 büyürse 3 bin 327"
+    } ]
+  }, {
+    "tStartMs": 384190,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "oluyorsun. Tamam mı?"
+    } ]
+  }, {
+    "tStartMs": 385810,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Dolayısıyla bu inanılmaz çarpıcı bir şey ve"
+    } ]
+  }, {
+    "tStartMs": 389320,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "yüzde 7 hedef verilir."
+    } ]
+  }, {
+    "tStartMs": 390700,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Genellikle Silikon Vadisi'nde özellikle çok"
+    } ]
+  }, {
+    "tStartMs": 392920,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "yaygındır bu. Yüzde 7 hedef verilir."
+    } ]
+  }, {
+    "tStartMs": 395440,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Çünkü ne demek 33 kat büyüyeceksin demek"
+    } ]
+  }, {
+    "tStartMs": 397660,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "yaklaşık olarak."
+    } ]
+  }, {
+    "tStartMs": 399310,
+    "dDurationMs": 540,
+    "segs": [ {
+      "utf8": "Yıl sonunda."
+    } ]
+  }, {
+    "tStartMs": 399850,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Yıl sonunda yüzde 1 büyüyor."
+    } ]
+  }, {
+    "tStartMs": 402130,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Büyüyor gibi duruyorsun ama büyüme değil"
+    } ]
+  }, {
+    "tStartMs": 403960,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "yüzde 67. Mesela enflasyonist bir ülkede"
+    } ]
+  }, {
+    "tStartMs": 407360,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "aslında küçük diyorsun bile olabilir."
+    } ]
+  }, {
+    "tStartMs": 408820,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Belki Arjantin'de."
+    } ]
+  }, {
+    "tStartMs": 409780,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Örneğin. Aynen öyle."
+    } ]
+  }, {
+    "tStartMs": 411010,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "O yüzden aslında halk bir şeylere haftalık"
+    } ]
+  }, {
+    "tStartMs": 413560,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "bakmak, özellikle hangi metriği"
+    } ]
+  }, {
+    "tStartMs": 416350,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "benimsediyseniz, hangi metriği birincil"
+    } ]
+  }, {
+    "tStartMs": 418360,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "metrik olarak benimse değilseniz, e"
+    } ]
+  }, {
+    "tStartMs": 420550,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "özellikle bu ilk başta söylediğimiz gibi"
+    } ]
+  }, {
+    "tStartMs": 422410,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "gelir bazlı olabilir, kullanıcı bazlı"
+    } ]
+  }, {
+    "tStartMs": 424270,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "olabilir. Yüzde bir büyüme aslında bir"
+    } ]
+  }, {
+    "tStartMs": 429160,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "büyüme değil. Gerçekçi olmak lazım."
+    } ]
+  }, {
+    "tStartMs": 431740,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Yüzde 7 yani yüzde 5'te."
+    } ]
+  }, {
+    "tStartMs": 433690,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Yüzde 7 oranında aslında hareket etmek."
+    } ]
+  }, {
+    "tStartMs": 436320,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Eee haftalık olarak gerçekçi olur ki bu"
+    } ]
+  }, {
+    "tStartMs": 438820,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "gerçekten zor bir şey. Yani sizin haftalık"
+    } ]
+  }, {
+    "tStartMs": 441280,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "olarak çok fazla farklı aksiyon deniyor"
+    } ]
+  }, {
+    "tStartMs": 443800,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "olmanız olması. Demekki siz yüzde 7'yi"
+    } ]
+  }, {
+    "tStartMs": 447160,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "yakalayabilir bu."
+    } ]
+  }, {
+    "tStartMs": 448450,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Çünkü haftalık %7 her hafta bir önceki"
+    } ]
+  }, {
+    "tStartMs": 450670,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "haftanın yüzde 7'sine çıkmanız gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 453010,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "Evet, yani yüzle başladın yüzde yedi"
+    } ]
+  }, {
+    "tStartMs": 454790,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "olacaksın. Yüzde yedi de bir sonraki bir 07"
+    } ]
+  }, {
+    "tStartMs": 457930,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "ile çarp çıksın bir 07'li çıkacaksın gibi."
+    } ]
+  }, {
+    "tStartMs": 460600,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Tabii sizin her hafta tutturma bunu."
+    } ]
+  }, {
+    "tStartMs": 462490,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Onu hemen aklınıza gelmiştir büyük"
+    } ]
+  }, {
+    "tStartMs": 464080,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "ihtimalle. Onu da genellikle 6 ila 8"
+    } ]
+  }, {
+    "tStartMs": 466900,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "haftalık dilimler de bakıyoruz."
+    } ]
+  }, {
+    "tStartMs": 468650,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Yani 6 hafta boyunca büyümeye bakıyorsun,"
+    } ]
+  }, {
+    "tStartMs": 470890,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "ortalaması yüzde 7 ise okey gibi 5 ila 7'yi"
+    } ]
+  }, {
+    "tStartMs": 475390,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "hedef koyup beşi tutturmak bence gayet"
+    } ]
+  }, {
+    "tStartMs": 478990,
+    "dDurationMs": 310,
+    "segs": [ {
+      "utf8": "uygun."
+    } ]
+  }, {
+    "tStartMs": 479890,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Gayet uygun bu dersi burada sonlandıralım."
+    } ]
+  }, {
+    "tStartMs": 484600,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Ürün pazar uyuma aşamasındaki metrikleri"
+    } ]
+  }, {
+    "tStartMs": 487150,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "incelerken hem pazar yerlerini biraz"
+    } ]
+  }, {
+    "tStartMs": 489550,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "derinlemesine girdik, dengeli büyümeden"
+    } ]
+  }, {
+    "tStartMs": 491290,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "bahsettik ve iş hacminin ne kadar önemli"
+    } ]
+  }, {
+    "tStartMs": 493210,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "olduğundan bahsettik."
+    } ]
+  }, {
+    "tStartMs": 494650,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Eee bir de aslında bu haftalık büyümeyi ne"
+    } ]
+  }, {
+    "tStartMs": 497020,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "kadar stresli olsa da haftalık büyümeyi"
+    } ]
+  }, {
+    "tStartMs": 501130,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "kontrol etmek ne kadar kurucu ortakları"
+    } ]
+  }, {
+    "tStartMs": 503380,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "üzerinde bir baskı yaratsa da gerçekten uzun"
+    } ]
+  }, {
+    "tStartMs": 505840,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "vadede başarılı olmak ve ölçekleme adımına"
+    } ]
+  }, {
+    "tStartMs": 507940,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "geçmek için çok kritik olduğundan bahsettik."
+    } ]
+  }, {
+    "tStartMs": 511030,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Çarpıcı örnekler verdi."
+    } ]
+  }, {
+    "tStartMs": 512110,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Ömer Abi bu dersi burada noktalayalım."
+    } ]
+  }, {
+    "tStartMs": 514150,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Bir sonrakinde. Eee devam edelim ölçekli mi"
+    } ]
+  }, {
+    "tStartMs": 516460,
+    "dDurationMs": 540,
+    "segs": [ {
+      "utf8": "aşamasına."
+    } ]
+  } ]
+}

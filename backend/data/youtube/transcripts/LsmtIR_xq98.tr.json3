@@ -1,0 +1,1507 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 330,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Tekrar merhaba. Bu dersimizde kaldığımız"
+    } ]
+  }, {
+    "tStartMs": 3810,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "yerden yine devam ediyoruz."
+    } ]
+  }, {
+    "tStartMs": 5670,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "PE'lerde kalmıştık, private equity dediğimiz"
+    } ]
+  }, {
+    "tStartMs": 8670,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "özel yatırım fonları."
+    } ]
+  }, {
+    "tStartMs": 11060,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "PE'ler bu aşamalarda, yani bizim daha önceki"
+    } ]
+  }, {
+    "tStartMs": 14520,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "modüllerde tanımladığımız fikir, MVP, ürün,"
+    } ]
+  }, {
+    "tStartMs": 17130,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "pazar uyumu veya ölçeklenme aşamasında,"
+    } ]
+  }, {
+    "tStartMs": 20070,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "belki ölçektenme aşamasının sonunda konuya"
+    } ]
+  }, {
+    "tStartMs": 23220,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "dahil olabilecek şirketler yatırım şirketi"
+    } ]
+  }, {
+    "tStartMs": 26700,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "tarzları. Ama nasıl yaklaşmak lazım, nasıl"
+    } ]
+  }, {
+    "tStartMs": 29880,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "konumlamak lazım? Tabii bunlar önemli."
+    } ]
+  }, {
+    "tStartMs": 32040,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Bunlar çok eskiden beri var."
+    } ]
+  }, {
+    "tStartMs": 33980,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "VC çok daha yeni bir kavram."
+    } ]
+  }, {
+    "tStartMs": 37140,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "PE'ler çok daha büyük kurumsal"
+    } ]
+  }, {
+    "tStartMs": 39750,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "yatırımcıların LP yani sınırlı ortak olduğu"
+    } ]
+  }, {
+    "tStartMs": 43350,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "yapılar. Kurumsaldan kasıt mesela emeklilik"
+    } ]
+  }, {
+    "tStartMs": 46830,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "fonları falan gibi büyük yapılar yatırım"
+    } ]
+  }, {
+    "tStartMs": 50070,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "yapıyor. Bunları onlar da niye yapıyor?"
+    } ]
+  }, {
+    "tStartMs": 52410,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "Uzun vadede piyasadaki belli bir faizin"
+    } ]
+  }, {
+    "tStartMs": 57030,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "üstünde ya da stok marketin riskini"
+    } ]
+  }, {
+    "tStartMs": 63170,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "taşımayan türden yatırımlar olarak"
+    } ]
+  }, {
+    "tStartMs": 66260,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "görüyorlar bunları. O yüzden de bunlar daha"
+    } ]
+  }, {
+    "tStartMs": 68090,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "tutucu. Yani biri melek yatırımcı ya da bir"
+    } ]
+  }, {
+    "tStartMs": 70340,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "VC gibi riski yüksek aşamada girmiyor, riski"
+    } ]
+  }, {
+    "tStartMs": 73940,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "yüksek alanlara girmiyor."
+    } ]
+  }, {
+    "tStartMs": 75260,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "Daha çok geleneksel dünyada büyümüş, pazar"
+    } ]
+  }, {
+    "tStartMs": 79490,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "payında lider olmuş, tercihen ya da ikinci"
+    } ]
+  }, {
+    "tStartMs": 83270,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "olmuşlara gidiyorlar."
+    } ]
+  }, {
+    "tStartMs": 84320,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Hatta bazen birinciyle ikinciyi birleştirip"
+    } ]
+  }, {
+    "tStartMs": 87320,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "yatırım yapmayı tercih ediyorlar."
+    } ]
+  }, {
+    "tStartMs": 88730,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Çoğunluk sermayesi alıyorlar, çok daha büyük"
+    } ]
+  }, {
+    "tStartMs": 91160,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "paralar yatırıyorlar, bir seferde"
+    } ]
+  }, {
+    "tStartMs": 93140,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "yapıyorlar. Sonradan para koyamıyorlar,"
+    } ]
+  }, {
+    "tStartMs": 95600,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "yönetime giriyorlar mutlaka."
+    } ]
+  }, {
+    "tStartMs": 96920,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Hatta bazen yönetimi devralabiliyorlar."
+    } ]
+  }, {
+    "tStartMs": 100220,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "İşin niteliğine, onların deneyimine göre."
+    } ]
+  }, {
+    "tStartMs": 104320,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "Dolayısıyla VC'lerin olgun, büyük ve riski"
+    } ]
+  }, {
+    "tStartMs": 109880,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "daha az sevenleri diyelim."
+    } ]
+  }, {
+    "tStartMs": 111680,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Zaten aslında bu risk konusunu açmam"
+    } ]
+  }, {
+    "tStartMs": 114350,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "önemliydi. Hem aşamadan hem de aslında bir"
+    } ]
+  }, {
+    "tStartMs": 118520,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "seferde yapılan yatırımın boyutuna göre risk"
+    } ]
+  }, {
+    "tStartMs": 122180,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "de azalıyor. Yani melek yatırımcılar en az"
+    } ]
+  }, {
+    "tStartMs": 124880,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "parayı koyuyor ama en çok riske sahip"
+    } ]
+  }, {
+    "tStartMs": 127250,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "kişiler. Ya da yine kitlesel fonlama da aynı"
+    } ]
+  }, {
+    "tStartMs": 129440,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "şekilde. Bireylerin yaptığı en uçta duran"
+    } ]
+  }, {
+    "tStartMs": 132980,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "taraf ama biraz da PE'lere gittikçe hem"
+    } ]
+  }, {
+    "tStartMs": 136340,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "boyut büyüyor hem de ortaklık yapılarındaki"
+    } ]
+  }, {
+    "tStartMs": 139580,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "hisse sayısı büyüyor."
+    } ]
+  }, {
+    "tStartMs": 141140,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Yönetime girme konuları var ve yine de bir"
+    } ]
+  }, {
+    "tStartMs": 144020,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "seferde yapılan yatırım miktarı da artıyor."
+    } ]
+  }, {
+    "tStartMs": 147410,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Burada herhangi bir yatırım türünden de"
+    } ]
+  }, {
+    "tStartMs": 149180,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "bahsedebiliriz. Ama girişimci için riskler"
+    } ]
+  }, {
+    "tStartMs": 152300,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "ne? Yatırımcı için riskler ne?"
+    } ]
+  }, {
+    "tStartMs": 154520,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Biraz onunla konuşalım. Yatırımcı için risk"
+    } ]
+  }, {
+    "tStartMs": 157340,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "belli. Koyduğu sermaye formu biçimi neyse"
+    } ]
+  }, {
+    "tStartMs": 160970,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "onu kaybedebilir tamamen ya da sadece kısmen"
+    } ]
+  }, {
+    "tStartMs": 164450,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "geri alabilir. Girişimcinin riski biraz daha"
+    } ]
+  }, {
+    "tStartMs": 167730,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "karmaşık. Niye?"
+    } ]
+  }, {
+    "tStartMs": 169200,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Çünkü kendine uygun olmayan erken aşama"
+    } ]
+  }, {
+    "tStartMs": 172620,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "yatırımcıdan yatırım aldığında, mesela"
+    } ]
+  }, {
+    "tStartMs": 175860,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "işlerine karışan, karışmaması gereken bir"
+    } ]
+  }, {
+    "tStartMs": 178230,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "aşamada karışan bir yatırımcı, bir risk"
+    } ]
+  }, {
+    "tStartMs": 180600,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "oluştur. Yani yönetim kuruluna girmek ister."
+    } ]
+  }, {
+    "tStartMs": 184500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Girmemesi gerekirken girmediği halde sürekli"
+    } ]
+  }, {
+    "tStartMs": 188160,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "işlerine karışmaya çalışır."
+    } ]
+  }, {
+    "tStartMs": 190680,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "İşte aldığı elemana bile karar vermek"
+    } ]
+  }, {
+    "tStartMs": 194910,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "isteyebilir. Bunlar girişimcinin riskleri"
+    } ]
+  }, {
+    "tStartMs": 197670,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "aslında. Ya da az para alır az para aldığı"
+    } ]
+  }, {
+    "tStartMs": 201060,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "için sonrasında devamını koyamayacak bir"
+    } ]
+  }, {
+    "tStartMs": 204270,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "kişi ya da kurumdan alır parayı o."
+    } ]
+  }, {
+    "tStartMs": 206300,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "O da bir risk girişimci için."
+    } ]
+  }, {
+    "tStartMs": 208560,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Risk demişken, aslında yine geleneksel"
+    } ]
+  }, {
+    "tStartMs": 210780,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "dünyadan gelen önemli bir risk faktörü var."
+    } ]
+  }, {
+    "tStartMs": 213450,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "O da kredi çekmek, bankalardan kredi çekmek."
+    } ]
+  }, {
+    "tStartMs": 217170,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Aslında bir sermaye ihtiyacı doğduğunda ilk"
+    } ]
+  }, {
+    "tStartMs": 219330,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "aklımıza gelen seçeneklerden biri."
+    } ]
+  }, {
+    "tStartMs": 221850,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Bir girişimci kredi çekmeli midir?"
+    } ]
+  }, {
+    "tStartMs": 223950,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Çekerse nasıl kullanmalıdır?"
+    } ]
+  }, {
+    "tStartMs": 226560,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Kredi önemli bir nokta."
+    } ]
+  }, {
+    "tStartMs": 228270,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Bence iyi ki sona bıraktık."
+    } ]
+  }, {
+    "tStartMs": 229950,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Çünkü bir sürü başka şey anlattığımız için"
+    } ]
+  }, {
+    "tStartMs": 231690,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "daha anlam kazanacak burada"
+    } ]
+  }, {
+    "tStartMs": 233100,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "söyleyeceklerimiz. O da şu geleneksel"
+    } ]
+  }, {
+    "tStartMs": 237240,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "girişimler için sermaye demek ya aileden"
+    } ]
+  }, {
+    "tStartMs": 240120,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "alınan para ya da kredi demek."
+    } ]
+  }, {
+    "tStartMs": 242610,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Başka bir model yok geçmişte."
+    } ]
+  }, {
+    "tStartMs": 245310,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Ama kredinin başka bir boyutu daha var."
+    } ]
+  }, {
+    "tStartMs": 248190,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Mesela bu private equity'ler dedik ya"
+    } ]
+  }, {
+    "tStartMs": 250620,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "PE'ler, bunlar büyük paralar yatırıyor,"
+    } ]
+  }, {
+    "tStartMs": 253350,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "olgun işlere giriyorlar falan."
+    } ]
+  }, {
+    "tStartMs": 255930,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Onlar da kredi kullanıyor kendileri."
+    } ]
+  }, {
+    "tStartMs": 258670,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Yani o şirketin çoğunluk sermayesini satın"
+    } ]
+  }, {
+    "tStartMs": 261250,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "alırken gidiyor bankaya diyor ki ya da bir"
+    } ]
+  }, {
+    "tStartMs": 265270,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "başka finans kuruluşunda ben buna işte bu"
+    } ]
+  }, {
+    "tStartMs": 267220,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "kadar para koyacağım. Senden de bu iş için"
+    } ]
+  }, {
+    "tStartMs": 269650,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "şu kadar kredi alacağım deniyor."
+    } ]
+  }, {
+    "tStartMs": 271810,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Buna da kaldıraçlı satın alma deniyor."
+    } ]
+  }, {
+    "tStartMs": 274780,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Kaldıraçlı satın alma oldukça anlamlı."
+    } ]
+  }, {
+    "tStartMs": 276940,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Çünkü geçmişi deneyime ve ispatlanmış"
+    } ]
+  }, {
+    "tStartMs": 280630,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "başarıya dayanan fonlar bunlar."
+    } ]
+  }, {
+    "tStartMs": 283600,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Daha önce de yapmış. Mesela 100 lira kendi"
+    } ]
+  }, {
+    "tStartMs": 286180,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "koymuş, 100 lira kredi almış."
+    } ]
+  }, {
+    "tStartMs": 287380,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Sonra onu 500 liraya satmış mesela."
+    } ]
+  }, {
+    "tStartMs": 289930,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Şimdi bu ispatlanmış olduğu için burada da"
+    } ]
+  }, {
+    "tStartMs": 292420,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "kredi kullanılabilir."
+    } ]
+  }, {
+    "tStartMs": 294570,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Şimdi biz kendi dünyamıza dönelim."
+    } ]
+  }, {
+    "tStartMs": 296310,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Yani erken aşama yeni nesil girişimlere"
+    } ]
+  }, {
+    "tStartMs": 299220,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "dönelim. Orada kredi tercih edilen bir şey"
+    } ]
+  }, {
+    "tStartMs": 302220,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "değil. Neden değil?"
+    } ]
+  }, {
+    "tStartMs": 303450,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Çünkü belirsizlik yüksek ya."
+    } ]
+  }, {
+    "tStartMs": 305250,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Risk yüksek. Risk yükü yüksek olunca"
+    } ]
+  }, {
+    "tStartMs": 307650,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "bankanın onu verme ihtimali düşük."
+    } ]
+  }, {
+    "tStartMs": 310170,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Verse bile onun geri dönmeme ihtimali"
+    } ]
+  }, {
+    "tStartMs": 313140,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "yüksek. Onun için erken aşama girişimlerde"
+    } ]
+  }, {
+    "tStartMs": 318960,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "banka kredisini önermiyoruz."
+    } ]
+  }, {
+    "tStartMs": 321390,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Aslında girişimin yolculuğunda son noktaya"
+    } ]
+  }, {
+    "tStartMs": 324120,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "doğru geldik. Erken aşamada melek"
+    } ]
+  }, {
+    "tStartMs": 326370,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "yatırımcılar, kitlesel fonlama belki orta"
+    } ]
+  }, {
+    "tStartMs": 328860,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "aşamada büyüme aşamasında ürün pazar uyumu"
+    } ]
+  }, {
+    "tStartMs": 332190,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "bulunduktan sonra yatırım fonları devreye"
+    } ]
+  }, {
+    "tStartMs": 335280,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "girebilir. Peki bazen şart, bazen şart"
+    } ]
+  }, {
+    "tStartMs": 338130,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "olmayan, bazen bir rüyamız, bazen değil"
+    } ]
+  }, {
+    "tStartMs": 341310,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "nereye geldik? Halka açılmak."
+    } ]
+  }, {
+    "tStartMs": 343230,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Halka açılmaya geldik."
+    } ]
+  }, {
+    "tStartMs": 344520,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Bu gerçekten şart mıdır, istenilen bir şey"
+    } ]
+  }, {
+    "tStartMs": 346530,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "midir? Artıları, eksileri nedir?"
+    } ]
+  }, {
+    "tStartMs": 348300,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Biraz onu konuşalım. Dünya dinamiklerine"
+    } ]
+  }, {
+    "tStartMs": 352800,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "bakmak lazım burada."
+    } ]
+  }, {
+    "tStartMs": 355810,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Amerikan rüyası halka açılmak şart."
+    } ]
+  }, {
+    "tStartMs": 358780,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "IPO diyorlar, initial public offering"
+    } ]
+  }, {
+    "tStartMs": 360610,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "diyorlar biliyorsun."
+    } ]
+  }, {
+    "tStartMs": 362320,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Türkiye'de değil ama Türkiye'de son"
+    } ]
+  }, {
+    "tStartMs": 364480,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "zamanlarda örneklerini görmeye başladık."
+    } ]
+  }, {
+    "tStartMs": 368680,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Aslında bir süre önce başladı bu."
+    } ]
+  }, {
+    "tStartMs": 370930,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Bu eğilim, bu dalga, bu trend."
+    } ]
+  }, {
+    "tStartMs": 372520,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Ama sonra biraz yavaşladı."
+    } ]
+  }, {
+    "tStartMs": 373810,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Şimdi tekrar hızlandı."
+    } ]
+  }, {
+    "tStartMs": 376270,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "Yani bence gündemde olmasında yarar olan bir"
+    } ]
+  }, {
+    "tStartMs": 380680,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "kavram. Yani öğrenmek lazım en azından."
+    } ]
+  }, {
+    "tStartMs": 382630,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Yani hangi yöntemlerle açılıyor?"
+    } ]
+  }, {
+    "tStartMs": 385180,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Mesela dünyada bilinen iki tane çok temel"
+    } ]
+  }, {
+    "tStartMs": 387430,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "yöntem üç tane yöntem var aslında, bir tanesi"
+    } ]
+  }, {
+    "tStartMs": 390340,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "aracı kurumlar, bankalar yardımıyla açılmak."
+    } ]
+  }, {
+    "tStartMs": 394860,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "İkincisi direct listing denen direkt"
+    } ]
+  }, {
+    "tStartMs": 397960,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "açılmak. Mesela bunun B2C iş modeli olup"
+    } ]
+  }, {
+    "tStartMs": 400990,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "milyonlarca kullanıcısı olan platformlar"
+    } ]
+  }, {
+    "tStartMs": 403900,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "var. Bunlarda örnekleri var."
+    } ]
+  }, {
+    "tStartMs": 405280,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Onlar açılmayı çok başarılı bir şekilde"
+    } ]
+  }, {
+    "tStartMs": 407140,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "gerçekleştirdi. Üçüncüsü de yeniden gündeme"
+    } ]
+  }, {
+    "tStartMs": 411970,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "gelen bir bu amaçla kurulmuş şirketlere"
+    } ]
+  }, {
+    "tStartMs": 416810,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "birleştirme yapmak."
+    } ]
+  }, {
+    "tStartMs": 418040,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Spac diye bir mekanizma var."
+    } ]
+  }, {
+    "tStartMs": 420440,
+    "dDurationMs": 6570,
+    "segs": [ {
+      "utf8": "Özel amaçlı satın alma cihazı Spac demek,"
+    } ]
+  }, {
+    "tStartMs": 427550,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Special Purpose Acquisition Company."
+    } ]
+  }, {
+    "tStartMs": 432410,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Bu önceden para yatırıyorlar bunlara."
+    } ]
+  }, {
+    "tStartMs": 436790,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Yine kurumsal yatırımcılar büyük ölçüde ya"
+    } ]
+  }, {
+    "tStartMs": 438830,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "da bireysel yatırımcılar."
+    } ]
+  }, {
+    "tStartMs": 442520,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "Halka açılıyor bu şirket."
+    } ]
+  }, {
+    "tStartMs": 443930,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Ama içi boş bir şey yok."
+    } ]
+  }, {
+    "tStartMs": 445810,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "Oradaki para duruyor ve amacı bunun halka"
+    } ]
+  }, {
+    "tStartMs": 449030,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "açılma aşamasına gelmiş bir şekilde şirket"
+    } ]
+  }, {
+    "tStartMs": 451580,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "satın alıp ya da onunla birleşip onu da"
+    } ]
+  }, {
+    "tStartMs": 453920,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "otomatik olarak halka açmış olmak oluyor."
+    } ]
+  }, {
+    "tStartMs": 456200,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Bu da yeniden moda olmuş ve de başarılı"
+    } ]
+  }, {
+    "tStartMs": 458510,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "örnekleri olan bir yöntem."
+    } ]
+  }, {
+    "tStartMs": 460480,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Riskleri de çok bunun tabii ki en son"
+    } ]
+  }, {
+    "tStartMs": 462680,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "bahsettiğin. Ama burada aslında halka"
+    } ]
+  }, {
+    "tStartMs": 465830,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "açılmak demek gerçekten içinde bazı"
+    } ]
+  }, {
+    "tStartMs": 468650,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "taktikler ve değinilmesi gereken noktalar"
+    } ]
+  }, {
+    "tStartMs": 471530,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "barındırıyor. Bunun en büyük konularından"
+    } ]
+  }, {
+    "tStartMs": 474650,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "bir tanesi de transparanlık, şeffaflık."
+    } ]
+  }, {
+    "tStartMs": 477530,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Halka açıldıktan sonra diğer aşamalardakinden"
+    } ]
+  }, {
+    "tStartMs": 481100,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "çok çok daha farklı olarak artık sizin halka"
+    } ]
+  }, {
+    "tStartMs": 484850,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "karşı bir sorumluluğumuz var."
+    } ]
+  }, {
+    "tStartMs": 486140,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Yatırımcılarına, yatırımcılarımıza karşı bir"
+    } ]
+  }, {
+    "tStartMs": 488990,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "sorumluluğunuz var ve yaptığınız her"
+    } ]
+  }, {
+    "tStartMs": 491270,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "aksiyonu altını doldurmak, neden yaptığınızı"
+    } ]
+  }, {
+    "tStartMs": 494120,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "söylemek ve her şeyi şeffaf olarak"
+    } ]
+  }, {
+    "tStartMs": 496220,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "paylaşmanız gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 497960,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Bu bir start up'sanız, girişimseniz,"
+    } ]
+  }, {
+    "tStartMs": 500630,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "belirsizliği yüksek, riski yüksek alanlarda"
+    } ]
+  }, {
+    "tStartMs": 503780,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "operasyon yapıyorsanız aslında çok da kolay"
+    } ]
+  }, {
+    "tStartMs": 506030,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "bir şey değil. Çünkü yaptığınız her şeyin"
+    } ]
+  }, {
+    "tStartMs": 508580,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "gerçekten mantıklı bir amacı, mantıklı bir"
+    } ]
+  }, {
+    "tStartMs": 512540,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "açıklaması olmayabilir."
+    } ]
+  }, {
+    "tStartMs": 514670,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Siz gerçekten oradaki riski alıp o sorunu"
+    } ]
+  }, {
+    "tStartMs": 517100,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "çözmek için o aksiyonu almışsınızdır."
+    } ]
+  }, {
+    "tStartMs": 521060,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Ama yatırımcılarınız buna her zaman olumlu"
+    } ]
+  }, {
+    "tStartMs": 523250,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "tepki vermeyebilir."
+    } ]
+  }, {
+    "tStartMs": 524900,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Bunu siz de görüyorsunuz aslında."
+    } ]
+  }, {
+    "tStartMs": 527030,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Borsaya açık, halka açık bir sürü şirket var"
+    } ]
+  }, {
+    "tStartMs": 529820,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "ve aksiyonlarından sonra hisse değerlerinin"
+    } ]
+  }, {
+    "tStartMs": 531980,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "ne kadar değiştiğini görebilirsiniz."
+    } ]
+  }, {
+    "tStartMs": 535550,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Bir nokta daha var orada önemli."
+    } ]
+  }, {
+    "tStartMs": 537380,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "Bu tabi çok önemli ama bence bir yatırımcı"
+    } ]
+  }, {
+    "tStartMs": 541250,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "tarafından baktığında en az onun kadar"
+    } ]
+  }, {
+    "tStartMs": 543410,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "önemli bir nokta daha var."
+    } ]
+  }, {
+    "tStartMs": 544760,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "O da istediğin zaman satabiliyorsun hisseyi"
+    } ]
+  }, {
+    "tStartMs": 547250,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "istediğin zaman ya da daha fazla"
+    } ]
+  }, {
+    "tStartMs": 548480,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "alabiliyorsun. Yani bütün işte melek yatırım"
+    } ]
+  }, {
+    "tStartMs": 553010,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "VC PE gibi yatırımcı tiplerinin yaptığı"
+    } ]
+  }, {
+    "tStartMs": 556250,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "yatırımlar kolay kolay ikincil pazar"
+    } ]
+  }, {
+    "tStartMs": 559850,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "dediğimiz ya da birisine devretmesi zor olan"
+    } ]
+  }, {
+    "tStartMs": 564140,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "ya da mümkün olmayan yatırım tipleri."
+    } ]
+  }, {
+    "tStartMs": 567110,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "O açıdan mesela kitlesel fonlamada da o"
+    } ]
+  }, {
+    "tStartMs": 570020,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "mümkün. Gerçi Türkiye'deki mekanizma henüz"
+    } ]
+  }, {
+    "tStartMs": 572090,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "otomatik değil ama dolacak sanıyorum gelecek"
+    } ]
+  }, {
+    "tStartMs": 575120,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "yıl içinde. O zaman mesela kitlesel fonlama,"
+    } ]
+  }, {
+    "tStartMs": 578270,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "halka açılmanın bir küçük haline dönüşüyor."
+    } ]
+  }, {
+    "tStartMs": 582560,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Çünkü şirket ortağı olmak demek, belli"
+    } ]
+  }, {
+    "tStartMs": 584510,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "sorumlulukları yüklenmek, genel kurulu da"
+    } ]
+  }, {
+    "tStartMs": 586310,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "yapmak, yönetim kurulu yapmak, orada üyeler"
+    } ]
+  }, {
+    "tStartMs": 589820,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "koymak, onların sorumlulukları, yetkileri"
+    } ]
+  }, {
+    "tStartMs": 591890,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "gibi şeyler var. Halka açıldığında bitiyor."
+    } ]
+  }, {
+    "tStartMs": 594560,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "Bir platforma giriyorsun seçiyorsun, banka"
+    } ]
+  }, {
+    "tStartMs": 597210,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "ya da aracı kurum, bundan aldım diyorsun."
+    } ]
+  }, {
+    "tStartMs": 599780,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Kaç para kabul ettiysen hop senin."
+    } ]
+  }, {
+    "tStartMs": 602090,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Sonra ertesi gün arttı, azaldı."
+    } ]
+  }, {
+    "tStartMs": 603860,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Bir nedenle tekrar satabiliyorsun."
+    } ]
+  }, {
+    "tStartMs": 605570,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Bu açıdan halka açılmak bence son derece"
+    } ]
+  }, {
+    "tStartMs": 608630,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "farklı bir mekanizma ve piyasa değerinin"
+    } ]
+  }, {
+    "tStartMs": 615280,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "pazar tarafından belirlendiği bir model."
+    } ]
+  }, {
+    "tStartMs": 617980,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Bence önemli bir model."
+    } ]
+  }, {
+    "tStartMs": 620170,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Önemli bir model. Burada hep söylediğimiz"
+    } ]
+  }, {
+    "tStartMs": 622630,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "gibi yine riskin azalması iyice dibe iniyor"
+    } ]
+  }, {
+    "tStartMs": 626950,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "ve bireysel yatırımcı olsa bile hisse sahibi"
+    } ]
+  }, {
+    "tStartMs": 630640,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "olan insanların riski en az noktada oluyor."
+    } ]
+  }, {
+    "tStartMs": 633430,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Çünkü istediği zaman satabiliyor,"
+    } ]
+  }, {
+    "tStartMs": 634780,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "devrediliyor. Dediğin gibi yatırım türlerini"
+    } ]
+  }, {
+    "tStartMs": 638410,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "aslında ve yatırımcı türlerini detaylı"
+    } ]
+  }, {
+    "tStartMs": 640690,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "konuştuk. Hepsine ayrı ayrı aşama aşama,"
+    } ]
+  }, {
+    "tStartMs": 643720,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "hangi aşamada, hangi start up'ların, hangi"
+    } ]
+  }, {
+    "tStartMs": 645700,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "yeni nesil girişimlerin, uygulama sahiplerin"
+    } ]
+  }, {
+    "tStartMs": 648070,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "veya oyun sahiplerinin nasıl yatırımlar"
+    } ]
+  }, {
+    "tStartMs": 650200,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "olabileceğinden bahsettik."
+    } ]
+  }, {
+    "tStartMs": 651850,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Kime gideceğinden, nasıl gideceğinden"
+    } ]
+  }, {
+    "tStartMs": 653620,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "bahsettik. Aslında hepinizin çok ilgisini"
+    } ]
+  }, {
+    "tStartMs": 657070,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "çekeceğini düşündüğümüz bir modül bu."
+    } ]
+  }, {
+    "tStartMs": 659540,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "Bunu tekrar tekrar izlemek, baştan yine"
+    } ]
+  }, {
+    "tStartMs": 663100,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "başka modüllerin mottosu olan gibi bunun"
+    } ]
+  }, {
+    "tStartMs": 666160,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "mottosu da farkındalık olabilir."
+    } ]
+  }, {
+    "tStartMs": 669040,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Bu yatırım tiplerinin ve yatırımcı"
+    } ]
+  }, {
+    "tStartMs": 671260,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "tiplerinin farkında olarak aksiyonları almak"
+    } ]
+  }, {
+    "tStartMs": 674500,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "yine sizi hızlandıracak ve ölçeklenmenize"
+    } ]
+  }, {
+    "tStartMs": 677560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "yardım edecektir. Evet, yani fikir doğrulama"
+    } ]
+  }, {
+    "tStartMs": 679960,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "yani çözüm ile problem uyumunu gördüğünüz"
+    } ]
+  }, {
+    "tStartMs": 684490,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "anda bence bu modül bir daha izleyin, bir"
+    } ]
+  }, {
+    "tStartMs": 687100,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "daha izleyin. Tekrar teşekkürler, görüşmek"
+    } ]
+  }, {
+    "tStartMs": 689470,
+    "dDurationMs": 270,
+    "segs": [ {
+      "utf8": "üzere."
+    } ]
+  } ]
+}
