@@ -1,0 +1,985 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 3360,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Herkese merhaba. Bu modülümüzde girişimlerde"
+    } ]
+  }, {
+    "tStartMs": 6030,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "bütçe yöntemini konuşacağız."
+    } ]
+  }, {
+    "tStartMs": 7800,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Aslında bir önceki modülümüzde yatırımcı"
+    } ]
+  }, {
+    "tStartMs": 11280,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "çeşitlerini ve yatırım çeşitlerini"
+    } ]
+  }, {
+    "tStartMs": 13050,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "konuşmuştuk. Burada yatırımı aldıktan sonra"
+    } ]
+  }, {
+    "tStartMs": 16920,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "buradaki motto, bu yatırımı biz nasıl"
+    } ]
+  }, {
+    "tStartMs": 18930,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "harcayacağız? Nasıl büyüyeceğiz, nelerle"
+    } ]
+  }, {
+    "tStartMs": 21960,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "karşılaşacağız? Biraz bunlardan konuşacağız."
+    } ]
+  }, {
+    "tStartMs": 24090,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Bu modülün çıktısı ne olacak Ömer abi."
+    } ]
+  }, {
+    "tStartMs": 26430,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Bu en heyecanlı modül."
+    } ]
+  }, {
+    "tStartMs": 27600,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Para geldi çünkü. Nasıl harcayacağız?"
+    } ]
+  }, {
+    "tStartMs": 31320,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Şaka bir yana, kritik bir yer burası."
+    } ]
+  }, {
+    "tStartMs": 33210,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Bir kere 1 2 tane temel kavram tanımlamamız"
+    } ]
+  }, {
+    "tStartMs": 36300,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "lazım. Ama onları tanımlamadan bir şey"
+    } ]
+  }, {
+    "tStartMs": 37890,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "söylemek istiyorum ben. Sürekli yatırım alma"
+    } ]
+  }, {
+    "tStartMs": 42710,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "modunda, vizyonunda olmakta fayda var."
+    } ]
+  }, {
+    "tStartMs": 46490,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Yani parayı aldık, rahatlayalım katiyen"
+    } ]
+  }, {
+    "tStartMs": 49850,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "olmaması gereken bir şey."
+    } ]
+  }, {
+    "tStartMs": 51260,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Hiçbir zaman rahatlamak lazım."
+    } ]
+  }, {
+    "tStartMs": 53210,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "O aslında ne noktalarda?"
+    } ]
+  }, {
+    "tStartMs": 55160,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Hani bu alarm mekanizmalarımız, kurucu"
+    } ]
+  }, {
+    "tStartMs": 57620,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "ortaklarına alarm mekanizması ne noktada"
+    } ]
+  }, {
+    "tStartMs": 59900,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "çalışmalı? Şöyle yani hani sürekli yatırım"
+    } ]
+  }, {
+    "tStartMs": 64070,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "alma modunda olmak demek, sürekli gidip bir"
+    } ]
+  }, {
+    "tStartMs": 66050,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "yerlerde pitch edip para kovalamak demek"
+    } ]
+  }, {
+    "tStartMs": 68270,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "değil. Ama sürekli para bitecekmiş gibi"
+    } ]
+  }, {
+    "tStartMs": 70850,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "düşünüp ne zaman, hangi aşamada olduğuna"
+    } ]
+  }, {
+    "tStartMs": 75620,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "göre kime gideceğini aklında tutmak"
+    } ]
+  }, {
+    "tStartMs": 78950,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "gerekiyor kurucu ortak olarak."
+    } ]
+  }, {
+    "tStartMs": 80780,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Yani atıyorum parayı şeyde almış olasın ol"
+    } ]
+  }, {
+    "tStartMs": 83660,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "MVP aşamasında."
+    } ]
+  }, {
+    "tStartMs": 85580,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Ne yapacaksın, bir sonraki aşama olan ürün"
+    } ]
+  }, {
+    "tStartMs": 88760,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "pazar uyumunu kovalayacaksın."
+    } ]
+  }, {
+    "tStartMs": 91820,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Baktın paran bitecek gibi o zaman bu sefer"
+    } ]
+  }, {
+    "tStartMs": 94010,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "ürün pazar uyumunda ilerlediğin muhataplara"
+    } ]
+  }, {
+    "tStartMs": 98570,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "gitmen lazım. Örneğin VC'lere gitmen lazım."
+    } ]
+  }, {
+    "tStartMs": 100880,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Girişim sermayesi yatırım fonlarına gitmen"
+    } ]
+  }, {
+    "tStartMs": 102560,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "lazım belki o zaman pitch'deki sunumunu"
+    } ]
+  }, {
+    "tStartMs": 106160,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "değiştirmem lazım, söylemini değiştirmem"
+    } ]
+  }, {
+    "tStartMs": 108380,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "lazım, ilişkilerini güncellemen lazım"
+    } ]
+  }, {
+    "tStartMs": 110960,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "vesaire. Bunu baştan bir kere söylemiş"
+    } ]
+  }, {
+    "tStartMs": 112550,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "olalım. Ötelenmiş alacaklar ve ötelenmiş"
+    } ]
+  }, {
+    "tStartMs": 115220,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "borçlar da göz önüne alındığında sadece"
+    } ]
+  }, {
+    "tStartMs": 118970,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "bankada para tek başına bir şey ifade"
+    } ]
+  }, {
+    "tStartMs": 122420,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "etmiyor tabi. İş modeline, gelir modeline"
+    } ]
+  }, {
+    "tStartMs": 125720,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "bağlı olmakla beraber her zaman bazı şeyler"
+    } ]
+  }, {
+    "tStartMs": 129350,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "öteleniyor. Örneğin iki tane büyük uygulama"
+    } ]
+  }, {
+    "tStartMs": 133640,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "store'unda ödemeler 30 ila 45 gün gecikmeli"
+    } ]
+  }, {
+    "tStartMs": 138050,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "geliyor. Ama mesela yeni reklam vermeye"
+    } ]
+  }, {
+    "tStartMs": 141980,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "başladıysa peşin vermen gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 143930,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "Bu bile bir nakit akış problemi demeyelim"
+    } ]
+  }, {
+    "tStartMs": 148660,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "ama konusu yaratıyor."
+    } ]
+  }, {
+    "tStartMs": 150840,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "Problem değil çünkü aslında gerçeği bu."
+    } ]
+  }, {
+    "tStartMs": 154360,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Böyle oluyor bu işler. Bunu gözönüne almak"
+    } ]
+  }, {
+    "tStartMs": 156370,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "gerekiyor çünkü bunu almadan yaparsan ve de"
+    } ]
+  }, {
+    "tStartMs": 159130,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "işler bir anda hızlı büyürse örnek vermek"
+    } ]
+  }, {
+    "tStartMs": 162040,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "gerekirse çok iyi gitti."
+    } ]
+  }, {
+    "tStartMs": 164560,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Reklama tabiri caizse bastın parayı"
+    } ]
+  }, {
+    "tStartMs": 168040,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "karşılığı geliyor."
+    } ]
+  }, {
+    "tStartMs": 169360,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Ama reklama peşin ödediğin için karşılığı 30"
+    } ]
+  }, {
+    "tStartMs": 172240,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "ila 45 günde geleceği için bir anda nakitsiz"
+    } ]
+  }, {
+    "tStartMs": 175030,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "kalabilirsiniz. Halbuki biz ne dedik bu"
+    } ]
+  }, {
+    "tStartMs": 176710,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "bölümde? Biz aslında bu bu bölümün mottosu"
+    } ]
+  }, {
+    "tStartMs": 180040,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "nakiti sevin. Nakiti seviyoruz."
+    } ]
+  }, {
+    "tStartMs": 183370,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Erken aşamada bütçede çuvallama çokça sıkça"
+    } ]
+  }, {
+    "tStartMs": 187660,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "gördüğümüz şeyler. Çünkü aslında erken"
+    } ]
+  }, {
+    "tStartMs": 189910,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "aşamada bir girişim eğer daha önce"
+    } ]
+  }, {
+    "tStartMs": 191620,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "tecrübelemediyse bu konuları hangi"
+    } ]
+  }, {
+    "tStartMs": 194230,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "metriklere bakacağını bilemeyebiliyor."
+    } ]
+  }, {
+    "tStartMs": 196420,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Biraz önce birkaç tanesini söyledin Ömer abi"
+    } ]
+  }, {
+    "tStartMs": 198310,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "ama nakit akışı yönetirken en fazla bakmamız"
+    } ]
+  }, {
+    "tStartMs": 201640,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "gereken metrikler hangisidir?"
+    } ]
+  }, {
+    "tStartMs": 203410,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Şimdi bir tane, bir iki tane temel tanım"
+    } ]
+  }, {
+    "tStartMs": 205360,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "var. Bir tanesi aylık yakma hızı burn rate"
+    } ]
+  }, {
+    "tStartMs": 210320,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "İngilizcesi. Diğeri de toplam pistte kalan"
+    } ]
+  }, {
+    "tStartMs": 214180,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "mesafe runway bunun adı da."
+    } ]
+  }, {
+    "tStartMs": 217700,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Burn rate şu demek o ay içinde giren para"
+    } ]
+  }, {
+    "tStartMs": 220780,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "eksi çıkan para genellikle başlangıçta bunun"
+    } ]
+  }, {
+    "tStartMs": 223210,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "sonucu eksi veriyor. Çünkü çıkan para daha"
+    } ]
+  }, {
+    "tStartMs": 224950,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "çok oluyor. Onun için burn rate burn oradan"
+    } ]
+  }, {
+    "tStartMs": 228070,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "geliyor atmaktan geliyor."
+    } ]
+  }, {
+    "tStartMs": 229720,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Kalan parana bölersen bunu da runway"
+    } ]
+  }, {
+    "tStartMs": 232360,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "çıkıyor. Yani toplam pistte kalan mesafe."
+    } ]
+  }, {
+    "tStartMs": 235300,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Niye runway?"
+    } ]
+  }, {
+    "tStartMs": 236440,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Çünkü pist biterse uçak kalkamaz."
+    } ]
+  }, {
+    "tStartMs": 239560,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "O yüzden de runway deniyor."
+    } ]
+  }, {
+    "tStartMs": 241210,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Burada nefesiniz de diyorlar bazen kurucu"
+    } ]
+  }, {
+    "tStartMs": 244150,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "ortaklara."
+    } ]
+  }, {
+    "tStartMs": 245250,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Ne kadar nefesin kaldı?"
+    } ]
+  }, {
+    "tStartMs": 247290,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Yatırımsız ne kadar devam edebilirsin ya da"
+    } ]
+  }, {
+    "tStartMs": 249220,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "elindeki parayla ne kadar devam edebilirsin"
+    } ]
+  }, {
+    "tStartMs": 251680,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "bunu bilmek önemli."
+    } ]
+  }, {
+    "tStartMs": 253150,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Tabii ki kurucu ortaklarda bazen şöyle"
+    } ]
+  }, {
+    "tStartMs": 255610,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "aksiyonlar görebiliyoruz, o da şu şöyle"
+    } ]
+  }, {
+    "tStartMs": 258970,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "alışkanlıklar görebiliyoruz."
+    } ]
+  }, {
+    "tStartMs": 260260,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Belki bu geleneksel geçmişlerinden gelen bir"
+    } ]
+  }, {
+    "tStartMs": 263650,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "şeydir. O da muhasebeci ilgileniyor bakış"
+    } ]
+  }, {
+    "tStartMs": 267010,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "açısı. Muhasebeci ya da muhasebe ile uğraşan"
+    } ]
+  }, {
+    "tStartMs": 271240,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "çalışanınız veya dışarıdan çalışıyorsanız"
+    } ]
+  }, {
+    "tStartMs": 273850,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "dış parti muhasebeci sizden daha iyi"
+    } ]
+  }, {
+    "tStartMs": 277090,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "bilmemeli. Sizin bütün metriklerin farkında"
+    } ]
+  }, {
+    "tStartMs": 280090,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "olmanız gerekiyor bir kurucu ortak olarak"
+    } ]
+  }, {
+    "tStartMs": 281830,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "çünkü bu sizin işiniz. Burada böyle bir"
+    } ]
+  }, {
+    "tStartMs": 284530,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "alışkanlık seziyorum ben ekosistemde burada"
+    } ]
+  }, {
+    "tStartMs": 287130,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": ". Maalesef maalesef."
+    } ]
+  }, {
+    "tStartMs": 288190,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Evet yani burada özellikle deneyimsiz ya da"
+    } ]
+  }, {
+    "tStartMs": 292270,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "ilk defa deneyen girişimcilerde kendi cebi"
+    } ]
+  }, {
+    "tStartMs": 296080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "ile olan ilişkisini start up'ının cebi ile"
+    } ]
+  }, {
+    "tStartMs": 300670,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "benzer diye düşünüyor ister istemez."
+    } ]
+  }, {
+    "tStartMs": 303520,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Ve yanılıyor orada."
+    } ]
+  }, {
+    "tStartMs": 306010,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "Onun için bu oldukça kritik."
+    } ]
+  }, {
+    "tStartMs": 307660,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Yani önceden planlamak tutmayabilir ama en"
+    } ]
+  }, {
+    "tStartMs": 312670,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "azından tutmayan bir planın olur."
+    } ]
+  }, {
+    "tStartMs": 315010,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Bilirsin ki onu düzeltmen gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 317440,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Kağıt üstünde de olsa her şeyin farkında"
+    } ]
+  }, {
+    "tStartMs": 319240,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "olmak çok önemli. Dediğimiz gibi burası"
+    } ]
+  }, {
+    "tStartMs": 321820,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "sizin kurucu ortağı olduğunuz girişim sizin"
+    } ]
+  }, {
+    "tStartMs": 324880,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "şirketiniz. O yüzden her şeyle başından"
+    } ]
+  }, {
+    "tStartMs": 327220,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "sonuna kadar her şeyinin farkında olmak da"
+    } ]
+  }, {
+    "tStartMs": 329530,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "aslında en önemli işlerimizden bir tanesi."
+    } ]
+  }, {
+    "tStartMs": 331630,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "Burada bir konu daha var."
+    } ]
+  }, {
+    "tStartMs": 332650,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Yine yanlış yapıldığını düşündüğümüz ya da"
+    } ]
+  }, {
+    "tStartMs": 334420,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "uygun olmadığını düşündüğümüz bir konu daha"
+    } ]
+  }, {
+    "tStartMs": 336640,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "var. O da bazı metriklerin daha iyi"
+    } ]
+  }, {
+    "tStartMs": 340870,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "gösterilmeye çalışması."
+    } ]
+  }, {
+    "tStartMs": 342790,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "İşte bankadaki hesaptaki paranın daha çok"
+    } ]
+  }, {
+    "tStartMs": 346150,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "gösterilmeye çalışması, sanki daha az para"
+    } ]
+  }, {
+    "tStartMs": 349900,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "yakıyormuş gibi gösterilmeye çabası."
+    } ]
+  }, {
+    "tStartMs": 352330,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Ama aslında bu işin bir doğrusu yok."
+    } ]
+  }, {
+    "tStartMs": 354490,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Daha az karlı olabilirsiniz, daha çok para"
+    } ]
+  }, {
+    "tStartMs": 356980,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "yakıyor olabilirsiniz, runway'iniz daha kısa"
+    } ]
+  }, {
+    "tStartMs": 359080,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "olabilir. Bunların sadece karşı aksiyonları"
+    } ]
+  }, {
+    "tStartMs": 362920,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "var. Runway'iniz daha mı kısa mı?"
+    } ]
+  }, {
+    "tStartMs": 365140,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Daha iyi para toplamayı öğrenmek gerekir."
+    } ]
+  }, {
+    "tStartMs": 368260,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Ya da daha çok çabuk mu yakıyorsunuz, daha"
+    } ]
+  }, {
+    "tStartMs": 370960,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "efektif para yakmayı öğrenmeniz gerekir gibi"
+    } ]
+  }, {
+    "tStartMs": 373390,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "karşı aksiyonlar tanımlamak gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 375280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Bu bizim başka modellerde ve yeni nesil"
+    } ]
+  }, {
+    "tStartMs": 378280,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "kafasında sürekli söylediğimiz neye tekabül"
+    } ]
+  }, {
+    "tStartMs": 381100,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "ediyor? Sen şimdi kendinizi kandırmayın"
+    } ]
+  }, {
+    "tStartMs": 383530,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "diyeceksin ama ben ne diyeceğim, kendinizi"
+    } ]
+  }, {
+    "tStartMs": 385240,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "daha az kandırın diyeceğim."
+    } ]
+  }, {
+    "tStartMs": 386530,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Doğru çünkü kendini kandırmak biraz da"
+    } ]
+  }, {
+    "tStartMs": 388360,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "kaçınılmaz doğrusu."
+    } ]
+  }, {
+    "tStartMs": 389570,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Ama daha az kandırır isen, ufak tefek"
+    } ]
+  }, {
+    "tStartMs": 393190,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "çuvallamalarla öğrenirsin yani öğrenirsiniz."
+    } ]
+  }, {
+    "tStartMs": 399570,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Bu derste yatırımı aldıktan sonra nasıl"
+    } ]
+  }, {
+    "tStartMs": 402390,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "harcayacağımızı öğrenmeye başlamak için"
+    } ]
+  }, {
+    "tStartMs": 404160,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "aslında bir genel izlenim vermek istiyoruz."
+    } ]
+  }, {
+    "tStartMs": 407010,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Burada iki tane çok önemli metrikten"
+    } ]
+  }, {
+    "tStartMs": 409860,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "bahsettin burn rate ve runway gibi."
+    } ]
+  }, {
+    "tStartMs": 412830,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Tabi ki giren para ne kadar para girecek, ne"
+    } ]
+  }, {
+    "tStartMs": 415740,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "kadar para çıkıyor cash flow, nakit akışının"
+    } ]
+  }, {
+    "tStartMs": 418440,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "yönetimi gibi bazı konseptlerden de"
+    } ]
+  }, {
+    "tStartMs": 421230,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "bahsettik. Bu dersi burada bitirelim."
+    } ]
+  }, {
+    "tStartMs": 424170,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Biraz sonra bu parayı gerçekten nasıl"
+    } ]
+  }, {
+    "tStartMs": 426540,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "harcayacağız, nelere harcamamız gerekiyor?"
+    } ]
+  }, {
+    "tStartMs": 427980,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Kalemlerin biraz detayına inelim."
+    } ]
+  }, {
+    "tStartMs": 430380,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Dediğimiz gibi konuşması en zevkli"
+    } ]
+  }, {
+    "tStartMs": 432480,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "bölümlerden bir tanesi."
+    } ]
+  }, {
+    "tStartMs": 433740,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Ama bir o kadar da stresi yüksek."
+    } ]
+  }, {
+    "tStartMs": 436470,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "O yüzden bir sonraki derste buluşalım."
+    } ]
+  } ]
+}

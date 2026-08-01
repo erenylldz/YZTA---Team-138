@@ -1,0 +1,1381 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1820,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Herkese merhaba. Bu modülde aşamalara göre"
+    } ]
+  }, {
+    "tStartMs": 4460,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "hedef belirleme konuşacağız."
+    } ]
+  }, {
+    "tStartMs": 6860,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Yeni nesil girişimlerin, uygulamaların ya da"
+    } ]
+  }, {
+    "tStartMs": 8930,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "oyunların yolculuklarına göre başlangıç"
+    } ]
+  }, {
+    "tStartMs": 12200,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "aşamalarında, ilerleme aşamalarında ya da"
+    } ]
+  }, {
+    "tStartMs": 15380,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "büyüme aşamalarında bunların hepsinin ayrı"
+    } ]
+  }, {
+    "tStartMs": 18230,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "açıklamaları var. Buradaki farklı hedef"
+    } ]
+  }, {
+    "tStartMs": 21320,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "belirleme yöntemleri ve ölçümleme"
+    } ]
+  }, {
+    "tStartMs": 23300,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "yöntemlerini konuşacağız."
+    } ]
+  }, {
+    "tStartMs": 24800,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Bu modülden ne çıktı alacak akademi"
+    } ]
+  }, {
+    "tStartMs": 26470,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "katılımcıları, ömer abi?"
+    } ]
+  }, {
+    "tStartMs": 27170,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "Bir kere hangi aşamada olduklarını"
+    } ]
+  }, {
+    "tStartMs": 32240,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "değerlendirebilecekler, karar"
+    } ]
+  }, {
+    "tStartMs": 33830,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "verebilecekler. Ve bulundukları aşamaya göre"
+    } ]
+  }, {
+    "tStartMs": 36950,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "hangi metrikleri, hangi ölçülere, hangi"
+    } ]
+  }, {
+    "tStartMs": 40670,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "değerlere bakmaları gerektiğine ve onların"
+    } ]
+  }, {
+    "tStartMs": 44160,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "büyüme çizgilerine, birbirleriyle olan"
+    } ]
+  }, {
+    "tStartMs": 47220,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "ilişkilerine, kaç tane ölçüye bakmaları"
+    } ]
+  }, {
+    "tStartMs": 50700,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "gerektiğine gibi son derece önemli ve kritik"
+    } ]
+  }, {
+    "tStartMs": 55680,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "sayılara bakıp karar verebilecekler."
+    } ]
+  }, {
+    "tStartMs": 57840,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Burada değineceğimiz önemli bir konu da"
+    } ]
+  }, {
+    "tStartMs": 61710,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "belirlenen hedeflerin yani metriklerin"
+    } ]
+  }, {
+    "tStartMs": 64620,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "birincil mi ikincil mi metrik olarak"
+    } ]
+  }, {
+    "tStartMs": 66660,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "tanımlanması olacak."
+    } ]
+  }, {
+    "tStartMs": 67890,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Kimi girişimlerin, kimi uygulamanın ya da"
+    } ]
+  }, {
+    "tStartMs": 70800,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "kimi oyun girişiminin, oyun stüdyosunun"
+    } ]
+  }, {
+    "tStartMs": 73860,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "birincil metrik olarak tanımladığı bazı"
+    } ]
+  }, {
+    "tStartMs": 76380,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "metriklerin ikincil olarak"
+    } ]
+  }, {
+    "tStartMs": 77160,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "tanımlanabileceğini bazen bunların yanıltıcı"
+    } ]
+  }, {
+    "tStartMs": 79860,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "olabileceğinden bahsedeceğiz."
+    } ]
+  }, {
+    "tStartMs": 82320,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Bir de ikincil tanımlanabilecek ve birincil"
+    } ]
+  }, {
+    "tStartMs": 84930,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "tanımlanabilecek metriklerde şöyle bir konu"
+    } ]
+  }, {
+    "tStartMs": 86850,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "var Eğer yüzde 90'ını bir metrik"
+    } ]
+  }, {
+    "tStartMs": 91650,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "halledebiliyorsa, bir göstergenin yüzde"
+    } ]
+  }, {
+    "tStartMs": 94830,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "doksan birini ama on metrik ile"
+    } ]
+  }, {
+    "tStartMs": 96570,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "çözebiliyorsan aslında kafa karıştırıcı"
+    } ]
+  }, {
+    "tStartMs": 98490,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "olabilir. O yüzden  sen bir metrik ile bir"
+    } ]
+  }, {
+    "tStartMs": 100830,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "işin %90'ını çözmek isteyebilirsin ve bu"
+    } ]
+  }, {
+    "tStartMs": 103350,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "senin için daha uygun ve daha kolay"
+    } ]
+  }, {
+    "tStartMs": 105060,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "olabilir. Biz olur."
+    } ]
+  }, {
+    "tStartMs": 108210,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Olur. Burada aslında aşamaları dört adımda"
+    } ]
+  }, {
+    "tStartMs": 113370,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "inceleyeceğiz. Bunlar fikir aşaması, MVP"
+    } ]
+  }, {
+    "tStartMs": 117300,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "aşaması, ürün-pazar uyumu aşaması ve"
+    } ]
+  }, {
+    "tStartMs": 120090,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "ölçeklenme aşaması."
+    } ]
+  }, {
+    "tStartMs": 121860,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Eee, bunları istersen tanımlayarak"
+    } ]
+  }, {
+    "tStartMs": 124470,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "başlayalım."
+    } ]
+  }, {
+    "tStartMs": 125130,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Bir startup ın yolculuğunu biz kabaca hani"
+    } ]
+  }, {
+    "tStartMs": 127290,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "şey gibi bebeklik, çocukluk, gençlik, orta"
+    } ]
+  }, {
+    "tStartMs": 130970,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "yaşlılık gibi bir şey bu aslında öyle bir,"
+    } ]
+  }, {
+    "tStartMs": 134570,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "illada herhangi bir yönde yavaşlama, aşağı"
+    } ]
+  }, {
+    "tStartMs": 138330,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "gitme söz konusu değil."
+    } ]
+  }, {
+    "tStartMs": 139740,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Burada hep yukarı gitmesi lazım."
+    } ]
+  }, {
+    "tStartMs": 141270,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Bir noktadan sonra yukarı gitme tabii"
+    } ]
+  }, {
+    "tStartMs": 143310,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "yavaşlayabilir ama yine de bir yerde kalmayı"
+    } ]
+  }, {
+    "tStartMs": 147120,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "istemesi lazım. Start-up artık bir kurum"
+    } ]
+  }, {
+    "tStartMs": 149230,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "haline gelse bile onun için biz o aşamayı"
+    } ]
+  }, {
+    "tStartMs": 152610,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "pas geçeceğiz. Yani artık kurumlaşmış bir"
+    } ]
+  }, {
+    "tStartMs": 156600,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "yenisi girişimle ilgilenmiyoruz."
+    } ]
+  }, {
+    "tStartMs": 158580,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Sadece ölçeklenmede bitireceğiz bu işi."
+    } ]
+  }, {
+    "tStartMs": 161430,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Aslında büyümenin aslında en hızlı olduğu"
+    } ]
+  }, {
+    "tStartMs": 163290,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "yerde bitireceğiz, diyebiliriz."
+    } ]
+  }, {
+    "tStartMs": 165990,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Nasıl tanımayacağız şöyle tanımlayacağız."
+    } ]
+  }, {
+    "tStartMs": 167580,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Fikir aşaması henüz ortada bir şey yok."
+    } ]
+  }, {
+    "tStartMs": 169230,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Hatta Belki takım bile yok."
+    } ]
+  }, {
+    "tStartMs": 171090,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "Bir kişi var, onun bir fikri var."
+    } ]
+  }, {
+    "tStartMs": 172650,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Fikrin kaynağıda neydi?"
+    } ]
+  }, {
+    "tStartMs": 174330,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Problem kendi problemi olabilir veya"
+    } ]
+  }, {
+    "tStartMs": 176850,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "çevresinde gördüğü veya önemsediği bir"
+    } ]
+  }, {
+    "tStartMs": 178830,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "problemi olabilir. Ya çözülmemiş problemi"
+    } ]
+  }, {
+    "tStartMs": 180780,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "olabilir. O problemin tanımı, problemin"
+    } ]
+  }, {
+    "tStartMs": 185550,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "doğrulanması, çözüm tanımı, çözümün"
+    } ]
+  }, {
+    "tStartMs": 188490,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "doğrulanması ve ondan sonra ekipleşip"
+    } ]
+  }, {
+    "tStartMs": 192630,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "çözüm-problem uyumunun gerçekleşmesi ki buna"
+    } ]
+  }, {
+    "tStartMs": 197130,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "da fikir doğrulama demiştik."
+    } ]
+  }, {
+    "tStartMs": 199610,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Eee bu aşamaya kadar, bu noktaya kadar gelen"
+    } ]
+  }, {
+    "tStartMs": 203970,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "start-uplara biz fikir aşamasındaki startup"
+    } ]
+  }, {
+    "tStartMs": 206730,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "diyoruz ama ne zaman ki artık bir ürün bir"
+    } ]
+  }, {
+    "tStartMs": 209590,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "MVP,MTP bile olsa yani minimumda"
+    } ]
+  }, {
+    "tStartMs": 212610,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "kullanılabilir, test edilebilir bir ürün"
+    } ]
+  }, {
+    "tStartMs": 214650,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "bile olsa artık buna MVP aşaması diyoruz."
+    } ]
+  }, {
+    "tStartMs": 217470,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Sonra ürün pazar uyumu aşaması bundan sonra"
+    } ]
+  }, {
+    "tStartMs": 220380,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "geliyor. Eee daha sonra da dediğimiz gibi"
+    } ]
+  }, {
+    "tStartMs": 224130,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "ölçeklenme aşaması geliyor."
+    } ]
+  }, {
+    "tStartMs": 226080,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Burada hem ürün çeşitliliğinin artması, ekip"
+    } ]
+  }, {
+    "tStartMs": 229560,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "sayısının artması, pazar payı pazar payı"
+    } ]
+  }, {
+    "tStartMs": 232710,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "arayışının artması gibi farklı faktörler"
+    } ]
+  }, {
+    "tStartMs": 235680,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "devreye giriyor. Hepsini detaylı"
+    } ]
+  }, {
+    "tStartMs": 237390,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "konuşacağız."
+    } ]
+  }, {
+    "tStartMs": 238290,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Kabaca kimlere benzesin diye şu iki şeyi"
+    } ]
+  }, {
+    "tStartMs": 241710,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "ekleyebiliriz Ürün pazar uyumunda artık"
+    } ]
+  }, {
+    "tStartMs": 244710,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "gelirden bahsediyoruz, gelir"
+    } ]
+  }, {
+    "tStartMs": 246390,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "metropollerinden bahsediyoruz."
+    } ]
+  }, {
+    "tStartMs": 248280,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Ölçeklenme aşamasında da büyümenin"
+    } ]
+  }, {
+    "tStartMs": 250680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "hızlanması ve değişik pazarlara açılmadan"
+    } ]
+  }, {
+    "tStartMs": 253560,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "bahsediyoruz. Çok kabaca."
+    } ]
+  }, {
+    "tStartMs": 255030,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Şimdi istersen fikir aşamasındaki metrik"
+    } ]
+  }, {
+    "tStartMs": 258030,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "konuşalım. Fikir aşamasında bir girişim, bir"
+    } ]
+  }, {
+    "tStartMs": 261060,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "uygulama, geliştirici, bir oyun geliştirici"
+    } ]
+  }, {
+    "tStartMs": 263070,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "ekip e hangi metrkleri takip etmelidir."
+    } ]
+  }, {
+    "tStartMs": 266370,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Fikir doğrulama aşamasının yani MVP öncesi"
+    } ]
+  }, {
+    "tStartMs": 269940,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "aşamanın adımlarına bakalım her adımda."
+    } ]
+  }, {
+    "tStartMs": 272400,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Eee bu farklı olabilir."
+    } ]
+  }, {
+    "tStartMs": 274350,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Mesela problem tanımında problem tanımının"
+    } ]
+  }, {
+    "tStartMs": 277200,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "yapılıp doğrulanması aşamasında mesela kaç"
+    } ]
+  }, {
+    "tStartMs": 279930,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "kişiye soruldu? Bir metrik olabilir."
+    } ]
+  }, {
+    "tStartMs": 283810,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Sonra çözüm tanımlama ve çözümün"
+    } ]
+  }, {
+    "tStartMs": 285760,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "doğrulanmasında yine kaç kişiyle denendiği"
+    } ]
+  }, {
+    "tStartMs": 289750,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "olabilir. Uyum aradığımız, yani problem"
+    } ]
+  }, {
+    "tStartMs": 292450,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "çözüm uyumu aradığımızda da gerçekten o"
+    } ]
+  }, {
+    "tStartMs": 294790,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "sırada kullandığımız MVP MTP öncesi ürüncük"
+    } ]
+  }, {
+    "tStartMs": 300580,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "diyelim, ona Mokap vesaire olabilir."
+    } ]
+  }, {
+    "tStartMs": 304360,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Onun kaç kişiye gösterildiği ve kaç kişiden"
+    } ]
+  }, {
+    "tStartMs": 307480,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "geri bildirim alındığı olabilir."
+    } ]
+  }, {
+    "tStartMs": 309190,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Yani kabaca geri bildirim ve kişi ya da"
+    } ]
+  }, {
+    "tStartMs": 312790,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "neyse iş kurum sayısı diyebiliriz."
+    } ]
+  }, {
+    "tStartMs": 314950,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Fikir doğrulama aşamasında, yani fikir"
+    } ]
+  }, {
+    "tStartMs": 316930,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "aşamasında bir girişimin amacı aslında MVP"
+    } ]
+  }, {
+    "tStartMs": 319060,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "aşamasına geçmek olduğu için burada olay"
+    } ]
+  }, {
+    "tStartMs": 321790,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "uyumu aramak, uyumun doğrulanması ya da"
+    } ]
+  }, {
+    "tStartMs": 323620,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "fikrin doğrulanması, fikrin doğrulanması"
+    } ]
+  }, {
+    "tStartMs": 326230,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "için alınabilecek bakılabilir."
+    } ]
+  }, {
+    "tStartMs": 328030,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Dediğin gibi anket sonuçları tek sayfalık"
+    } ]
+  }, {
+    "tStartMs": 330280,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "web sitesinden gelen aslında belki Email"
+    } ]
+  }, {
+    "tStartMs": 334600,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "kayıtları vesaire gibi şeyler olabilir."
+    } ]
+  }, {
+    "tStartMs": 336760,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Biraz da MVP aşamasını konuşalım."
+    } ]
+  }, {
+    "tStartMs": 338950,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Şey de unutmayalım. Burada tabi takım da"
+    } ]
+  }, {
+    "tStartMs": 340780,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "artık kurması gerekiyor ve bu buralarda bir"
+    } ]
+  }, {
+    "tStartMs": 342850,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "yerde takımın kurulmuş olması."
+    } ]
+  }, {
+    "tStartMs": 344860,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Takımdaki kişi sayısı, o üç üye ya da üç"
+    } ]
+  }, {
+    "tStartMs": 347830,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "ağın sağlanıp sağlanmadığı da bir metrikdir."
+    } ]
+  }, {
+    "tStartMs": 351430,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "MVP Aşamasında ekibi kurduk."
+    } ]
+  }, {
+    "tStartMs": 353800,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Aslında problem çözüm uyumunu da yakaladık."
+    } ]
+  }, {
+    "tStartMs": 356680,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Ee MVP aşamasına geçtik."
+    } ]
+  }, {
+    "tStartMs": 358330,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "Burada işler biraz daha çetrefilleşiyor ve"
+    } ]
+  }, {
+    "tStartMs": 362230,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "bakmamız gereken birincil ve ikinci"
+    } ]
+  }, {
+    "tStartMs": 363910,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "metrikler, ikincil metrikler biraz da"
+    } ]
+  }, {
+    "tStartMs": 365830,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "derinleşiyor. Burada biraz şundan bahsetmek"
+    } ]
+  }, {
+    "tStartMs": 368560,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "gerekir. Genel olarak metrikleri"
+    } ]
+  }, {
+    "tStartMs": 371230,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "ayrıştırdığımızda kullanıcı odaklı metrikler"
+    } ]
+  }, {
+    "tStartMs": 374470,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "ve gelir odaklı metrikler olarak ikiye"
+    } ]
+  }, {
+    "tStartMs": 376300,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "ayırabiliriz. En genel boyutta baktığımız"
+    } ]
+  }, {
+    "tStartMs": 378460,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "zaman tabii ki bu ölçek arttıktan sonra ürün"
+    } ]
+  }, {
+    "tStartMs": 383410,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "fonksiyon üniteleri arttıktan sonra bunun"
+    } ]
+  }, {
+    "tStartMs": 385960,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "bir pazar yeri mi, bir oyun uygulaması mı,"
+    } ]
+  }, {
+    "tStartMs": 388030,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "bir e-ticaret uygulası mı, bir sigorta"
+    } ]
+  }, {
+    "tStartMs": 390790,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "uygulaması mı olduğuna karar verdikten sonra"
+    } ]
+  }, {
+    "tStartMs": 393340,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "tabii ki bunlar farklılaşarak ama ilk başta"
+    } ]
+  }, {
+    "tStartMs": 396010,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "gelir odaklı ve kullanıcı odaklar olarak"
+    } ]
+  }, {
+    "tStartMs": 398050,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "ikiye ayırabiliriz."
+    } ]
+  }, {
+    "tStartMs": 399220,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "MVP de hangi?"
+    } ]
+  }, {
+    "tStartMs": 400660,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Eee bu gelir odaklı ve kullanıcı odaklı"
+    } ]
+  }, {
+    "tStartMs": 403140,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "metrikler nereye ayrılır?"
+    } ]
+  }, {
+    "tStartMs": 405250,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Şimdi bunu söylemeden önce şu kendimizi"
+    } ]
+  }, {
+    "tStartMs": 407680,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "kandırma konusunu açmak istiyorum ben bi."
+    } ]
+  }, {
+    "tStartMs": 410920,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Çünkü bir örnekle gidelim."
+    } ]
+  }, {
+    "tStartMs": 413200,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Bir web sitesi olsun."
+    } ]
+  }, {
+    "tStartMs": 414640,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Ürün web sitesine gelen ziyaretçi sayısı"
+    } ]
+  }, {
+    "tStartMs": 417850,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "mesela. Diyelim ki bakmamız gereken bir"
+    } ]
+  }, {
+    "tStartMs": 419650,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "metrik ki öyle."
+    } ]
+  }, {
+    "tStartMs": 421540,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Zaten bu aşamada tekil ziyaretçi sayısı da"
+    } ]
+  }, {
+    "tStartMs": 424930,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "başka bir metrik. Şimdi burada ziyaretçi"
+    } ]
+  }, {
+    "tStartMs": 427000,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "sayısından bakarsan tekil mi bakarsın."
+    } ]
+  }, {
+    "tStartMs": 429640,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Kendimi kandırma isteğimi göre değişir."
+    } ]
+  }, {
+    "tStartMs": 433120,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "Evet, tekile bakman lazım."
+    } ]
+  }, {
+    "tStartMs": 434440,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Ya da diyelim uygulama olsun neye bakarsın?"
+    } ]
+  }, {
+    "tStartMs": 436990,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Download sayısında mı, indirme sayısında mı,"
+    } ]
+  }, {
+    "tStartMs": 438730,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "yoksa kayıt alma sayısına mı?"
+    } ]
+  }, {
+    "tStartMs": 443650,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Kendimi kandırma isteğine göre değişir."
+    } ]
+  }, {
+    "tStartMs": 445960,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "Kayıt alma sayısı."
+    } ]
+  }, {
+    "tStartMs": 446950,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "Kayıt alma sayısı."
+    } ]
+  }, {
+    "tStartMs": 448420,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "Evet bunlar işte bizim takip etmemiz gereken"
+    } ]
+  }, {
+    "tStartMs": 454120,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "metrikler. Bu aşama için MVP aşaması için"
+    } ]
+  }, {
+    "tStartMs": 456910,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "sadece bunlar da değil."
+    } ]
+  }, {
+    "tStartMs": 458260,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "Başka ne var."
+    } ]
+  }, {
+    "tStartMs": 460210,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Bu aşamada? MVP aşamasında ürünü tabi ki yeni"
+    } ]
+  }, {
+    "tStartMs": 463750,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "çıkarmaya ve aslında ilk gelirlerimizi elde"
+    } ]
+  }, {
+    "tStartMs": 466240,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "etmeye, ürünü kanıtlamaya çalışıyoruz."
+    } ]
+  }, {
+    "tStartMs": 469690,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Başka  ne metrikler olabilir."
+    } ]
+  }, {
+    "tStartMs": 470950,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Aslında biz bir önceki modül de konuştuğumuz"
+    } ]
+  }, {
+    "tStartMs": 473710,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "AAAA RRRRR Kanalı'ndan çıkan hunisinden"
+    } ]
+  }, {
+    "tStartMs": 476740,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "çıkan aslında geçişlere dikkat etmek çok"
+    } ]
+  }, {
+    "tStartMs": 479650,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "önemli. Bu geçişleri tanımlamak çok önemli."
+    } ]
+  }, {
+    "tStartMs": 483130,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Eğer yine bir önceki modelde konuştuğumuz"
+    } ]
+  }, {
+    "tStartMs": 485500,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "gibi download sayısı çok fazla."
+    } ]
+  }, {
+    "tStartMs": 487900,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Huninin başı çok geniş ama bir anda 90'dan"
+    } ]
+  }, {
+    "tStartMs": 492040,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "10'a düşen bir kayıt sayısı varsa demek ki"
+    } ]
+  }, {
+    "tStartMs": 495730,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "biz on boarding yapamıyor olabiliriz veya"
+    } ]
+  }, {
+    "tStartMs": 498160,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "teknik bir hata olabilir ve bunu görmüyor"
+    } ]
+  }, {
+    "tStartMs": 500200,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "olabiliriz. O yüzden bunlara dikkat etmek"
+    } ]
+  }, {
+    "tStartMs": 502390,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "gerekecektir."
+    } ]
+  }, {
+    "tStartMs": 503350,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Burada sayılar dışında sayılar arasındaki"
+    } ]
+  }, {
+    "tStartMs": 505360,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "ilişkiler de devreye giriyor."
+    } ]
+  }, {
+    "tStartMs": 507550,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Yani yine sayılar arasındaki ilişkiler, o"
+    } ]
+  }, {
+    "tStartMs": 509590,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "hunideki adımlar olabilir veya kullanıcının"
+    } ]
+  }, {
+    "tStartMs": 512860,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "uygulama indirdikten sonraki adımları"
+    } ]
+  }, {
+    "tStartMs": 514660,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "olabilir. Burada oyun girişimlerinde farklı"
+    } ]
+  }, {
+    "tStartMs": 518980,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "bir konumlama var diyebiliyoruz."
+    } ]
+  }, {
+    "tStartMs": 520840,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Elde tutma nasıl ölçüyoruz onu?"
+    } ]
+  }, {
+    "tStartMs": 523900,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Oyunun tipine göre genellikle ilk gün geri"
+    } ]
+  }, {
+    "tStartMs": 526780,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "gelme attention, yedinci gün geri gelme ya"
+    } ]
+  }, {
+    "tStartMs": 530320,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "da 28'inci gün geri gelme gibi."
+    } ]
+  }, {
+    "tStartMs": 532480,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Burada oransal olarak takip edilen metreler"
+    } ]
+  }, {
+    "tStartMs": 535390,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "var. Bunların yine oyunun tipine göre ya da"
+    } ]
+  }, {
+    "tStartMs": 538480,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "denendiği pazara göre belli bir yüzdenin"
+    } ]
+  }, {
+    "tStartMs": 541120,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "altına düştüğünde o oyunu yayından kaldırmak"
+    } ]
+  }, {
+    "tStartMs": 546040,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "lazım. Çok basit oradaki karar hemen bir"
+    } ]
+  }, {
+    "tStartMs": 549010,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "sonrakine geçeceksin. Özellikle"
+    } ]
+  }, {
+    "tStartMs": 550810,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Hiper-casual döngü böyle."
+    } ]
+  }, {
+    "tStartMs": 552930,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "Başka tür oyunlar, daha çok yatırım yapılan,"
+    } ]
+  }, {
+    "tStartMs": 556060,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "geliştirme yatırımı yapılan oyunlar da."
+    } ]
+  }, {
+    "tStartMs": 558230,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "Oyunun içindeki işte, örneğin karşılama"
+    } ]
+  }, {
+    "tStartMs": 563470,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "dediğimiz on boarding ya da seviye geçme"
+    } ]
+  }, {
+    "tStartMs": 567880,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "zorluğu ya da kolaylığı gibi şeylere bakarak"
+    } ]
+  }, {
+    "tStartMs": 571330,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "düzeltmeler yapılabilir, illa da öldürmek"
+    } ]
+  }, {
+    "tStartMs": 573280,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "gerekmiyor.Hiper-casual değilse."
+    } ]
+  }, {
+    "tStartMs": 576200,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "MVP aşamasını aslında biraz konuştuk."
+    } ]
+  }, {
+    "tStartMs": 578590,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Hangi metriklere bakmamız gerektiği."
+    } ]
+  }, {
+    "tStartMs": 580660,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Eee? neyin önemli olduğu bu aşamada daha"
+    } ]
+  }, {
+    "tStartMs": 583460,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "kullanıcı odaklı metriklere daha sık"
+    } ]
+  }, {
+    "tStartMs": 586700,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "baktığımız ve kendimizi kandırmamamız"
+    } ]
+  }, {
+    "tStartMs": 588830,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "gerektiğini konuştuk aslında."
+    } ]
+  }, {
+    "tStartMs": 590110,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "Her bölümde ya da hem her modül de ya da her"
+    } ]
+  }, {
+    "tStartMs": 592970,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "derste böyle bir söylemimiz var ya burada da"
+    } ]
+  }, {
+    "tStartMs": 596000,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "kendini kandırmamak geliyor."
+    } ]
+  }, {
+    "tStartMs": 597380,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Burada da kendini kandırmamak çok önemli."
+    } ]
+  }, {
+    "tStartMs": 600770,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Bir sonraki derste de ürün pazar uyumu ve"
+    } ]
+  }, {
+    "tStartMs": 604190,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "aslında ölçeklenme aşamasındaki hedefler"
+    } ]
+  }, {
+    "tStartMs": 606770,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "inceleyeceğiz. Bir sonraki derse görüşürüz."
+    } ]
+  } ]
+}

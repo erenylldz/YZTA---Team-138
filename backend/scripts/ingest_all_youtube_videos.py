@@ -1,6 +1,12 @@
+import os
 from pathlib import Path
 
-from apps.analyses.services.youtube_ingestion import (
+import django
+
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "config.settings")
+django.setup()
+
+from apps.analyses.rag.ingestion.youtube_ingestion import (
     ingest_youtube_video,
 )
 
@@ -20,9 +26,7 @@ def main() -> None:
     for index, info_path in enumerate(info_files, start=1):
         video_id = info_path.name.removesuffix(".info.json")
 
-        transcript_path = (
-            transcript_dir / f"{video_id}.tr.json3"
-        )
+        transcript_path = transcript_dir / f"{video_id}.tr.json3"
 
         if not transcript_path.exists():
             transcript_path = (
@@ -46,9 +50,7 @@ def main() -> None:
             if result.skipped:
                 skipped_count += 1
                 print(f"  Atlandı: {result.title}")
-                print(
-                    f"  Mevcut chunk: {result.chunk_count}"
-                )
+                print(f"  Mevcut chunk: {result.chunk_count}")
             else:
                 success_count += 1
                 print(f"  Başarılı: {result.title}")
@@ -66,4 +68,5 @@ def main() -> None:
     print(f"Toplam: {len(info_files)}")
 
 
-main()
+if __name__ == "__main__":
+    main()

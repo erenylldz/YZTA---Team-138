@@ -1,0 +1,1069 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 60,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Tekrar merhaba. Pivota biraz daha"
+    } ]
+  }, {
+    "tStartMs": 2520,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "derinlemesine bakalım istersen."
+    } ]
+  }, {
+    "tStartMs": 4170,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Örneklerden gidelim, örneklerden gidelim."
+    } ]
+  }, {
+    "tStartMs": 7290,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "Benim favori örneklerim var iki tanesi, biri"
+    } ]
+  }, {
+    "tStartMs": 11280,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "senden senin favori, öbürü benim favorim."
+    } ]
+  }, {
+    "tStartMs": 14670,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Diğeri de oyun dünyasını ilgilendiren bir"
+    } ]
+  }, {
+    "tStartMs": 18570,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "pivot örneği."
+    } ]
+  }, {
+    "tStartMs": 20200,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "Çevrimiçi online sipariş verme hayatımızın"
+    } ]
+  }, {
+    "tStartMs": 23220,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "artık parçası."
+    } ]
+  }, {
+    "tStartMs": 24900,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Normalleşti, normalleşti."
+    } ]
+  }, {
+    "tStartMs": 26820,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Aynen öyle. Ve bütün dünyada bunun çok"
+    } ]
+  }, {
+    "tStartMs": 29520,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "örneği var diye bu işi yapmayalım dememek"
+    } ]
+  }, {
+    "tStartMs": 35280,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "lazım. Mesela yapmaya başladın, rekabetle"
+    } ]
+  }, {
+    "tStartMs": 38700,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "başa çıkamadım. Vaz mı geçeceksin?"
+    } ]
+  }, {
+    "tStartMs": 40530,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Hayır. Pivot edebilirsin mesela ne"
+    } ]
+  }, {
+    "tStartMs": 42030,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "yapabilirsin? Sipariş işini çok hızlı"
+    } ]
+  }, {
+    "tStartMs": 45300,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "yapabilirsin. Diyebilirsin ki ben de aynı"
+    } ]
+  }, {
+    "tStartMs": 47250,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "şeyi yapıyorum ama çok hızlı yapıyorum."
+    } ]
+  }, {
+    "tStartMs": 50280,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Bu mesela bunun örneği var."
+    } ]
+  }, {
+    "tStartMs": 51660,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Pivot etmen de gerekmiyor."
+    } ]
+  }, {
+    "tStartMs": 53100,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Bu tamamen iş modeli bile olabilir ya da"
+    } ]
+  }, {
+    "tStartMs": 54870,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "pivot da olabilir. Değer önerisini aslında"
+    } ]
+  }, {
+    "tStartMs": 57300,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "müşteri gözünden değiştirmek oluyor bu."
+    } ]
+  }, {
+    "tStartMs": 60660,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Ben hızlı bir yemek siparişi verme ihtiyacım"
+    } ]
+  }, {
+    "tStartMs": 63450,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "olduğunda belli bir uygulamaya, sadece yemek"
+    } ]
+  }, {
+    "tStartMs": 66330,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "yeme ihtiyacım olduğunda farklı bir"
+    } ]
+  }, {
+    "tStartMs": 67680,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "uygulamaya gidebilirim. Bu bir örnek olur."
+    } ]
+  }, {
+    "tStartMs": 71490,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Başka bir örnek bu."
+    } ]
+  }, {
+    "tStartMs": 75000,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Bu gerçek bir örnek. İsim kullanmadan"
+    } ]
+  }, {
+    "tStartMs": 77760,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "örnekleyeceğim bunu."
+    } ]
+  }, {
+    "tStartMs": 79400,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Belli bir yaşın üstündeki insanların yaşam"
+    } ]
+  }, {
+    "tStartMs": 81270,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "kalitesini ve iyi yaşam ihtiyacını"
+    } ]
+  }, {
+    "tStartMs": 86100,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "karşılamak için olan bir uygulama."
+    } ]
+  }, {
+    "tStartMs": 88200,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Belli bir süre sonra etkileşimi"
+    } ]
+  }, {
+    "tStartMs": 90870,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "sağlayamadığını, kullanıcıları içerde"
+    } ]
+  }, {
+    "tStartMs": 92790,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "tutamadığını fark etti ve kapatmadan önce"
+    } ]
+  }, {
+    "tStartMs": 96720,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "bir bakalım dedi. Acaba içeride bazı"
+    } ]
+  }, {
+    "tStartMs": 98730,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "özellikler kullanılıyor mu?"
+    } ]
+  }, {
+    "tStartMs": 100860,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Sonra bir burada ne iyi gidiyor diye."
+    } ]
+  }, {
+    "tStartMs": 102570,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "Hah ne iyi gidiyor?"
+    } ]
+  }, {
+    "tStartMs": 103800,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Evet başlık o ne iyi gidiyor."
+    } ]
+  }, {
+    "tStartMs": 105900,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "Evet buldular."
+    } ]
+  }, {
+    "tStartMs": 106920,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Meditasyon modülü çok iyi gidiyormuş."
+    } ]
+  }, {
+    "tStartMs": 109950,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Diğer modüller kullanılmıyor."
+    } ]
+  }, {
+    "tStartMs": 111300,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Az sayıda kullanıcı var."
+    } ]
+  }, {
+    "tStartMs": 112410,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Geri gelmiyorlar ama gelenler meditasyon"
+    } ]
+  }, {
+    "tStartMs": 114870,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "için geri geliyor. Yani aslında değer"
+    } ]
+  }, {
+    "tStartMs": 116970,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "önerisi, yani tek sayfada anlatacağım"
+    } ]
+  }, {
+    "tStartMs": 119010,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "kanvasta değer önerisi belli bir yaşın"
+    } ]
+  }, {
+    "tStartMs": 121110,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "üstündeki kitlenin yaşam kalitesini"
+    } ]
+  }, {
+    "tStartMs": 123150,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "arttıracak fonksiyonlar gerçekleştirmek"
+    } ]
+  }, {
+    "tStartMs": 125790,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "uygulama üzerinden. Ama bir şekilde"
+    } ]
+  }, {
+    "tStartMs": 128460,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "kullanıcı buna hitap etmiyor ya da kullanıcı"
+    } ]
+  }, {
+    "tStartMs": 131970,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "geri dönmüyor. Geri dönüş oranları düşük."
+    } ]
+  }, {
+    "tStartMs": 134160,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Valide edemiyorlar yani aslında uygulamayı"
+    } ]
+  }, {
+    "tStartMs": 137460,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "daha sonra baktıklarında meditasyonu"
+    } ]
+  }, {
+    "tStartMs": 139380,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "görüyorlar. Şu an çok büyük, çok büyük, çok"
+    } ]
+  }, {
+    "tStartMs": 144300,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "büyük bir meditasyon uygulaması."
+    } ]
+  }, {
+    "tStartMs": 146340,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Burada örneklerimizi genelde hani"
+    } ]
+  }, {
+    "tStartMs": 148080,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "uygulamalar üzerinden vermek hani bağlama"
+    } ]
+  }, {
+    "tStartMs": 150600,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "daha uygun olur diye düşündük."
+    } ]
+  }, {
+    "tStartMs": 152160,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Ama şey de var. Yine uygulama olmakla"
+    } ]
+  }, {
+    "tStartMs": 154170,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "beraber senin örneğin var."
+    } ]
+  }, {
+    "tStartMs": 155970,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "Aynen öyle. Motorla taşıma, motorla taşıma"
+    } ]
+  }, {
+    "tStartMs": 158380,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "yani insanları motorla seyahat ettiren biri."
+    } ]
+  }, {
+    "tStartMs": 161670,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Bir yerden bir yere motorla götüren bir"
+    } ]
+  }, {
+    "tStartMs": 163230,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "girişim. Regülasyon yüzünden yani biraz önce"
+    } ]
+  }, {
+    "tStartMs": 166680,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "verdiğimiz meditasyon örneği kullanıcı"
+    } ]
+  }, {
+    "tStartMs": 168690,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "kaynaklı bir pivottu."
+    } ]
+  }, {
+    "tStartMs": 170430,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "Ne iyi gidiyor üzerine fokuslanmıştı,"
+    } ]
+  }, {
+    "tStartMs": 173340,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "öbüründe de neyi yapamıyoruz üzerine."
+    } ]
+  }, {
+    "tStartMs": 176340,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Kesinlikle yapamıyoruz üzerine,"
+    } ]
+  }, {
+    "tStartMs": 178170,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "regülasyonlar biraz bu konuda belirleyici"
+    } ]
+  }, {
+    "tStartMs": 180720,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "olabiliyor. Bu motorla taşı insan taşıma ya"
+    } ]
+  }, {
+    "tStartMs": 184080,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "da motorla seyahat uygulamasında neyi"
+    } ]
+  }, {
+    "tStartMs": 188280,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "yapamadıkları çok netti gerçekten."
+    } ]
+  }, {
+    "tStartMs": 190830,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Hani biri bir bir insanı taşıma konusunda"
+    } ]
+  }, {
+    "tStartMs": 193230,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "farklı regülasyonlara takıldılar ama neyi"
+    } ]
+  }, {
+    "tStartMs": 196020,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "yapabiliyoruz, elimizdeki kaynaklarla neyi"
+    } ]
+  }, {
+    "tStartMs": 200190,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "yapabiliyoruz diye. Hani ilk başta"
+    } ]
+  }, {
+    "tStartMs": 201780,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "sorduğumuz soru ne iyi gidiyordu?"
+    } ]
+  }, {
+    "tStartMs": 204090,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Buradaki soru elimizdeki kaynaklarla neyi"
+    } ]
+  }, {
+    "tStartMs": 206670,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "yapabiliriz sorusu."
+    } ]
+  }, {
+    "tStartMs": 208210,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "O pivotta şuna gelindi, biz elimizde"
+    } ]
+  }, {
+    "tStartMs": 212280,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "motorlarımız var, motor süren bireyler var."
+    } ]
+  }, {
+    "tStartMs": 215340,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "O zaman biz insan taşımayalım ama paket"
+    } ]
+  }, {
+    "tStartMs": 217860,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "taşıyalım, kurye taşıyalım, kurye olalım,"
+    } ]
+  }, {
+    "tStartMs": 222090,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "yemek taşıyalım gibi farklı taşımacılık"
+    } ]
+  }, {
+    "tStartMs": 225840,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "aslında şeyi oldu."
+    } ]
+  }, {
+    "tStartMs": 227040,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Seyahat uygulamasından, taşımacılık"
+    } ]
+  }, {
+    "tStartMs": 228750,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "uygulamasına direkt bir pivot gördük orada."
+    } ]
+  }, {
+    "tStartMs": 232710,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Sonuncu örnek aslında daha güncel ve daha"
+    } ]
+  }, {
+    "tStartMs": 235350,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "oyun dünyasını ilgilendiren bir örnek."
+    } ]
+  }, {
+    "tStartMs": 237300,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "Bunu yapanlar var aslında çok yaygın değil"
+    } ]
+  }, {
+    "tStartMs": 241290,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "ama bence çok daha artacak bu."
+    } ]
+  }, {
+    "tStartMs": 243260,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "Şimdi oyun dünyasında biliyorsun çok maddi"
+    } ]
+  }, {
+    "tStartMs": 249480,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "mali getirisi yüksek bir dünya var."
+    } ]
+  }, {
+    "tStartMs": 251640,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "O da nedir? Hyper casual dediğimiz çok kolay"
+    } ]
+  }, {
+    "tStartMs": 254670,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "oynanan ve reklamdan  gelir elde eden"
+    } ]
+  }, {
+    "tStartMs": 259440,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "oyunlar. Şimdi bunun yerine yeni bir dünya"
+    } ]
+  }, {
+    "tStartMs": 262980,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "başladı. Biliyorsun bu blockchain tabanlı"
+    } ]
+  }, {
+    "tStartMs": 265770,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "oyunlar var. Bunlar oyna ve kazan play to"
+    } ]
+  }, {
+    "tStartMs": 270650,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "earn ya da kazanmak için oyna gibi modellerle"
+    } ]
+  }, {
+    "tStartMs": 277050,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "çalışıyor. İşte orada coin'lerdi, nft'ler"
+    } ]
+  }, {
+    "tStartMs": 280560,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "gibi bir şeyler var. Çok önemli değil, önemli"
+    } ]
+  }, {
+    "tStartMs": 282330,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "olan aynı ekibin yapabileceği bir iş yani"
+    } ]
+  }, {
+    "tStartMs": 285300,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "sen baktın hyper casual'da işte bazı"
+    } ]
+  }, {
+    "tStartMs": 289170,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "markaların yarattığı kullanıcı izleme,"
+    } ]
+  }, {
+    "tStartMs": 291720,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "kullanıcı edinme maliyetleri gibi şeylerde"
+    } ]
+  }, {
+    "tStartMs": 294780,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "takılmaya başladın."
+    } ]
+  }, {
+    "tStartMs": 295800,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Ne yapıyorsun? Diyorsun ki bunun olmadığı"
+    } ]
+  }, {
+    "tStartMs": 298230,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "bir dünyaya geçeyim. Aynı ekiple yine aynı"
+    } ]
+  }, {
+    "tStartMs": 301150,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "tasarımcıyla aynı kodlamacıyla oturup"
+    } ]
+  }, {
+    "tStartMs": 303610,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "blockchain kısmını öğrenip ya da onu dış"
+    } ]
+  }, {
+    "tStartMs": 306040,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "kaynak olarak alıp içeriye bunu"
+    } ]
+  }, {
+    "tStartMs": 308440,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "yapabiliyorsun. Yapanlar da var."
+    } ]
+  }, {
+    "tStartMs": 309970,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Bence çok daha artacak bu."
+    } ]
+  }, {
+    "tStartMs": 312220,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Evet, burada 3 farklı trendten bahsettik."
+    } ]
+  }, {
+    "tStartMs": 314860,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Biraz sonra dediğin şeye tekrar"
+    } ]
+  }, {
+    "tStartMs": 316540,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "derinlemesine girelim. Yani blockchain"
+    } ]
+  }, {
+    "tStartMs": 318830,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "gaming'e biraz değinelim."
+    } ]
+  }, {
+    "tStartMs": 320710,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Birincisi aslında kullanıcı kaynaklı"
+    } ]
+  }, {
+    "tStartMs": 322630,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "pivotlar. Aslında bu hani en mantıklı, en"
+    } ]
+  }, {
+    "tStartMs": 327310,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "sık gördüğümüz taraf."
+    } ]
+  }, {
+    "tStartMs": 328810,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Eğer kullanıcıda hitabet bulamıyorsa değer"
+    } ]
+  }, {
+    "tStartMs": 331030,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "öneriniz veya ürününüzdeki farklı çözümler"
+    } ]
+  }, {
+    "tStartMs": 334480,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "buradaki pivot değerlendirmeye alınabilir."
+    } ]
+  }, {
+    "tStartMs": 337270,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "İkincisi regülatör pivotlar."
+    } ]
+  }, {
+    "tStartMs": 340360,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Burada da olumlu da olabilir, olumsuz da."
+    } ]
+  }, {
+    "tStartMs": 342520,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Bir şey yapamadığınız için de olabilir."
+    } ]
+  }, {
+    "tStartMs": 344380,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Ya da farklı alanların, farklı sektörlerin"
+    } ]
+  }, {
+    "tStartMs": 347080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "önü de açılabilir. Hani buna iki yönlü"
+    } ]
+  }, {
+    "tStartMs": 349720,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "bakmak gerekiyor regülatör pivotlara."
+    } ]
+  }, {
+    "tStartMs": 352390,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Üçüncüsü de aslında dediğin gibi teknolojik"
+    } ]
+  }, {
+    "tStartMs": 354760,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "pivotlar."
+    } ]
+  }, {
+    "tStartMs": 355790,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Teknolojinin hızlı gelişmesi veya"
+    } ]
+  }, {
+    "tStartMs": 357970,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "teknolojinin henüz sizin olduğunuz seviyede"
+    } ]
+  }, {
+    "tStartMs": 360100,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "olmamasından kaynaklanabilir."
+    } ]
+  }, {
+    "tStartMs": 362140,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Buna biraz sonra dediğim gibi blockchain"
+    } ]
+  }, {
+    "tStartMs": 365620,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "gaming'e dönelim ama bundan üç ila beş sene"
+    } ]
+  }, {
+    "tStartMs": 368830,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "önce VR gözlüklerine ve VR için oyun"
+    } ]
+  }, {
+    "tStartMs": 372640,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "geliştiren farklı ekipler, henüz VR"
+    } ]
+  }, {
+    "tStartMs": 375190,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "teknolojisi hazır olmadığı için orada"
+    } ]
+  }, {
+    "tStartMs": 376900,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "olmadığı için biraz önce verdiğin hyper"
+    } ]
+  }, {
+    "tStartMs": 378970,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "casual veya casual oyun geliştirmeye"
+    } ]
+  }, {
+    "tStartMs": 380800,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "dönmüşlerdi. Şimdi de tam tersi teknoloji"
+    } ]
+  }, {
+    "tStartMs": 383890,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "hızlı geliştiği için bu yine hyper casual"
+    } ]
+  }, {
+    "tStartMs": 386810,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "ve casual oyun yapan ekipler play to earn,"
+    } ]
+  }, {
+    "tStartMs": 389830,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "blockchain gaming gibi sektörlere"
+    } ]
+  }, {
+    "tStartMs": 391780,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "girebiliyorlar. Ve de senin de aslında"
+    } ]
+  }, {
+    "tStartMs": 393640,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "eklediğin gibi sanal gerçeklik dünyasına da"
+    } ]
+  }, {
+    "tStartMs": 397720,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "dönebiliyorlar."
+    } ]
+  }, {
+    "tStartMs": 399000,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "Artık bu 3 başlıkta 3 kadranda pivotlarınızı"
+    } ]
+  }, {
+    "tStartMs": 402820,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "değerlendirip aslında"
+    } ]
+  }, {
+    "tStartMs": 404500,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "gerçekleştirebilirsiniz. Pivot kötü bir şey"
+    } ]
+  }, {
+    "tStartMs": 407560,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "değildir. Sadece alışkanlık haline"
+    } ]
+  }, {
+    "tStartMs": 409090,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "getirmemek gerekir. O yüzden akıllı iyice"
+    } ]
+  }, {
+    "tStartMs": 412780,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "değerlendirilmiş bu üçünden hangisinde"
+    } ]
+  }, {
+    "tStartMs": 415810,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "olduğunu bilerek siz de ekip"
+    } ]
+  }, {
+    "tStartMs": 418330,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "arkadaşlarınızla veya akademideki"
+    } ]
+  }, {
+    "tStartMs": 420280,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "katılımcılarla pivotu tartışabilirsiniz."
+    } ]
+  }, {
+    "tStartMs": 423160,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Aslında şimdi aklıma gelen bir şeyi de"
+    } ]
+  }, {
+    "tStartMs": 424600,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "söyleyeyim de öyle kapatalım."
+    } ]
+  }, {
+    "tStartMs": 426580,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Pivot etmek illa bir şeylerin yanlış"
+    } ]
+  }, {
+    "tStartMs": 428320,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "gitmesiyle olmayabilir. Bir şeylerin daha"
+    } ]
+  }, {
+    "tStartMs": 430030,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "iyi gidebileceğini gördüğün zaman da"
+    } ]
+  }, {
+    "tStartMs": 431650,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "olabilir. Burada yine bu dersin bu modülün"
+    } ]
+  }, {
+    "tStartMs": 434230,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "başında konuştuğumuz aslında şey maliyet"
+    } ]
+  }, {
+    "tStartMs": 437860,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "hesabına gidiyoruz."
+    } ]
+  }, {
+    "tStartMs": 438940,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Yani bir şeyi yapmamanın maliyeti daha"
+    } ]
+  }, {
+    "tStartMs": 441700,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "fazlaysa oraya doğru kayabilirsiniz."
+    } ]
+  }, {
+    "tStartMs": 444450,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Evet, bu dersi burada kapatalım."
+    } ]
+  }, {
+    "tStartMs": 448210,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Umarım pivot iterasyon ve validasyon"
+    } ]
+  }, {
+    "tStartMs": 451390,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "konseptleri sizin için nettir ve akademideki"
+    } ]
+  }, {
+    "tStartMs": 454480,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "diğer arkadaşlarınızla bunu olabildiğince"
+    } ]
+  }, {
+    "tStartMs": 456820,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "tartışırsınız."
+    } ]
+  } ]
+}

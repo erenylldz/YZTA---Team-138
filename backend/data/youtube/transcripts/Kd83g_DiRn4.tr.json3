@@ -1,0 +1,1405 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 270,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Herkese tekrar merhaba."
+    } ]
+  }, {
+    "tStartMs": 1800,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Bu dersimizi de ürün pazar uyumu"
+    } ]
+  }, {
+    "tStartMs": 4140,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "aşamasındaki hedeflere odaklanacağız."
+    } ]
+  }, {
+    "tStartMs": 7500,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Ürün pazara uyum aşamasında ne değişiyor?"
+    } ]
+  }, {
+    "tStartMs": 9950,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Her an bir önceki aşamaya göre."
+    } ]
+  }, {
+    "tStartMs": 12390,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Burada şu tanımı netleştirelim."
+    } ]
+  }, {
+    "tStartMs": 15690,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Müşteriyle kullanıcı arasındaki fark,"
+    } ]
+  }, {
+    "tStartMs": 17730,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "müşteri ne demek? Sana para ödeyen kullanıcı"
+    } ]
+  }, {
+    "tStartMs": 20850,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "demek. Para ödemeyen kullanıcı kim?"
+    } ]
+  }, {
+    "tStartMs": 23870,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Mesela oyun oynuyorsun ve oyuncudan oyun"
+    } ]
+  }, {
+    "tStartMs": 26960,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "oynayanların para almıyorsun."
+    } ]
+  }, {
+    "tStartMs": 28220,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Nereden para kazanıyorsun?"
+    } ]
+  }, {
+    "tStartMs": 29330,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Reklamdan para kazanıyorsun."
+    } ]
+  }, {
+    "tStartMs": 30650,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "O halde senin müşterinin reklam veren"
+    } ]
+  }, {
+    "tStartMs": 32900,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "oluyor, kullanıcın oyun oynayan oluyor."
+    } ]
+  }, {
+    "tStartMs": 35090,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "Yani download edip kayıt olan kullanıcı ya"
+    } ]
+  }, {
+    "tStartMs": 39560,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "da kayıt olmadan kullanan kullanıcı senin"
+    } ]
+  }, {
+    "tStartMs": 41570,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "kullanıcı. Eeee?"
+    } ]
+  }, {
+    "tStartMs": 43550,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Müşterinse reklam veren ya da oyun şey"
+    } ]
+  }, {
+    "tStartMs": 46340,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "alabilir. Abonelik ile kullanılabilen bir"
+    } ]
+  }, {
+    "tStartMs": 49730,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "oyun olabilir. O zaman müşteri ile kullanıcı"
+    } ]
+  }, {
+    "tStartMs": 52010,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "aynı oluyor. Ya da ne bileyim aile paketin"
+    } ]
+  }, {
+    "tStartMs": 55730,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "vardır, bir kişi öder, diğerleri kullanıcı"
+    } ]
+  }, {
+    "tStartMs": 58010,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "olur gibi. Eee bu ayrımı çok net yapmak"
+    } ]
+  }, {
+    "tStartMs": 60470,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "lazım. Çünkü iş modeline göre eğer reklam"
+    } ]
+  }, {
+    "tStartMs": 65840,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "veren site senin müşterim parayı kazandıran"
+    } ]
+  }, {
+    "tStartMs": 67850,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "o zaman senin kullanıcıyı daha çok içerde"
+    } ]
+  }, {
+    "tStartMs": 70250,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "tutup daha çok reklam göstermen gerekir."
+    } ]
+  }, {
+    "tStartMs": 72770,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Halbuki müşterinin kendisi kullanıyorsa o"
+    } ]
+  }, {
+    "tStartMs": 75620,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "zaman onu daha çok memnun edip içerde"
+    } ]
+  }, {
+    "tStartMs": 77810,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "kalmasını sağlamak, ödeme devam etmesini"
+    } ]
+  }, {
+    "tStartMs": 80150,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "sağlamak gerekir."
+    } ]
+  }, {
+    "tStartMs": 81680,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Bunlar hep ürün, ürün, pazar uyuma aşamasında"
+    } ]
+  }, {
+    "tStartMs": 83780,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "sorgulanması gereken şeyler."
+    } ]
+  }, {
+    "tStartMs": 85350,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Kesinlikle. Kullanıcı-Müşteri farkına bir"
+    } ]
+  }, {
+    "tStartMs": 87590,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "örnek daha verelim. Oyun dünyadan değil de"
+    } ]
+  }, {
+    "tStartMs": 89540,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "daha jenerik bir örnek verelim istersen."
+    } ]
+  }, {
+    "tStartMs": 91220,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Sık kullanılan örnekler vermeyi seviyoruz bu"
+    } ]
+  }, {
+    "tStartMs": 93290,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "modellerde. Bebek bezi örneği."
+    } ]
+  }, {
+    "tStartMs": 96980,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Bebek bezini kullanan kişi bebeğin kendisi"
+    } ]
+  }, {
+    "tStartMs": 100580,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "ama bebek bezini satın alan markaya işte"
+    } ]
+  }, {
+    "tStartMs": 103340,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "fiyata göre karar veren kişi müşteri."
+    } ]
+  }, {
+    "tStartMs": 105470,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Aslında aile, aile oluyor."
+    } ]
+  }, {
+    "tStartMs": 108980,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Yani burada bebeği memnun etmek gibi bir şey"
+    } ]
+  }, {
+    "tStartMs": 112550,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "oluyor. Mesela rahatsız oluyor, kaşınıyor,"
+    } ]
+  }, {
+    "tStartMs": 115120,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "sızdıran bebek bezleri olabilir, bebek ağlar"
+    } ]
+  }, {
+    "tStartMs": 117500,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "ve mutsuz olur. O yüzden orada bile o"
+    } ]
+  }, {
+    "tStartMs": 119780,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "noktada bile kullanıcı memnun etmek gerek ki"
+    } ]
+  }, {
+    "tStartMs": 123200,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "bu da müşterinin kararını etkiliyor."
+    } ]
+  }, {
+    "tStartMs": 125060,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "Aslında aynı oyun örneğinde verdiğin gibi"
+    } ]
+  }, {
+    "tStartMs": 127200,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "özellikli müşteri orada memnun olmaz."
+    } ]
+  }, {
+    "tStartMs": 129320,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Giderse veya huzursuz olursa tepkisini"
+    } ]
+  }, {
+    "tStartMs": 131960,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "gösterirse bir yerden sonra ben buraya niye"
+    } ]
+  }, {
+    "tStartMs": 134780,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "reklam veriyorum diyen. Eee oyuna reklam"
+    } ]
+  }, {
+    "tStartMs": 137420,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "verenler eee söylemlerde bulunmaya başlar."
+    } ]
+  }, {
+    "tStartMs": 140960,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "O yüzden bu noktada müşteri kullanıcı"
+    } ]
+  }, {
+    "tStartMs": 144020,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "ayrımını yapmak gerçekten önemli."
+    } ]
+  }, {
+    "tStartMs": 145640,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Bu ayrımdan sonra istersen şunu konuşalım bu"
+    } ]
+  }, {
+    "tStartMs": 148400,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "geliri eee hedefini koyacağız ya, nasıl"
+    } ]
+  }, {
+    "tStartMs": 151700,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "koyacağız? Mesela diyelim ki aylık abonelik"
+    } ]
+  }, {
+    "tStartMs": 155240,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "ile satış yaptığın bir uygulama ya da bir"
+    } ]
+  }, {
+    "tStartMs": 158960,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "web sitesi olsun. Burada neye bakmamız"
+    } ]
+  }, {
+    "tStartMs": 161450,
+    "dDurationMs": 390,
+    "segs": [ {
+      "utf8": "lazım?"
+    } ]
+  }, {
+    "tStartMs": 162230,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Burada aylık tekrar eden gelire bakmak"
+    } ]
+  }, {
+    "tStartMs": 164570,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "lazım. MMR'a Monthly Recurring Revenue'ya."
+    } ]
+  }, {
+    "tStartMs": 168290,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Eee bunun artış hızı veya tekrar etme"
+    } ]
+  }, {
+    "tStartMs": 171410,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "sayısına göre farklı metrikler"
+    } ]
+  }, {
+    "tStartMs": 173060,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "tanımlayabiliriz herhalde."
+    } ]
+  }, {
+    "tStartMs": 174560,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Evet, şimdi buradaki birbiriyle çok ilişkili"
+    } ]
+  }, {
+    "tStartMs": 177590,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "iki şey. MMR ve Churn ."
+    } ]
+  }, {
+    "tStartMs": 180050,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Yani aylık tekrardan gelir ve aylık kayıp."
+    } ]
+  }, {
+    "tStartMs": 184070,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Kayıp ne demek? Memnuniyetsiz olduğu için ya"
+    } ]
+  }, {
+    "tStartMs": 186320,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "da parası olmadığı için ödemeyi kesen"
+    } ]
+  }, {
+    "tStartMs": 190910,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "kullanıcı, Biz müşteriye Churn etti diyoruz,"
+    } ]
+  }, {
+    "tStartMs": 193820,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "yani kullanmayı bıraktı diyoruz."
+    } ]
+  }, {
+    "tStartMs": 196340,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Şimdi bir taraftan artıyor yeni kullanıcılar"
+    } ]
+  }, {
+    "tStartMs": 198560,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "geliyor, yeni ödeyen müşteriye dönüşüyor"
+    } ]
+  }, {
+    "tStartMs": 200780,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "bunlar. Ama bir kısmı da bir sonraki ay"
+    } ]
+  }, {
+    "tStartMs": 203450,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "isteyerek ya da istemeyerek vazgeçiyor"
+    } ]
+  }, {
+    "tStartMs": 206390,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "demekten istemeyerek. Ne demek?"
+    } ]
+  }, {
+    "tStartMs": 207800,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Kredi kartında limit kalmadığı için"
+    } ]
+  }, {
+    "tStartMs": 210740,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "ödeyemiyor ya da bilerek artık ben bundan"
+    } ]
+  }, {
+    "tStartMs": 213050,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "memnunum, memnun değilim diye."
+    } ]
+  }, {
+    "tStartMs": 215120,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Şimdi bu önemli bir metrik mmr olan ve kredi"
+    } ]
+  }, {
+    "tStartMs": 218930,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "kartından ödeme çeken girişimlerin şuna"
+    } ]
+  }, {
+    "tStartMs": 223520,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "bakması lazım çoğu yani vazgeçmenin isteğe"
+    } ]
+  }, {
+    "tStartMs": 227810,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "mi bağlı yoksa kredi kartı limitinin den ne"
+    } ]
+  }, {
+    "tStartMs": 230750,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "olduğunu anlaması lazım."
+    } ]
+  }, {
+    "tStartMs": 233030,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Nasıl anlayabilir bunu ?"
+    } ]
+  }, {
+    "tStartMs": 236690,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Gösteriyor zaten storelar bunu veriyorlarsa"
+    } ]
+  }, {
+    "tStartMs": 238790,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "diyor ki işte involuntary churn,voluntary"
+    } ]
+  }, {
+    "tStartMs": 240220,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "churn yani isteğe bağlı ya da isteksiz olan,"
+    } ]
+  }, {
+    "tStartMs": 243860,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "istemeden olan churn  istemeden olan churn"
+    } ]
+  }, {
+    "tStartMs": 245720,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "genellikle kredi kartı limitinden oluyor,"
+    } ]
+  }, {
+    "tStartMs": 248000,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "istekli churn aslında en güzel mesajı"
+    } ]
+  }, {
+    "tStartMs": 249710,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "veriyor bize. Niye memnun değil demek o"
+    } ]
+  }, {
+    "tStartMs": 252440,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "memnuniyetsizliği adreslemek kolay, diğerini"
+    } ]
+  }, {
+    "tStartMs": 255380,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "çok zor. Çünkü kimsenin kredi kartını,"
+    } ]
+  }, {
+    "tStartMs": 257600,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "limitini sen kontrol edemez."
+    } ]
+  }, {
+    "tStartMs": 259250,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Onun için burada yapabileceğin tek şey,"
+    } ]
+  }, {
+    "tStartMs": 260990,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "olabildiğince isteğe bağlı olan churn'u"
+    } ]
+  }, {
+    "tStartMs": 265010,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "azaltmak."
+    } ]
+  }, {
+    "tStartMs": 265820,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Farklı ölçüm cihazlarıyla aslında"
+    } ]
+  }, {
+    "tStartMs": 267770,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "memnuniyetsizliğin sebebini saptamak mümkün."
+    } ]
+  }, {
+    "tStartMs": 270710,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Evet, burada yine çok önemli bir konu var."
+    } ]
+  }, {
+    "tStartMs": 276500,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Metrik seçiminde, yani ürün pazar uyumu"
+    } ]
+  }, {
+    "tStartMs": 280010,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "seviyesindeki, aşamasındaki bir girişimde"
+    } ]
+  }, {
+    "tStartMs": 284840,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "hedef belirlerken en hızlı hareket eden"
+    } ]
+  }, {
+    "tStartMs": 288680,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "metreyi seçmek aslında kritik."
+    } ]
+  }, {
+    "tStartMs": 290870,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Bu ne demek? Eee, sizin bir start-up olarak"
+    } ]
+  }, {
+    "tStartMs": 294500,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "hızlı hareket etmeniz, bazı şeyleri hızlı"
+    } ]
+  }, {
+    "tStartMs": 296210,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "değiştirmeniz gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 297860,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Eee eğer aylık baktığımız bir metriğiniz"
+    } ]
+  }, {
+    "tStartMs": 301700,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "varsa bu aylık aktif kullanıcı olabilir."
+    } ]
+  }, {
+    "tStartMs": 304820,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Genelde de yanıltıcı bir metrikdir çünkü."
+    } ]
+  }, {
+    "tStartMs": 308360,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Hani ayda bir kere bir ürünü kullanan biri"
+    } ]
+  }, {
+    "tStartMs": 311210,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "varsa o ne kadar sıklıkta kullanıyordu?"
+    } ]
+  }, {
+    "tStartMs": 314210,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "Tartışmaya açık."
+    } ]
+  }, {
+    "tStartMs": 315080,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Evet, günlük günlüğe de bakman lazım."
+    } ]
+  }, {
+    "tStartMs": 317240,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Haftalarda bakma aslında sadece aylığa"
+    } ]
+  }, {
+    "tStartMs": 319670,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "bakmak. Eee bedeli kullanıcıdan, müşteriden"
+    } ]
+  }, {
+    "tStartMs": 324050,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "alıyorsan uygun değil ama reklam verenden"
+    } ]
+  }, {
+    "tStartMs": 328640,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "alıyorsan uygun olabilir."
+    } ]
+  }, {
+    "tStartMs": 330080,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Çünkü o ay içinde gelen kullanıcı sayısının"
+    } ]
+  }, {
+    "tStartMs": 332450,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "gördüğü reklam sayısı üç aşağı beş yukarı"
+    } ]
+  }, {
+    "tStartMs": 334370,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "bellidir. Senin gelirin de bellidir."
+    } ]
+  }, {
+    "tStartMs": 336260,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Onun için aylık mı, haftalık mı, günlük mi"
+    } ]
+  }, {
+    "tStartMs": 338570,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "dediğinde yine gelir modeline göre bakmak"
+    } ]
+  }, {
+    "tStartMs": 341690,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "lazım. Ve burada demin de söylediğin senin"
+    } ]
+  }, {
+    "tStartMs": 344120,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "birincil ve ikincil kpi ya da hedefler."
+    } ]
+  }, {
+    "tStartMs": 349650,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Eee ölçüler var. Bunu bunun üzerinden bir"
+    } ]
+  }, {
+    "tStartMs": 351950,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "daha geçelim istiyorsan neden mesela?"
+    } ]
+  }, {
+    "tStartMs": 357590,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Birincil olarak aylık aktifi seçersin veya"
+    } ]
+  }, {
+    "tStartMs": 361310,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "neden günlük aktifi seçersin?"
+    } ]
+  }, {
+    "tStartMs": 363170,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Ne zaman seçersin?"
+    } ]
+  }, {
+    "tStartMs": 364910,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Aylık aktifi seçmek biraz önce söylediğimiz"
+    } ]
+  }, {
+    "tStartMs": 368090,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "gibi aylık bu işi kontrol etmek ve eğer bir"
+    } ]
+  }, {
+    "tStartMs": 371270,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "sıkıntı varsa aylık aksiyon almayı"
+    } ]
+  }, {
+    "tStartMs": 373040,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "gerektirir veya buna sebebiyet verir."
+    } ]
+  }, {
+    "tStartMs": 375710,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Eee eğer ben bir startupsam ve hızlı hareket"
+    } ]
+  }, {
+    "tStartMs": 377840,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "etmek istiyorsam, haftalık değişiklikler"
+    } ]
+  }, {
+    "tStartMs": 379730,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "yapabilecek konumda isem, günlüğü veya"
+    } ]
+  }, {
+    "tStartMs": 382340,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "haftalık aktif kullanıcıyı veya haftalık"
+    } ]
+  }, {
+    "tStartMs": 384980,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "geliri, günlük geliri seçebilirim."
+    } ]
+  }, {
+    "tStartMs": 387620,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Eee dediğin gibi ama aile seçtiğim noktalar"
+    } ]
+  }, {
+    "tStartMs": 390560,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "belki biraz önemsediğimiz gibi aylık geliri"
+    } ]
+  }, {
+    "tStartMs": 393170,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "olabilir. Yani aylık geliri tekrar eden bir"
+    } ]
+  }, {
+    "tStartMs": 395690,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "gelirim varsa bunun düşme, çıkma veya"
+    } ]
+  }, {
+    "tStartMs": 398200,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "churn'e önüne yine bakabilir."
+    } ]
+  }, {
+    "tStartMs": 400220,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Peki ben sanırım başka bir şeyi sorayım."
+    } ]
+  }, {
+    "tStartMs": 402140,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "Ürün pazar uyumu var mı yok mu tartışması."
+    } ]
+  }, {
+    "tStartMs": 404690,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Özellikle yatırımcının."
+    } ]
+  }, {
+    "tStartMs": 406400,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Eee fonların ve VC denen fonların en çok ilk"
+    } ]
+  }, {
+    "tStartMs": 411560,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "sorduğu soru mesela."
+    } ]
+  }, {
+    "tStartMs": 413630,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Product marketin var mı?"
+    } ]
+  }, {
+    "tStartMs": 415970,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Ürün pazar uyumun var mı?"
+    } ]
+  }, {
+    "tStartMs": 417380,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Hadi bakalım nasıl cevaplayacağız bunu?"
+    } ]
+  }, {
+    "tStartMs": 419450,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Aslında Product marketin var mı yok mu tanımı"
+    } ]
+  }, {
+    "tStartMs": 423200,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "ve bu soruyu cevaplamak çok zor."
+    } ]
+  }, {
+    "tStartMs": 425570,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Ve hani en dipsiz kuyulardan biri gerçekten?"
+    } ]
+  }, {
+    "tStartMs": 428270,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Eee burada biz bir modül de söylemiştik."
+    } ]
+  }, {
+    "tStartMs": 431390,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "Aslında bir konuşmuştuk."
+    } ]
+  }, {
+    "tStartMs": 432880,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Iıı. Ürününüzü gerçekten çok bağlı ve"
+    } ]
+  }, {
+    "tStartMs": 436910,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "derinden bağlı kimler kullanıyor bunu"
+    } ]
+  }, {
+    "tStartMs": 439070,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "anlamak için ürünün bir kısmını aslında"
+    } ]
+  }, {
+    "tStartMs": 441620,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "kapatıp ya da yavaşlatabilir örneğini"
+    } ]
+  }, {
+    "tStartMs": 443480,
+    "dDurationMs": 540,
+    "segs": [ {
+      "utf8": "vermiştik."
+    } ]
+  }, {
+    "tStartMs": 444140,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Evet ya da bazı özellikleri kapatırsınız."
+    } ]
+  }, {
+    "tStartMs": 447110,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Eğer birileri dönüp de ya bir dakika ne oldu"
+    } ]
+  }, {
+    "tStartMs": 449540,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "diyorsa, tabii bunu herkese yapmamakta fayda"
+    } ]
+  }, {
+    "tStartMs": 451940,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "var. O zaman bu demektir ki senin Product"
+    } ]
+  }, {
+    "tStartMs": 454220,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "marketing ya da ürün pazar uyumun var."
+    } ]
+  }, {
+    "tStartMs": 456890,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Aslında başka yöntemler de var ama daha"
+    } ]
+  }, {
+    "tStartMs": 458720,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "kompleks onlar. Bu biraz radikal ve kısa"
+    } ]
+  }, {
+    "tStartMs": 464450,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "vadeli denenebilir mesela."
+    } ]
+  }, {
+    "tStartMs": 466100,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Öyle saatlerde denersin ki bir riski yoktur."
+    } ]
+  }, {
+    "tStartMs": 468530,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Bir kullanıcı riske ya da müşteri riske"
+    } ]
+  }, {
+    "tStartMs": 470720,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "atmasın. Ama dönüyor mu, sana bir şey"
+    } ]
+  }, {
+    "tStartMs": 472670,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "yapıyor mu? Ya da ne bileyim bir aksiyonu"
+    } ]
+  }, {
+    "tStartMs": 474980,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "sürekli tekrarlıyor mu?"
+    } ]
+  }, {
+    "tStartMs": 476570,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Sen bir şey yavaşlattın, cevap gelmiyor diye"
+    } ]
+  }, {
+    "tStartMs": 479600,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "habire basıyorsa ona, o da, o da bir işaret."
+    } ]
+  }, {
+    "tStartMs": 481940,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Çok istekli kullanıcıların oranını anlamak."
+    } ]
+  }, {
+    "tStartMs": 484580,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "İstekli kullanıcıyı nasıl tanıma tanıdığın"
+    } ]
+  }, {
+    "tStartMs": 488540,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "ayrı bir konu."
+    } ]
+  }, {
+    "tStartMs": 489710,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Burada konuşmuyoruz onu ama isteklilerin ne"
+    } ]
+  }, {
+    "tStartMs": 492770,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "kadar çok olduğunu anlamak."
+    } ]
+  }, {
+    "tStartMs": 494780,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Çünkü o bir churn göstergesi, bir vazgeçme"
+    } ]
+  }, {
+    "tStartMs": 497870,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "göstergesi. Bu arada da bir şey daha var bu"
+    } ]
+  }, {
+    "tStartMs": 499970,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "konuda. Aslında burada çok derine giremeyiz"
+    } ]
+  }, {
+    "tStartMs": 502370,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "onun ama çeşitli tahminleme yöntemleri var"
+    } ]
+  }, {
+    "tStartMs": 505700,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "değişik platformların."
+    } ]
+  }, {
+    "tStartMs": 507440,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Google'ın da var, başka platformların da"
+    } ]
+  }, {
+    "tStartMs": 509240,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "var. Tahmin prediction yapıyor."
+    } ]
+  }, {
+    "tStartMs": 512420,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Diyor ki bu churn edecek diyor."
+    } ]
+  }, {
+    "tStartMs": 514490,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Bunun için bu işte makine öğrenmesi denen"
+    } ]
+  }, {
+    "tStartMs": 516530,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "şey var. Yeterince veri olduğunda oluyor ama"
+    } ]
+  }, {
+    "tStartMs": 518690,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "bizim aşamaları bizde pek çalışmıyor bunlar."
+    } ]
+  }, {
+    "tStartMs": 520880,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Onu da söylemekte fayda var."
+    } ]
+  }, {
+    "tStartMs": 522380,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Peki eee? Ürün pazar uyumunu belirlemekte."
+    } ]
+  }, {
+    "tStartMs": 524660,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Yani bir dedin ya, yatırımcıların çok"
+    } ]
+  }, {
+    "tStartMs": 526430,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "baktığı ve ilk sorduğu sorulardan bir tanesi"
+    } ]
+  }, {
+    "tStartMs": 529010,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "hangi cevapları duyunca tatmin olunuyor?"
+    } ]
+  }, {
+    "tStartMs": 531670,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Eee var cevabını alınca tatmin olunuyor."
+    } ]
+  }, {
+    "tStartMs": 533960,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Kurucu nasıl biliyor bunu?"
+    } ]
+  }, {
+    "tStartMs": 535490,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "İşte bu dediğim yöntemleri kullandığını"
+    } ]
+  }, {
+    "tStartMs": 537350,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "anlatıyor. Diyor ki işte biz şu şu kadar"
+    } ]
+  }, {
+    "tStartMs": 540500,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "data veri oluştu elimizde, işte Prediction"
+    } ]
+  }, {
+    "tStartMs": 543360,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "algoritması da bize diyor ki seni churn"
+    } ]
+  }, {
+    "tStartMs": 546340,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "tahminin şu kadar olacak."
+    } ]
+  }, {
+    "tStartMs": 548090,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Yani Product market fit aslında kullanıcı"
+    } ]
+  }, {
+    "tStartMs": 549950,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "kazanım ve churn ile direkt bağlantılı."
+    } ]
+  }, {
+    "tStartMs": 551360,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Evet ya da şeye bakıyorlar bazı platformlarda"
+    } ]
+  }, {
+    "tStartMs": 554720,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "şeyi ölçü MRR değişimine bakıyor."
+    } ]
+  }, {
+    "tStartMs": 559130,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Ya aylık, günlük ya da haftalık."
+    } ]
+  }, {
+    "tStartMs": 560810,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "MRR'ın hareketine bakıyor."
+    } ]
+  }, {
+    "tStartMs": 562580,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Bazen MRR aşağı doğru düşer, bazen yukarı"
+    } ]
+  }, {
+    "tStartMs": 565070,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "doğru çıkar. Bunun günlük, aylık, günlük,"
+    } ]
+  }, {
+    "tStartMs": 569210,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "haftalık ve aylık değişimleri de çok ciddi"
+    } ]
+  }, {
+    "tStartMs": 571340,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "bir gösterge. Zaman zaman düşebilir ama"
+    } ]
+  }, {
+    "tStartMs": 574130,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "genel trendi, genel eğilimi aylık da mesela"
+    } ]
+  }, {
+    "tStartMs": 577850,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "artma yönünde ise bu product marketing"
+    } ]
+  }, {
+    "tStartMs": 580940,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "göstergesi."
+    } ]
+  }, {
+    "tStartMs": 581930,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Burada aslında iki konu daha var."
+    } ]
+  }, {
+    "tStartMs": 583520,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Ürün pazar uyumunda konuşmamız gereken iki"
+    } ]
+  }, {
+    "tStartMs": 585530,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "konuda var. Birincisi pazar yerleri"
+    } ]
+  }, {
+    "tStartMs": 587810,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "modelinde, yani modellere göre farklılıklar."
+    } ]
+  }, {
+    "tStartMs": 590720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "İkincisi de aslında haftalık büyüme oranları"
+    } ]
+  }, {
+    "tStartMs": 594800,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "ile alakalı birkaç tane veri vermek"
+    } ]
+  }, {
+    "tStartMs": 596990,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "istiyoruz. Bunları bir sonraki derste"
+    } ]
+  }, {
+    "tStartMs": 598640,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "konuşalım. Orada derinlemesine inceleyelim."
+    } ]
+  }, {
+    "tStartMs": 601340,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "Anlaştık."
+    } ]
+  } ]
+}

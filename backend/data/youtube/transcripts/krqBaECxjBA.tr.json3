@@ -1,0 +1,1027 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 450,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Herkese tekrar merhaba."
+    } ]
+  }, {
+    "tStartMs": 1860,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Bu derste fikri haklardan sonra artık bir"
+    } ]
+  }, {
+    "tStartMs": 5400,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "sonraki adıma geçiş artık şirket kurulumu"
+    } ]
+  }, {
+    "tStartMs": 7590,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "konusunu konuşacağız."
+    } ]
+  }, {
+    "tStartMs": 9510,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Fikri haklar kısmında patent alınabilirse"
+    } ]
+  }, {
+    "tStartMs": 12540,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "alınmasını ama alınamıyorsa aslında icraata"
+    } ]
+  }, {
+    "tStartMs": 15480,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "hızlı bir şekilde geçilip ve müşteriden ve"
+    } ]
+  }, {
+    "tStartMs": 17760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "kullanıcılardan geri bildirimler ile en"
+    } ]
+  }, {
+    "tStartMs": 20160,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "hızlı şekilde pazar payı elde etmesini"
+    } ]
+  }, {
+    "tStartMs": 21930,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "önermiştik. Burada tabii ki pazar payı elde"
+    } ]
+  }, {
+    "tStartMs": 24600,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "etmek için şirketimizin olması gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 27120,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Şirketin ne noktada olması gerekiyor ve bu"
+    } ]
+  }, {
+    "tStartMs": 29310,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "şirketi hangi şirket tipini kullanmalıyız?"
+    } ]
+  }, {
+    "tStartMs": 31830,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Biraz da tecrübelerimizle dayanarak"
+    } ]
+  }, {
+    "tStartMs": 33360,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "konuşalım. Evet, güzel ve önemli bir soru."
+    } ]
+  }, {
+    "tStartMs": 36930,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "Çünkü hani fikir doğruladık ya biz, fikir"
+    } ]
+  }, {
+    "tStartMs": 41590,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "doğrularken nasıl yola çıktık?"
+    } ]
+  }, {
+    "tStartMs": 43030,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Problem, problem tanımı, çözüm çözüm tanımı,"
+    } ]
+  }, {
+    "tStartMs": 46870,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "problem çözüm uyumu dedik."
+    } ]
+  }, {
+    "tStartMs": 48490,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Fikri doğru aldıktan sonra ekip kuralım"
+    } ]
+  }, {
+    "tStartMs": 50260,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "dedik. Hala aslında bir şirkete gerek yok."
+    } ]
+  }, {
+    "tStartMs": 54340,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Şirket neden gerekli?"
+    } ]
+  }, {
+    "tStartMs": 56500,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Neden değil? Değil."
+    } ]
+  }, {
+    "tStartMs": 58270,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Çünkü eğer şirketleşmeyi gerektirecek bir"
+    } ]
+  }, {
+    "tStartMs": 61390,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "ürün ya da pazar elde edemediyseniz, boşu"
+    } ]
+  }, {
+    "tStartMs": 64210,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "boşuna kurmayın çünkü kapatması kurmasından"
+    } ]
+  }, {
+    "tStartMs": 66130,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "daha zor. Tabii hangi ülkede olduğuna da"
+    } ]
+  }, {
+    "tStartMs": 68840,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "bağlı ama her durumda kapatmak kurmaktan"
+    } ]
+  }, {
+    "tStartMs": 71510,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "daha zordur. Onun için birey olarak başlamak"
+    } ]
+  }, {
+    "tStartMs": 73610,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "büyük bir şans. Özellikle oyun dünyasında da"
+    } ]
+  }, {
+    "tStartMs": 76250,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "bakarsan store'lara çoğu birey üzerinde."
+    } ]
+  }, {
+    "tStartMs": 81500,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Oyunda da diğer uygulamalar öyle başlıyor."
+    } ]
+  }, {
+    "tStartMs": 84950,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Sonra bir noktada şirketleşme gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 86900,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Ne zaman işte fikir doğrulandıktan sonra."
+    } ]
+  }, {
+    "tStartMs": 90560,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Ekibi kurduk, tamam ekibi kurduk."
+    } ]
+  }, {
+    "tStartMs": 92350,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Daha sonra MVP aşamasına geçtik."
+    } ]
+  }, {
+    "tStartMs": 96470,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "MVP artık şirket olarak yapmakta büyük fayda"
+    } ]
+  }, {
+    "tStartMs": 98900,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "var. Yani hani sorunun cevabı MVP aşamasında"
+    } ]
+  }, {
+    "tStartMs": 103190,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "şirket kurmak. Şimdi şirket nedir?"
+    } ]
+  }, {
+    "tStartMs": 105770,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Tipleri nedir? Yine başka derslerde"
+    } ]
+  }, {
+    "tStartMs": 108200,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "anlatıldı ama biz hızlıca üstünden geçelim."
+    } ]
+  }, {
+    "tStartMs": 110870,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "En kolayı ve en hızlısı şahıs şirketi."
+    } ]
+  }, {
+    "tStartMs": 115430,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Tüm varlıklarınla sorumlu olmak dışında bir"
+    } ]
+  }, {
+    "tStartMs": 119510,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "sakıncası yok bence."
+    } ]
+  }, {
+    "tStartMs": 120860,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Çünkü çok kolay, defter tutma gerekmiyor."
+    } ]
+  }, {
+    "tStartMs": 124550,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Çok hızlıca kurup hızlıca ilerliyorsun."
+    } ]
+  }, {
+    "tStartMs": 126320,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Ama tabii bütün varlıkların sorumlu olman da"
+    } ]
+  }, {
+    "tStartMs": 129080,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "bir risk. Onun için uzun süreli bence"
+    } ]
+  }, {
+    "tStartMs": 131510,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "kullanılması çok da doğru değil."
+    } ]
+  }, {
+    "tStartMs": 133550,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Ama bir taraftan da gençler için şöyle bir"
+    } ]
+  }, {
+    "tStartMs": 135500,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "fırsat var, belli bir yaşın altında işte"
+    } ]
+  }, {
+    "tStartMs": 139100,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "KOSGEB desteği vesaire gibi bir takım devlet"
+    } ]
+  }, {
+    "tStartMs": 141860,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "destekleri gençlere şahıs şirketi üzerinden"
+    } ]
+  }, {
+    "tStartMs": 144890,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "çok ciddi avantajlar sağlıyor, finansal"
+    } ]
+  }, {
+    "tStartMs": 149210,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "avantajlar sağlıyor, vergisel avantajlar"
+    } ]
+  }, {
+    "tStartMs": 151280,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "sağlıyor. Onun için onlara bakmalarını da"
+    } ]
+  }, {
+    "tStartMs": 154880,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "gençler özellikle çok büyük fayda var."
+    } ]
+  }, {
+    "tStartMs": 156860,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Dediğim gibi bu da aynen bizim fikri haklar"
+    } ]
+  }, {
+    "tStartMs": 159590,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "ve patentte dediğimiz gibi uzmanlık alanımız"
+    } ]
+  }, {
+    "tStartMs": 162230,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "değil. Ama pratikte ben çok sayıda genç"
+    } ]
+  }, {
+    "tStartMs": 165380,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "liseli, hatta üniversite, liseli, üniversite"
+    } ]
+  }, {
+    "tStartMs": 168020,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "giriş seviyesinde sırasındaki girişimcilerin"
+    } ]
+  }, {
+    "tStartMs": 172010,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "bunlardan faydalandığını gördüm."
+    } ]
+  }, {
+    "tStartMs": 174530,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Ben de faydalandım, aynı zamanda ben de"
+    } ]
+  }, {
+    "tStartMs": 177470,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "faydalanmıştım. O yüzden gerçekten devlet"
+    } ]
+  }, {
+    "tStartMs": 181910,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "desteklerini her aşamada, yani şahıs,"
+    } ]
+  }, {
+    "tStartMs": 184100,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "limited veya AŞ aşamasında araştırarak o"
+    } ]
+  }, {
+    "tStartMs": 187670,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "seçimi yapmak her zaman her aşamada iyi"
+    } ]
+  }, {
+    "tStartMs": 190550,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "olacaktır. Çünkü yıldan yıla değişen farklı"
+    } ]
+  }, {
+    "tStartMs": 193640,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "teşviklerin veya faydaların getirildiği bir"
+    } ]
+  }, {
+    "tStartMs": 195740,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "dönem. Hepsine bakmak lazım."
+    } ]
+  }, {
+    "tStartMs": 197900,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Ama dediğim gibi 29 yaşını altına şahıs"
+    } ]
+  }, {
+    "tStartMs": 201410,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "şirketlerinde çok fazla destek var."
+    } ]
+  }, {
+    "tStartMs": 203840,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Doğru. Tamam şimdi onun için biz biraz ben"
+    } ]
+  }, {
+    "tStartMs": 206750,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "bunları geçeyim. Bunlar da söylemek lazım."
+    } ]
+  }, {
+    "tStartMs": 208640,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "Çünkü çok sayıda genç izleyici var burada."
+    } ]
+  }, {
+    "tStartMs": 212730,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Asıl, yani benim daha çok karşılaştığım durum"
+    } ]
+  }, {
+    "tStartMs": 216440,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "yatırım alma aşamasına gelmiş girişimler."
+    } ]
+  }, {
+    "tStartMs": 219290,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Yatırım almak için anonim şirket kurmak"
+    } ]
+  }, {
+    "tStartMs": 221960,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "gerekiyor eğer Türkiye'de ise."
+    } ]
+  }, {
+    "tStartMs": 223700,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Çünkü şahıs şirketine veya limited şirkete"
+    } ]
+  }, {
+    "tStartMs": 227780,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "ya da diğer bütün şirket türlerine yatırım"
+    } ]
+  }, {
+    "tStartMs": 230330,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "yapmayı yatırımcılar tercih etmiyor."
+    } ]
+  }, {
+    "tStartMs": 232430,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Bir sürü nedeni var. Yine bunun anlatıldığı"
+    } ]
+  }, {
+    "tStartMs": 234860,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "derslere bakabilirler bu konuda bilgi almak"
+    } ]
+  }, {
+    "tStartMs": 238190,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "için."
+    } ]
+  }, {
+    "tStartMs": 239640,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Anonim şirketin bir de bir avantajı var tabii"
+    } ]
+  }, {
+    "tStartMs": 242420,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "hala Türkiye'de."
+    } ]
+  }, {
+    "tStartMs": 243950,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "O da şu iki sene tuttuğun bir hisse senedini"
+    } ]
+  }, {
+    "tStartMs": 246800,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "iki seneden sonra sattıktan satarsan bundan"
+    } ]
+  }, {
+    "tStartMs": 249560,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "bir gelir vergisi doğmuyor."
+    } ]
+  }, {
+    "tStartMs": 251720,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Tabii sermayenin tamamı ödenmiş ve pay"
+    } ]
+  }, {
+    "tStartMs": 254150,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "senedinin basılmış olması koşulu var."
+    } ]
+  }, {
+    "tStartMs": 256820,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Bu önemli bir şey. O yüzden Türkiye'de"
+    } ]
+  }, {
+    "tStartMs": 258800,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "kuracaksınız AŞ'yi zaten kurun."
+    } ]
+  }, {
+    "tStartMs": 261140,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Zaman bir an önce çalışmaya başlasın diye"
+    } ]
+  }, {
+    "tStartMs": 263720,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "önereceğim ben buradan. Ha Türkiye'de kurmak"
+    } ]
+  }, {
+    "tStartMs": 265820,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "şart mı? Hayır değil."
+    } ]
+  }, {
+    "tStartMs": 267890,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Ne iş yaptığınıza göre hedef pazarınıza göre"
+    } ]
+  }, {
+    "tStartMs": 270980,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "gelir ve giderinizin nerede olacağına göre"
+    } ]
+  }, {
+    "tStartMs": 273200,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "çok değişik ülkelerde de şirket"
+    } ]
+  }, {
+    "tStartMs": 275690,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "kurabiliyorsunuz. Hatta birçok ülkede"
+    } ]
+  }, {
+    "tStartMs": 277670,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "uzaktan kurabiliyorsunuz şirket."
+    } ]
+  }, {
+    "tStartMs": 279470,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Fiziksel olarak gitmenize gerek yok."
+    } ]
+  }, {
+    "tStartMs": 281900,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Bunları da değerlendirmeleri gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 283590,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Yine burada ben bir öneri, bir tavsiye"
+    } ]
+  }, {
+    "tStartMs": 285260,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "vermeyeceğim ama araştırıp bulabilirler."
+    } ]
+  }, {
+    "tStartMs": 289370,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Belki diğer derslerde de bahsedilmiştir onu"
+    } ]
+  }, {
+    "tStartMs": 292250,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "bilmiyorum. Özetlemek gerekirse, şirketi"
+    } ]
+  }, {
+    "tStartMs": 295850,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Türkiye'de kurmak ve anonim şirket kurmak"
+    } ]
+  }, {
+    "tStartMs": 298670,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "iyi bir fikir olmakla beraber, hedef"
+    } ]
+  }, {
+    "tStartMs": 301070,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "pazarınız yani müşterilerinizin bulunduğu"
+    } ]
+  }, {
+    "tStartMs": 304370,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "ülke veya ülkeler hangi para biriminde ödeme"
+    } ]
+  }, {
+    "tStartMs": 306980,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "yapacakları giderleriniz, hangi ülkelerde"
+    } ]
+  }, {
+    "tStartMs": 310400,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "hangi para birimiyle yatırımcılarınız hangi"
+    } ]
+  }, {
+    "tStartMs": 313430,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "ülkelerde ve tercihleri nedire bağlı olarak"
+    } ]
+  }, {
+    "tStartMs": 316370,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "başka ülkelerde de gitmeden, o ülkeye"
+    } ]
+  }, {
+    "tStartMs": 319670,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "gitmeden şirket kurmak mümkün."
+    } ]
+  }, {
+    "tStartMs": 321920,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Bunu da hatırlatmış olayım."
+    } ]
+  }, {
+    "tStartMs": 324200,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Burada özellikle yatırım konusu hakikaten"
+    } ]
+  }, {
+    "tStartMs": 327080,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "farklılaştığı bir nokta olabilir."
+    } ]
+  }, {
+    "tStartMs": 329750,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Eğer bir ürünü MVP aşamasında daha yeni"
+    } ]
+  }, {
+    "tStartMs": 332780,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "canlıya çıkarıp sadece denemek için"
+    } ]
+  }, {
+    "tStartMs": 334820,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "kullanıyorsanız, bir şirketi ve özellikle"
+    } ]
+  }, {
+    "tStartMs": 338060,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "yaşınız 29 yaşının altındaysa Ömer abin"
+    } ]
+  }, {
+    "tStartMs": 340010,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "dediği gibi şahıs şirketi bir şeyleri"
+    } ]
+  }, {
+    "tStartMs": 341870,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "denemek için kısa vadeli mantıklı bir çözüm"
+    } ]
+  }, {
+    "tStartMs": 344780,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "olabilir. Çünkü diğerlerinin aksine kurması"
+    } ]
+  }, {
+    "tStartMs": 348890,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "ve kapatması da daha kolay."
+    } ]
+  }, {
+    "tStartMs": 350360,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Evet, bir şeyler denemek için başlangıç"
+    } ]
+  }, {
+    "tStartMs": 353030,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "aşamasında her zaman kurulabilir,"
+    } ]
+  }, {
+    "tStartMs": 354560,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "dinlenebilir bir şahıs şirketi türü var."
+    } ]
+  }, {
+    "tStartMs": 357890,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Diğer tarafta AŞ Türkiye'de yatırım almak"
+    } ]
+  }, {
+    "tStartMs": 360740,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "için gerçekten eğer diğer modüllerde"
+    } ]
+  }, {
+    "tStartMs": 363590,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "bahsettiğimiz büyüme oranlarını yakalanırsa"
+    } ]
+  }, {
+    "tStartMs": 366990,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "ve kar odaklı değil de büyüme odaklı bir"
+    } ]
+  }, {
+    "tStartMs": 369150,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "büyüme stratejisi benimsenirse zaten bir"
+    } ]
+  }, {
+    "tStartMs": 371610,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "noktada sermaye ihtiyacı doğacaktır diye"
+    } ]
+  }, {
+    "tStartMs": 373560,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "düşünüyoruz. Biz bootstrap dediğimiz aslında"
+    } ]
+  }, {
+    "tStartMs": 377040,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "kendi kendine kendi yağında kavrulan start"
+    } ]
+  }, {
+    "tStartMs": 380790,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "uplar değilse ki çok da gördüğümüz bir"
+    } ]
+  }, {
+    "tStartMs": 383130,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "strateji değil, yatırım olarak büyümeyi"
+    } ]
+  }, {
+    "tStartMs": 386130,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "tercih ediyorsa AŞ'yi zaten öneriyoruz ve"
+    } ]
+  }, {
+    "tStartMs": 389820,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "sen de yatırım yaptığın şirketlerde ve"
+    } ]
+  }, {
+    "tStartMs": 392040,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "ekosistemdeki diğer yatırımcılar yatırım"
+    } ]
+  }, {
+    "tStartMs": 393870,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "yaptığı start up'larda aradığı bir özellik"
+    } ]
+  }, {
+    "tStartMs": 397200,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "olabiliyor. Burada tabii ki şahıs şirketi"
+    } ]
+  }, {
+    "tStartMs": 400290,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "kurmanın maliyeti ve katlanılması gereken"
+    } ]
+  }, {
+    "tStartMs": 402450,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "yükümlülükler biraz daha kolay."
+    } ]
+  }, {
+    "tStartMs": 404520,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "AŞ'de biraz daha farklı yükümlülükler"
+    } ]
+  }, {
+    "tStartMs": 407640,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "aranıyor ve maliyetler aranıyor, maliyetler"
+    } ]
+  }, {
+    "tStartMs": 411540,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "oluşuyor. Bu yüzden bunları da araştırarak"
+    } ]
+  }, {
+    "tStartMs": 414810,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "eğer gerçekten bir büyüme trendine oturan"
+    } ]
+  }, {
+    "tStartMs": 417870,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "bir start up'sa bir ürünse bir oyunsa bu"
+    } ]
+  }, {
+    "tStartMs": 421020,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "tarz bir şirket kurulumu daha yararlı"
+    } ]
+  }, {
+    "tStartMs": 424410,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "olabilir. İsterseniz bu dersi burada"
+    } ]
+  }, {
+    "tStartMs": 426990,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "kapatalım. Bir önceki derste fikri haklar ve"
+    } ]
+  }, {
+    "tStartMs": 431190,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "patentlenebilirlik konusunu inceledik."
+    } ]
+  }, {
+    "tStartMs": 433620,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Bu derste şirket tiplerine göre nasıl"
+    } ]
+  }, {
+    "tStartMs": 436620,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "aksiyon alınabilir, hangi noktada hangi"
+    } ]
+  }, {
+    "tStartMs": 439020,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "şirket tipi seçilebilir, biraz yatırımcı"
+    } ]
+  }, {
+    "tStartMs": 441120,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "perspektifinden, yatırım perspektifinden"
+    } ]
+  }, {
+    "tStartMs": 443190,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "veya tecrübelerimizle dayalı birkaç örnekte"
+    } ]
+  }, {
+    "tStartMs": 446010,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "bulunduk. Bundan sonraki derste aslında bir"
+    } ]
+  }, {
+    "tStartMs": 449850,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "adım daha ileri atarak KVKK ve"
+    } ]
+  }, {
+    "tStartMs": 453300,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "kullanıcılarınızla etkileşimde bulunduğunuzda"
+    } ]
+  }, {
+    "tStartMs": 455970,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "kişisel verileri nasıl koruyabilirsiniz,"
+    } ]
+  }, {
+    "tStartMs": 458520,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "nasıl saklayabilirsiniz biraz kısaca"
+    } ]
+  }, {
+    "tStartMs": 461070,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "bunlardan bahsedeceğiz."
+    } ]
+  } ]
+}

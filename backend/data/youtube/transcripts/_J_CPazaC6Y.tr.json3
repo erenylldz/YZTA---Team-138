@@ -1,0 +1,1309 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 2110,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Herkese merhaba. Bugün bu derste bu modülde"
+    } ]
+  }, {
+    "tStartMs": 6370,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "kullanıcı iç görüsü toplama ve sentezleme"
+    } ]
+  }, {
+    "tStartMs": 9160,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "dersinden başlıyoruz."
+    } ]
+  }, {
+    "tStartMs": 11320,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Bu modülden başlıyoruz."
+    } ]
+  }, {
+    "tStartMs": 13090,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Aslında çok heyecanlı, her şeyin başı."
+    } ]
+  }, {
+    "tStartMs": 15930,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "Bütün yoldan geçerek aslında sonuna kadar"
+    } ]
+  }, {
+    "tStartMs": 19960,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "bir işi büyütmeye, bir işi olgunlaştırmaya"
+    } ]
+  }, {
+    "tStartMs": 22330,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "kadar geleceğiz ama her şeyin başı burada ne"
+    } ]
+  }, {
+    "tStartMs": 26680,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Ömer abi? Sen başla."
+    } ]
+  }, {
+    "tStartMs": 29350,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Neden içgörüden başlıyoruz diye soruyorsun"
+    } ]
+  }, {
+    "tStartMs": 31300,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "aslında değil mi? Çünkü her şeyin başı"
+    } ]
+  }, {
+    "tStartMs": 35080,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "kullanıcı aslında her şeyin başı"
+    } ]
+  }, {
+    "tStartMs": 37540,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "varsaydığımız kullanıcının varsaydığımız"
+    } ]
+  }, {
+    "tStartMs": 39790,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "problemi. Fikir dediğimiz şey de bu zaten."
+    } ]
+  }, {
+    "tStartMs": 43900,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Girişimcilik dünyasının en azından yeni"
+    } ]
+  }, {
+    "tStartMs": 47740,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "nesil girişimcilik dünyasının yaklaşımı"
+    } ]
+  }, {
+    "tStartMs": 52210,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "artık bu. Bir süredir, bir zamandır biz de"
+    } ]
+  }, {
+    "tStartMs": 55060,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "bunu deneyimleyerek öğreniyoruz ve"
+    } ]
+  }, {
+    "tStartMs": 58240,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "deneyimleyerek bunu aktarmaya çalışıyoruz."
+    } ]
+  }, {
+    "tStartMs": 60670,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Burada yapacağımız şey de sizin için o"
+    } ]
+  }, {
+    "tStartMs": 62380,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "olacak. Kimin, hangi problemin çözüyorsun da"
+    } ]
+  }, {
+    "tStartMs": 66910,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "hem problemi anlamak hem de problemi,"
+    } ]
+  }, {
+    "tStartMs": 69310,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "yaşayanı, yani özetle senin ürün ya da"
+    } ]
+  }, {
+    "tStartMs": 73030,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "servisinin kullanıcısını tanımak esas."
+    } ]
+  }, {
+    "tStartMs": 76140,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Kim sorusunun cevabını arıyoruz."
+    } ]
+  }, {
+    "tStartMs": 77680,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Kimi anladıktan sonra problemi var mı yok mu"
+    } ]
+  }, {
+    "tStartMs": 81250,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "bunu anlamaya çalışıyoruz."
+    } ]
+  }, {
+    "tStartMs": 82270,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Bunu nasıl yapıyoruz? Bunu aslında"
+    } ]
+  }, {
+    "tStartMs": 84130,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "kullanıcılarımıza görüşerek yapıyoruz."
+    } ]
+  }, {
+    "tStartMs": 86230,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Biraz önce söylediğim gibi her şey bir"
+    } ]
+  }, {
+    "tStartMs": 87610,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "varsayımla başlıyor."
+    } ]
+  }, {
+    "tStartMs": 88900,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Sen bir kullanıcı grubunun bir hedef"
+    } ]
+  }, {
+    "tStartMs": 91030,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "kitlenin bir problemi olduğunu varsayıyorsun"
+    } ]
+  }, {
+    "tStartMs": 94510,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "ve onlarla görüşerek bunu doğrulamaya"
+    } ]
+  }, {
+    "tStartMs": 96460,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "çalışıyorsun. Aslında bir hedef kitle"
+    } ]
+  }, {
+    "tStartMs": 98380,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "arayışı içindeyiz."
+    } ]
+  }, {
+    "tStartMs": 100210,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Bunu kendimizden de başlayabiliriz."
+    } ]
+  }, {
+    "tStartMs": 102070,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Kendi problemlerimizden de başlayabiliriz."
+    } ]
+  }, {
+    "tStartMs": 103960,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Yoksa tanımladığımız, gördüğümüz, duyduğumuz"
+    } ]
+  }, {
+    "tStartMs": 106630,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "bir problemden de başlayıp bunu genelleme"
+    } ]
+  }, {
+    "tStartMs": 109570,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "varsayımını yapabiliriz."
+    } ]
+  }, {
+    "tStartMs": 112450,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Burada kullanıcımızı iyi anlamak, iyi"
+    } ]
+  }, {
+    "tStartMs": 115540,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "tanımak, onun acı noktaları nedir, o"
+    } ]
+  }, {
+    "tStartMs": 118300,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "problemi yaşarken bütün olarak yaşamıyor"
+    } ]
+  }, {
+    "tStartMs": 121030,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "sonuçta."
+    } ]
+  }, {
+    "tStartMs": 122260,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Onun bazı giriş, gelişme ve sonuçları var."
+    } ]
+  }, {
+    "tStartMs": 125830,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Ve o yüzden her aşamadaki acı noktalarını"
+    } ]
+  }, {
+    "tStartMs": 128290,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "anlamak şart."
+    } ]
+  }, {
+    "tStartMs": 130600,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Buradan da bu acı noktalarından da içgörüler"
+    } ]
+  }, {
+    "tStartMs": 134290,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "elde edeceğiz. İçgörü nedir biraz onu"
+    } ]
+  }, {
+    "tStartMs": 137710,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "konuşalım. İçgörü dışgörülerin yorumu"
+    } ]
+  }, {
+    "tStartMs": 142270,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "aslında. Dışgörü ne diyeceksin?"
+    } ]
+  }, {
+    "tStartMs": 144160,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Bulgular, yani kullanıcı görüşmeleri veya"
+    } ]
+  }, {
+    "tStartMs": 147850,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "kullanıcı izlemeleri, problemin ifadesi,"
+    } ]
+  }, {
+    "tStartMs": 152170,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "doğrudan veya dolaylı olarak gibi bilgi ve"
+    } ]
+  }, {
+    "tStartMs": 155020,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "bulgulara dayanarak içgörülere ulaşacağız."
+    } ]
+  }, {
+    "tStartMs": 158290,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Bunun için hangi yöntemleri kullanacağımızı"
+    } ]
+  }, {
+    "tStartMs": 160330,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "bol bol burada konuşuyor olacağız."
+    } ]
+  }, {
+    "tStartMs": 163780,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Bir şey daha eklemekte fayda var."
+    } ]
+  }, {
+    "tStartMs": 165310,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Burada olabildiğince örnekleyerek gitmeye"
+    } ]
+  }, {
+    "tStartMs": 169150,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "çalışacağız. Bütün eğitim boyunca bütün"
+    } ]
+  }, {
+    "tStartMs": 170890,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "modüllerde ve derslerde basit örnekler"
+    } ]
+  }, {
+    "tStartMs": 174130,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "vermeye çalışacağız ve bu örnekler zaman"
+    } ]
+  }, {
+    "tStartMs": 177700,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "zaman oyunlarla ilgili olacak zaman zaman da"
+    } ]
+  }, {
+    "tStartMs": 181240,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "günlük hayattaki günlük problemlerle ilgili"
+    } ]
+  }, {
+    "tStartMs": 185050,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "olacak. Mesela bir tanesini hemen"
+    } ]
+  }, {
+    "tStartMs": 186370,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "söyleyeyim, bol bol kullanacağız."
+    } ]
+  }, {
+    "tStartMs": 188410,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "O da ulaşım, her insanın ihtiyacı olan bir"
+    } ]
+  }, {
+    "tStartMs": 192520,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "şey ulaşım."
+    } ]
+  }, {
+    "tStartMs": 194200,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "Ulaşımı tabii bir çocuğun ulaşımı, bir"
+    } ]
+  }, {
+    "tStartMs": 199180,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "emeklinin ulaşımı, bir beyaz yakanın"
+    } ]
+  }, {
+    "tStartMs": 201580,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "ulaşımı, bir öğrencinin ulaşımı farklı"
+    } ]
+  }, {
+    "tStartMs": 207340,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "kriterlere dayanıyor, farklı kısıtlamalara"
+    } ]
+  }, {
+    "tStartMs": 210700,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "dayanıyor. Bütün bunları işte kullanıcıyı"
+    } ]
+  }, {
+    "tStartMs": 213490,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "tanıma yolculuğunda, bulgulardan, içgörülere"
+    } ]
+  }, {
+    "tStartMs": 215920,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "gitme yolculuğunda, varsayımlarla adresliyor"
+    } ]
+  }, {
+    "tStartMs": 220720,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "olacağız. Burada iki tane yaklaşım var."
+    } ]
+  }, {
+    "tStartMs": 224170,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Bir tanesi Persona, diğeri de teknolojiye"
+    } ]
+  }, {
+    "tStartMs": 227350,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "uyum kategorisi kişinin."
+    } ]
+  }, {
+    "tStartMs": 229530,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Bunların hepsinden bahsediyor olacağız."
+    } ]
+  }, {
+    "tStartMs": 231670,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Peki kullanıcı görüşmesinde hangi soruları"
+    } ]
+  }, {
+    "tStartMs": 234400,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "sormalıyız, nasıl son sormalıyız?"
+    } ]
+  }, {
+    "tStartMs": 236260,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Kullanıcı görüşmesini nasıl yönetmeliyiz?"
+    } ]
+  }, {
+    "tStartMs": 238540,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Biraz buna girelim istersen."
+    } ]
+  }, {
+    "tStartMs": 240640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Tabii öncesinde madem modülümüzün ilk"
+    } ]
+  }, {
+    "tStartMs": 244660,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "dersindeyiz, şöyle bir şeyi yaptığımızı"
+    } ]
+  }, {
+    "tStartMs": 247810,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "söyleyelim. Her modül ve veya her dersin"
+    } ]
+  }, {
+    "tStartMs": 251020,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "böyle bir cümlelik mottosu, bir cümlesi var."
+    } ]
+  }, {
+    "tStartMs": 256330,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "Basit cümlesi var."
+    } ]
+  }, {
+    "tStartMs": 258910,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Ona sık sık geri dönüyor olacağız."
+    } ]
+  }, {
+    "tStartMs": 261820,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Burada da hani varsayımla başladık ya,"
+    } ]
+  }, {
+    "tStartMs": 264640,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "aslında her şey varsayım."
+    } ]
+  }, {
+    "tStartMs": 267380,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Ve her şey tasarım diyelim."
+    } ]
+  }, {
+    "tStartMs": 268940,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Oradan devam edelim. Güzel bir mesaj cümlesi"
+    } ]
+  }, {
+    "tStartMs": 272420,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "oldu. Sonuçta bu bir tasarım prensibi."
+    } ]
+  }, {
+    "tStartMs": 276770,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Bu bir tasarım biliminden yola çıkan"
+    } ]
+  }, {
+    "tStartMs": 278720,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "kullanıcı görüşmesi araştırmaları,"
+    } ]
+  }, {
+    "tStartMs": 280730,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "sentezleme, içgörü toplama, bulguları"
+    } ]
+  }, {
+    "tStartMs": 283940,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "içgörüye çevirme, gruplama ve bunların"
+    } ]
+  }, {
+    "tStartMs": 287630,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "aslında eksik noktaların bulunması gibi"
+    } ]
+  }, {
+    "tStartMs": 290930,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "farklı farklı konulara değineceğiz."
+    } ]
+  }, {
+    "tStartMs": 293210,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Buradaki asıl soru sorma bile soru sorma"
+    } ]
+  }, {
+    "tStartMs": 296000,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "tarzları bile bir bilimsel metoda dayanıyor."
+    } ]
+  }, {
+    "tStartMs": 299750,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "İstersen onlarla devam edelim."
+    } ]
+  }, {
+    "tStartMs": 303500,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Kullanıcı görüşmesinde ne tarz sorular"
+    } ]
+  }, {
+    "tStartMs": 305810,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "sormalıyız? Hangi, ne tarz sorular"
+    } ]
+  }, {
+    "tStartMs": 308180,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "sormalıyız? Aslında bu dediğim bilimsel"
+    } ]
+  }, {
+    "tStartMs": 311270,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "yöntem nasıl işliyor?"
+    } ]
+  }, {
+    "tStartMs": 312440,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Evet, bir kere tabii soru sormak deyince hep"
+    } ]
+  }, {
+    "tStartMs": 314660,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "akla gelen şey 5n 1k yani işte neden, ne"
+    } ]
+  }, {
+    "tStartMs": 319160,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "zaman, nasıl, kim falan."
+    } ]
+  }, {
+    "tStartMs": 321350,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Ama sorunun stili bence hepsi için geçerli."
+    } ]
+  }, {
+    "tStartMs": 326330,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Mesela bir örnekle başlayayım istersen."
+    } ]
+  }, {
+    "tStartMs": 328940,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "3 tane soru sorayım ben sana kırmızı bir"
+    } ]
+  }, {
+    "tStartMs": 331010,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "araba mı seçtin? Ne renk araba seçtin?"
+    } ]
+  }, {
+    "tStartMs": 334520,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Arabanızın rengini nasıl seçtin?"
+    } ]
+  }, {
+    "tStartMs": 336680,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Şimdi bu sorularda soru tipi olarak ne fark"
+    } ]
+  }, {
+    "tStartMs": 340700,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "ediyorsun? Aslında Soru 1 ve Soru 2'de"
+    } ]
+  }, {
+    "tStartMs": 343790,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "kırmızı bir araba mı seçtin ve ne renk araba"
+    } ]
+  }, {
+    "tStartMs": 346100,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "seçtin soruların cevabı, tek kelimelik"
+    } ]
+  }, {
+    "tStartMs": 348710,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "cevabı var. Burada beni düşündürmüyorsun."
+    } ]
+  }, {
+    "tStartMs": 352190,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Aslında gerçekleri bana anlatmamı"
+    } ]
+  }, {
+    "tStartMs": 354350,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "sağlıyorsun. Bilgi almaya çalışıyorsun ama"
+    } ]
+  }, {
+    "tStartMs": 356690,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "yorum yok almıyorsun ama üçüncüsünde nasıl"
+    } ]
+  }, {
+    "tStartMs": 360800,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "diye sorduğun için benim iç motivasyonumu"
+    } ]
+  }, {
+    "tStartMs": 363590,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "anlamaya çalışıyorsun. Ben kırmızı arabayı"
+    } ]
+  }, {
+    "tStartMs": 365630,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "nasıl seçtim? Bu oldukça derin bir"
+    } ]
+  }, {
+    "tStartMs": 370100,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "sorgulamaya itiyor beni."
+    } ]
+  }, {
+    "tStartMs": 371990,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Hem böylece benim bir kırmızı araba seçme"
+    } ]
+  }, {
+    "tStartMs": 375050,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "motivasyonumla senin bir kırmızı araba seçme"
+    } ]
+  }, {
+    "tStartMs": 377840,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "motivasyonun kesinlikle ayrışabilir."
+    } ]
+  }, {
+    "tStartMs": 380750,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Farklı kullanıcılarla konuştuğumda verilen"
+    } ]
+  }, {
+    "tStartMs": 383120,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "cevaplardan bir ve ikide aynı sonucu elde"
+    } ]
+  }, {
+    "tStartMs": 387140,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "ediyorsun. Bunlara kapalı uçlu sorular"
+    } ]
+  }, {
+    "tStartMs": 389090,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "diyoruz. Biri kırmızı seçiyor, öbürü mavi"
+    } ]
+  }, {
+    "tStartMs": 392060,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "seçiyor. Ama neden seçtiğini bilmiyoruz ama"
+    } ]
+  }, {
+    "tStartMs": 394820,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "nasıl seçtiğini sorduğun zaman dediğin gibi"
+    } ]
+  }, {
+    "tStartMs": 397040,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "o zaman işte kişisel farklılaşmalar ve"
+    } ]
+  }, {
+    "tStartMs": 401150,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "bunlardan gelen bulgular ortaya çıkıyor."
+    } ]
+  }, {
+    "tStartMs": 403700,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Sonra bunları içgörürlereyYani yorumlara"
+    } ]
+  }, {
+    "tStartMs": 406250,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "çeviriyoruz ve açık uçlu soruların da bu"
+    } ]
+  }, {
+    "tStartMs": 409490,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "işte bizim en büyük yardımcımız olduğunu"
+    } ]
+  }, {
+    "tStartMs": 411860,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "biliyoruz, unutmuyoruz."
+    } ]
+  }, {
+    "tStartMs": 413960,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Burada tabii ki açık uçlu sorular iyi bir"
+    } ]
+  }, {
+    "tStartMs": 416930,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "geri dönüşüm oranı sağlıyor, sağlıklı bir"
+    } ]
+  }, {
+    "tStartMs": 419810,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "veri seti oluşturmanı sağlıyor duyduğun"
+    } ]
+  }, {
+    "tStartMs": 422840,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "sorulardan. Kapalı uçlu sorular biraz daha"
+    } ]
+  }, {
+    "tStartMs": 426080,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "iyi bir geri dönüşüm oranına çok sebebiyet"
+    } ]
+  }, {
+    "tStartMs": 428030,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "vermiyor. Ancak çok fazla açık uçlu soru"
+    } ]
+  }, {
+    "tStartMs": 430670,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "sormak da doğal bir konuşmanın seyri"
+    } ]
+  }, {
+    "tStartMs": 434420,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "olmadığı için bazen konuşmayı rahatlatmak,"
+    } ]
+  }, {
+    "tStartMs": 437930,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "kullanıcı görüşmesini rahatlatmak için arada"
+    } ]
+  }, {
+    "tStartMs": 440690,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "sırada kapalı uçlu sorular sormak ya da ilk"
+    } ]
+  }, {
+    "tStartMs": 442940,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "iki soruyu kapalı uçlu vermek sağlıklı"
+    } ]
+  }, {
+    "tStartMs": 446360,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "olabilir. Evet, burada tabii kritik iki"
+    } ]
+  }, {
+    "tStartMs": 449000,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "tane, bu 5n 1k da iki tane kritik nokta var."
+    } ]
+  }, {
+    "tStartMs": 452540,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Bir tanesi nasıl bir tanesi neden."
+    } ]
+  }, {
+    "tStartMs": 455000,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Daha fazla yoruma dayalı ve soruların bu"
+    } ]
+  }, {
+    "tStartMs": 457940,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "minvalde ilerlemesi soruların kalitesini"
+    } ]
+  }, {
+    "tStartMs": 461060,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "yine arttıracaktır diye düşünüyorum."
+    } ]
+  }, {
+    "tStartMs": 463700,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Peki her zaman o kadar kolay mı bir soruya"
+    } ]
+  }, {
+    "tStartMs": 465980,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "nasıl, neden deyip sonuç çıkarmak?"
+    } ]
+  }, {
+    "tStartMs": 468740,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Kesinlikle hayır. Bu katmanlı bir yönteme de"
+    } ]
+  }, {
+    "tStartMs": 472280,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "göz kırpıyor. Burada bir beş neden yöntemi"
+    } ]
+  }, {
+    "tStartMs": 475430,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "dediğimiz daha derine inmek, bir yanıtta"
+    } ]
+  }, {
+    "tStartMs": 477770,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "daha derine inmek ve temel sorunlara ulaşmak"
+    } ]
+  }, {
+    "tStartMs": 480590,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "için iç motivasyonlara, temel motivasyonlara"
+    } ]
+  }, {
+    "tStartMs": 482990,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "ulaşmak için aslında harika bir yöntem."
+    } ]
+  }, {
+    "tStartMs": 485750,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Bu harika yöntemin bir uygulamasını yapalım,"
+    } ]
+  }, {
+    "tStartMs": 487460,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "istersen birlikte yapalım."
+    } ]
+  }, {
+    "tStartMs": 489320,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Haberleri takip ediyor musun, ediyorum."
+    } ]
+  }, {
+    "tStartMs": 491900,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Hangi uygulamalardan takip ediyorsun,"
+    } ]
+  }, {
+    "tStartMs": 494480,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "telefonumda BBC'nin ve Aposto'nun"
+    } ]
+  }, {
+    "tStartMs": 496340,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "uygulamaları var. Neden o uygulamalar?"
+    } ]
+  }, {
+    "tStartMs": 498770,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "En güncel haberleri bana hızlı veriyor,"
+    } ]
+  }, {
+    "tStartMs": 500870,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "hemen yakalayabiliyorum."
+    } ]
+  }, {
+    "tStartMs": 502790,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Hızlı olmak neden önemli?"
+    } ]
+  }, {
+    "tStartMs": 505550,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Yani kendimi iyi hissediyorum, güncel"
+    } ]
+  }, {
+    "tStartMs": 508040,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "haberleri takip ediyorum vesaire."
+    } ]
+  }, {
+    "tStartMs": 509840,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "Kendimi yüksek hissediyor."
+    } ]
+  }, {
+    "tStartMs": 511230,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "Güncel olmak, iyi, iyi hissetmene neden olan"
+    } ]
+  }, {
+    "tStartMs": 514970,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "şey ne? Arkadaşlarımla, hani muhabbetler"
+    } ]
+  }, {
+    "tStartMs": 518600,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "dönerken, hani en güncel şakaları falan"
+    } ]
+  }, {
+    "tStartMs": 520700,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "yakalayabiliyorum gif'ler, meme'ler dönüyor"
+    } ]
+  }, {
+    "tStartMs": 522920,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "falan. Hani kaçırmıyorum onları."
+    } ]
+  }, {
+    "tStartMs": 525100,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "Peki arkadaşlarınla uyum içinde olmak neden"
+    } ]
+  }, {
+    "tStartMs": 527510,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "önemli? Arkadaşın olmazsa yalnız kalırsın."
+    } ]
+  }, {
+    "tStartMs": 530810,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "Okay güzel yani aslında kök neden yalnızlık"
+    } ]
+  }, {
+    "tStartMs": 534920,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "korkusu diyelim. Arkadaşlık kaygısı,"
+    } ]
+  }, {
+    "tStartMs": 537710,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "arkadaşsız kalmak kaygısı diyelim."
+    } ]
+  }, {
+    "tStartMs": 539900,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "Bunu haberleri takip etmek ve haberleri hangi"
+    } ]
+  }, {
+    "tStartMs": 544730,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "uygulamaları da kullanarak takip etmek"
+    } ]
+  }, {
+    "tStartMs": 547400,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "sorularından başladık ama bambaşka bir yere"
+    } ]
+  }, {
+    "tStartMs": 549650,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "geldik. Aynen öyle."
+    } ]
+  }, {
+    "tStartMs": 550790,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Aslında bir haber uygulaması tasarlarken bu"
+    } ]
+  }, {
+    "tStartMs": 554630,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "motivasyonları düşünemezsiniz."
+    } ]
+  }, {
+    "tStartMs": 557270,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Düşünülmediğini varsayarsanız."
+    } ]
+  }, {
+    "tStartMs": 560000,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Ama aslında bu varsayımlardan yola çıkan yani"
+    } ]
+  }, {
+    "tStartMs": 563900,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "arkadaşlarından ayrı kalma korkusu ya da"
+    } ]
+  }, {
+    "tStartMs": 567420,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "arkadaşsız kalma kaygısının aslında"
+    } ]
+  }, {
+    "tStartMs": 571500,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "problemini çözmek için yola çıkan ama bunu"
+    } ]
+  }, {
+    "tStartMs": 574710,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "bir haberleri sunarak, haberleri"
+    } ]
+  }, {
+    "tStartMs": 578400,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "kullanıcılarına ulaştırarak veren bir"
+    } ]
+  }, {
+    "tStartMs": 579990,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "uygulama olabilir."
+    } ]
+  }, {
+    "tStartMs": 581580,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "Yani aslında problem arkadaşsız kalma, çözüm"
+    } ]
+  }, {
+    "tStartMs": 586110,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "bir haber uygulaması."
+    } ]
+  }, {
+    "tStartMs": 587730,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Bunu ilerki modüllerde konuşacağız ama"
+    } ]
+  }, {
+    "tStartMs": 589890,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "problem ve çözüm aşırı şaşırtıcı bir şekilde"
+    } ]
+  }, {
+    "tStartMs": 594510,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "ilişkili olabiliyor."
+    } ]
+  }, {
+    "tStartMs": 595890,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Bunların da hepsi içgörüyle bağlantılı."
+    } ]
+  }, {
+    "tStartMs": 599070,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "İçgörü ve bulgunun farkını bir sonraki"
+    } ]
+  }, {
+    "tStartMs": 601230,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "dersimizde konuşalım istersen."
+    } ]
+  }, {
+    "tStartMs": 602440,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Burada tabii hatırlanması gereken nokta şu,"
+    } ]
+  }, {
+    "tStartMs": 605850,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "sadece BBC uygulamasına bakıp bir sonucu"
+    } ]
+  }, {
+    "tStartMs": 608130,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "çıkartamazdık. Bir sonraki derste bunların"
+    } ]
+  }, {
+    "tStartMs": 611840,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "derinine ineceğiz."
+    } ]
+  } ]
+}

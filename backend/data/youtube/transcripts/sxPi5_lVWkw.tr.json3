@@ -1,0 +1,583 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 180,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Tekrar merhaba. Bir önceki dersimizde detaylı"
+    } ]
+  }, {
+    "tStartMs": 3090,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "olarak kullanıcı görüşmesinin nasıl"
+    } ]
+  }, {
+    "tStartMs": 5220,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "yapılabileceği ile alakalı detaylara"
+    } ]
+  }, {
+    "tStartMs": 6930,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "girmiştik. Personalar, empati haritaları,"
+    } ]
+  }, {
+    "tStartMs": 9630,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "ilgi kümelemesi gibi araçlardan"
+    } ]
+  }, {
+    "tStartMs": 11940,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "bahsetmiştik. Aslında modülün girişinde de"
+    } ]
+  }, {
+    "tStartMs": 16410,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "kullanıcı odaklılık, kullanıcı görüşmelerin"
+    } ]
+  }, {
+    "tStartMs": 18780,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "öneminden bahsetmiştik."
+    } ]
+  }, {
+    "tStartMs": 19950,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Ama kullanıcıyı bu kadar merkeze koymak,"
+    } ]
+  }, {
+    "tStartMs": 23250,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "tasarım odaklı düşünmek neden bu kadar"
+    } ]
+  }, {
+    "tStartMs": 25290,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "popüler. İki açıdan yaklaşabiliriz."
+    } ]
+  }, {
+    "tStartMs": 27830,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Birincisi, en başta söylediğimiz artık yeni"
+    } ]
+  }, {
+    "tStartMs": 30900,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "nesil girişimler kimin hangi problemin"
+    } ]
+  }, {
+    "tStartMs": 33690,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "çözüyorsundan yola çıkıyorlar."
+    } ]
+  }, {
+    "tStartMs": 36520,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Dolayısıyla kim sorunun önemli bileşeni."
+    } ]
+  }, {
+    "tStartMs": 40200,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Sorun da o kişinin sorunu olmalı."
+    } ]
+  }, {
+    "tStartMs": 44310,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Gelenekselde ne vardı dediğin önemli nokta"
+    } ]
+  }, {
+    "tStartMs": 47040,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "var. Gelenekselde ürün önceliklidir, ürün"
+    } ]
+  }, {
+    "tStartMs": 49920,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "merkezlidir, ürün yapılır."
+    } ]
+  }, {
+    "tStartMs": 52080,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Sonra ona uygun kullanıcı ve müşteriler"
+    } ]
+  }, {
+    "tStartMs": 55290,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "aranır, onlara satılır, onlar desteklenir."
+    } ]
+  }, {
+    "tStartMs": 59700,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Onun yerine başka bir şey geldiğinde yenisi"
+    } ]
+  }, {
+    "tStartMs": 62670,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "satılır ve desteklenir."
+    } ]
+  }, {
+    "tStartMs": 63900,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Yani süreç öyleydi."
+    } ]
+  }, {
+    "tStartMs": 65250,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Hala birçok konuda öyle."
+    } ]
+  }, {
+    "tStartMs": 66780,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Ama biz yeni nesil girişimlerde şunu"
+    } ]
+  }, {
+    "tStartMs": 68280,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "görüyoruz. Önemli olan bir ihtiyacı"
+    } ]
+  }, {
+    "tStartMs": 71970,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "karşılamak veya bir sorunu çözmek ve burada"
+    } ]
+  }, {
+    "tStartMs": 74190,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "kim sorusu en başa çıkıyor."
+    } ]
+  }, {
+    "tStartMs": 76470,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "O yüzden de biz ilk modül olarak bunu ele"
+    } ]
+  }, {
+    "tStartMs": 79590,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "aldık."
+    } ]
+  }, {
+    "tStartMs": 81040,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "İkincil olarak önemli olan şey de tasarım"
+    } ]
+  }, {
+    "tStartMs": 83100,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "odaklı düşünmek aslında."
+    } ]
+  }, {
+    "tStartMs": 85170,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Bu noktada tasarım odaklı düşünmek dizayn"
+    } ]
+  }, {
+    "tStartMs": 88380,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "thinking diye de geçiyor."
+    } ]
+  }, {
+    "tStartMs": 89790,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Önemli bir prensip."
+    } ]
+  }, {
+    "tStartMs": 91440,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Artık büyük şirketler bile tasarım odaklı"
+    } ]
+  }, {
+    "tStartMs": 94500,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "düşünme ekipleri, dizayn thinking ekipleri,"
+    } ]
+  }, {
+    "tStartMs": 96930,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "tasarım ekipleri kuruyorlar."
+    } ]
+  }, {
+    "tStartMs": 98730,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Bunun sebebi kullanıcıyı en iyi şekilde"
+    } ]
+  }, {
+    "tStartMs": 101040,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "anlamaya çalışmak. Kullanıcının"
+    } ]
+  }, {
+    "tStartMs": 102870,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "ihtiyaçlarının acı noktalarını en iyi"
+    } ]
+  }, {
+    "tStartMs": 105120,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "şekilde biraz önce senin dediğin gibi kimi"
+    } ]
+  }, {
+    "tStartMs": 107700,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "derinlemesine anlamak, belki hakikaten"
+    } ]
+  }, {
+    "tStartMs": 109830,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "onlarla yaşamaya çalışmak konusu var."
+    } ]
+  }, {
+    "tStartMs": 112370,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "Burada da tasarım odaklı düşünmekte bazı"
+    } ]
+  }, {
+    "tStartMs": 116760,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "prensipler, bazı yöntemler var."
+    } ]
+  }, {
+    "tStartMs": 119130,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Bir tanesi kapanmak, açılmak, kapanmak,"
+    } ]
+  }, {
+    "tStartMs": 122670,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "açılmak diye gidiyor."
+    } ]
+  }, {
+    "tStartMs": 124320,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Bu ne demek aslında fikir geliştirmede önce"
+    } ]
+  }, {
+    "tStartMs": 127560,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "siz açılıyorsunuz."
+    } ]
+  }, {
+    "tStartMs": 129470,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "Olabildiğince uçuk fikirler düşünüyorsunuz ya"
+    } ]
+  }, {
+    "tStartMs": 132300,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "da olabildiğince fazla içgörü topluyorsunuz."
+    } ]
+  }, {
+    "tStartMs": 134850,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Aslında her konseptte geçerli."
+    } ]
+  }, {
+    "tStartMs": 137070,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Yani bilgiyi çok fazla toplamak veya bilgiyi"
+    } ]
+  }, {
+    "tStartMs": 139890,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "çok fazla sağlamak, girdiyi çok fazla"
+    } ]
+  }, {
+    "tStartMs": 142110,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "sağlamak. Daha sonra bunları belli"
+    } ]
+  }, {
+    "tStartMs": 144330,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "filtrelerden geçirerek kısıtlıyorsunuz."
+    } ]
+  }, {
+    "tStartMs": 147090,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Topluyorsunuz daha sonra kısıtladığınız"
+    } ]
+  }, {
+    "tStartMs": 150240,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "konuyu tekrar açmaya çalışıyorsunuz."
+    } ]
+  }, {
+    "tStartMs": 153840,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Bu yine senin biraz önce bahsettiğin"
+    } ]
+  }, {
+    "tStartMs": 155910,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "perspektiflerde açmak olabilir."
+    } ]
+  }, {
+    "tStartMs": 158040,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Hani farklı konulardan bakmak olabilir o"
+    } ]
+  }, {
+    "tStartMs": 160560,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "konulara. Bir fikri çok sevdiniz ama onun"
+    } ]
+  }, {
+    "tStartMs": 163530,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "bir köşesini hiç düşünmediniz artık onu"
+    } ]
+  }, {
+    "tStartMs": 166080,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "düşünebileceğiniz bir açılma tarafı var."
+    } ]
+  }, {
+    "tStartMs": 168660,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Daha sonra yine belirli filtreler ile"
+    } ]
+  }, {
+    "tStartMs": 170160,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "kısıtlayarak aslında damıtıyorsunuz fikri,"
+    } ]
+  }, {
+    "tStartMs": 174240,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "damıtıyorsunuz açıp kapatarak."
+    } ]
+  }, {
+    "tStartMs": 176170,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Perspektifinizi açıp kapatarak fikri"
+    } ]
+  }, {
+    "tStartMs": 179500,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "damıtıyorsunuz. Tasarım odaklı düşünmek artık"
+    } ]
+  }, {
+    "tStartMs": 182100,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "büyük şirketlerden fikir aşamasındaki start"
+    } ]
+  }, {
+    "tStartMs": 185520,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "up'lara kadar gidiyor diyebiliriz."
+    } ]
+  }, {
+    "tStartMs": 188140,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Bu modülün aslında sonuna geldik."
+    } ]
+  }, {
+    "tStartMs": 190590,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Kullanıcı içgörüsü toplama ve sentezleme idi"
+    } ]
+  }, {
+    "tStartMs": 193560,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "bu modülün ismi ve yöntemlerden önemine"
+    } ]
+  }, {
+    "tStartMs": 196710,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "kadar konuştuk."
+    } ]
+  }, {
+    "tStartMs": 197910,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Ama buradan nereye doğru gideceğiz bir onu"
+    } ]
+  }, {
+    "tStartMs": 200460,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "anlat istersen. Başlangıçtaki mesajımız"
+    } ]
+  }, {
+    "tStartMs": 203110,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "neydi? Ürün odaklılık yerine insan odaklılık"
+    } ]
+  }, {
+    "tStartMs": 206220,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "ve problem ve ihtiyaç karşılama ya da çözme"
+    } ]
+  }, {
+    "tStartMs": 210300,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "demiştik. Dolayısıyla kimi şu anda"
+    } ]
+  }, {
+    "tStartMs": 214110,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "tanımladık problemini anladık ama"
+    } ]
+  }, {
+    "tStartMs": 218160,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "çözeceğimiz problemi tanımlayıp sonra çözümü"
+    } ]
+  }, {
+    "tStartMs": 221370,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "oluşturup o çözüm gerçekten o problemin"
+    } ]
+  }, {
+    "tStartMs": 224070,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "çözümü müdür uyum var mıdır, yani fikrimizi"
+    } ]
+  }, {
+    "tStartMs": 227790,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "doğrulama adımlarına geçmek üzere fikir"
+    } ]
+  }, {
+    "tStartMs": 230100,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "doğrulama modeline doğru yola çıkabiliriz."
+    } ]
+  }, {
+    "tStartMs": 232830,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "O zaman bu modülün mottosunu da tekrar"
+    } ]
+  }, {
+    "tStartMs": 235530,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "tekrarlayarak bitirelim."
+    } ]
+  }, {
+    "tStartMs": 237150,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Her şey varsayım, her şey tasarım demiştik."
+    } ]
+  }, {
+    "tStartMs": 239880,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Burada varsayımlarınızı doğrulayarak,"
+    } ]
+  }, {
+    "tStartMs": 242100,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "tasarım odaklı düşünerek, bir sonraki modüle"
+    } ]
+  }, {
+    "tStartMs": 244740,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "fikrimizi doğrulamaya, o uyumu aramaya"
+    } ]
+  }, {
+    "tStartMs": 247080,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "geçebiliriz istersen."
+    } ]
+  } ]
+}

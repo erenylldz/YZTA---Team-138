@@ -1,0 +1,1399 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 2310,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Tekrar merhaba. Bu modülümüzde kullanıcı"
+    } ]
+  }, {
+    "tStartMs": 4770,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "kazanımı ve büyüme yöntemlerini konuşacağız."
+    } ]
+  }, {
+    "tStartMs": 6990,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Detaylarına gireceğiz. Bu modülün çıktıları"
+    } ]
+  }, {
+    "tStartMs": 9060,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "ne olacak Ömer Abi?"
+    } ]
+  }, {
+    "tStartMs": 11230,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Şimdi bütün perspektife koyalım istiyorsan."
+    } ]
+  }, {
+    "tStartMs": 16340,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Bir problemi, birilerinin bir problemini"
+    } ]
+  }, {
+    "tStartMs": 18140,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "çözmek için yola çıktık."
+    } ]
+  }, {
+    "tStartMs": 20090,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Bunun için gerekli adımları öğrendik."
+    } ]
+  }, {
+    "tStartMs": 23420,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "İşte kanvasımızı çizdik."
+    } ]
+  }, {
+    "tStartMs": 24950,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Problem tanımı, problem çözüm uyumu vesaire."
+    } ]
+  }, {
+    "tStartMs": 30020,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Bunların hepsi kağıt üstünde ve hayaldi ya"
+    } ]
+  }, {
+    "tStartMs": 32120,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "da ufak tefek gerçeğe değiyordu."
+    } ]
+  }, {
+    "tStartMs": 33770,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Şimdi artık gerçekle yüz yüzeyiz."
+    } ]
+  }, {
+    "tStartMs": 35570,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Dolayısıyla gerçekle yüz yüze olmak ne demek?"
+    } ]
+  }, {
+    "tStartMs": 38240,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Gerçekten artık ürünün kullanıcılarının"
+    } ]
+  }, {
+    "tStartMs": 41300,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "olmasının peşinde koşacağız."
+    } ]
+  }, {
+    "tStartMs": 43010,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Deneysel kullanıcılar ya da geçici"
+    } ]
+  }, {
+    "tStartMs": 45080,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "kullanıcılar değil, kalıcı ve hatta bize"
+    } ]
+  }, {
+    "tStartMs": 46940,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "belki para kazandıracak kullanıcılardan"
+    } ]
+  }, {
+    "tStartMs": 48860,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "bahsedeceğiz. Onun için işler ciddi."
+    } ]
+  }, {
+    "tStartMs": 50960,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "Bu modülde."
+    } ]
+  }, {
+    "tStartMs": 52520,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Ciddi bir modüldeyiz."
+    } ]
+  }, {
+    "tStartMs": 54890,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Gerçek dünyayla temasımızın en yükseğe doğru"
+    } ]
+  }, {
+    "tStartMs": 60770,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "çıktığı modül olacak."
+    } ]
+  }, {
+    "tStartMs": 62210,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Bir önceki modülde aslında MPV'i  minimum"
+    } ]
+  }, {
+    "tStartMs": 67040,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "günyüzüne çıkılabilir ürünümüzü aslında"
+    } ]
+  }, {
+    "tStartMs": 69080,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "kullanıcılarla test etmeye veya buluşturmaya"
+    } ]
+  }, {
+    "tStartMs": 71480,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "başlamıştık. Belki ilk ödemeleri almaya"
+    } ]
+  }, {
+    "tStartMs": 74120,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "başlamıştık ama çok bunlar göreceli"
+    } ]
+  }, {
+    "tStartMs": 77030,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "başlangıç seviyeriydi."
+    } ]
+  }, {
+    "tStartMs": 79430,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "Yalın kanvasımızı doldurmuştuk."
+    } ]
+  }, {
+    "tStartMs": 81530,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Şimdi artık artık bir ürünümüz olduğunu"
+    } ]
+  }, {
+    "tStartMs": 83630,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "varsayıyoruz. Ürünümüzü ilk başta"
+    } ]
+  }, {
+    "tStartMs": 85910,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "bahsettiğimiz sprint matığında"
+    } ]
+  }, {
+    "tStartMs": 88860,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "iterasyonlarla bütün ekip birbiriyle"
+    } ]
+  }, {
+    "tStartMs": 91790,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "konuşarak müşteri geri bildirimleri ile"
+    } ]
+  }, {
+    "tStartMs": 94160,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "ürünü artık sıfır bir sıfırdan bire 1'den"
+    } ]
+  }, {
+    "tStartMs": 97820,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "2'ye getirme aşamasındayız diyebiliriz."
+    } ]
+  }, {
+    "tStartMs": 99920,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Bir de sana şey soracağım Ömer Abi."
+    } ]
+  }, {
+    "tStartMs": 101510,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Bu her modülde aslında bazı sözler öne"
+    } ]
+  }, {
+    "tStartMs": 105590,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "çıktı. İlk başta aslında kullanıcın sen"
+    } ]
+  }, {
+    "tStartMs": 109730,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "değilsin, sen kullanıcın değilsin dedik."
+    } ]
+  }, {
+    "tStartMs": 114140,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "Daha sonra kanvasımızı doldururken, fark"
+    } ]
+  }, {
+    "tStartMs": 118550,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "yaratan özelliğimizi konuşurken, aslında"
+    } ]
+  }, {
+    "tStartMs": 121400,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "haksız rekabet avantajını konuşurken neden"
+    } ]
+  }, {
+    "tStartMs": 124460,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "biz dedik. Neden biz öne çıktı?"
+    } ]
+  }, {
+    "tStartMs": 126890,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Bu modelde ne öne çıkacak?"
+    } ]
+  }, {
+    "tStartMs": 128660,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Bu modelde sen kullanıcın değilsinin bir"
+    } ]
+  }, {
+    "tStartMs": 131450,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "sonraki adımı evet ben kullanıcım değilim."
+    } ]
+  }, {
+    "tStartMs": 134060,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Peki kullanıcım kim?"
+    } ]
+  }, {
+    "tStartMs": 135380,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Bütün kullanıcıların da aynı kişi değil."
+    } ]
+  }, {
+    "tStartMs": 137210,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Yani bir sürü kişiden bahsettik ya daha önce"
+    } ]
+  }, {
+    "tStartMs": 139670,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "bu kişilerin başka özellikleri de var."
+    } ]
+  }, {
+    "tStartMs": 142100,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Kişiler dışında bazı özellikleri var."
+    } ]
+  }, {
+    "tStartMs": 144580,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Bu bence olmazsa olmaz bir teknoloji"
+    } ]
+  }, {
+    "tStartMs": 148630,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "girişiminin, yeni nesil girişimin zihninden"
+    } ]
+  }, {
+    "tStartMs": 151750,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "hiç çıkmaması gereken bir şey."
+    } ]
+  }, {
+    "tStartMs": 154480,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Bütün kullanıcılarının ya da bütün"
+    } ]
+  }, {
+    "tStartMs": 156070,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "müşterilerinin aynı olmadığı."
+    } ]
+  }, {
+    "tStartMs": 157930,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Bütün müşterilerin aynı olmadığının aslında"
+    } ]
+  }, {
+    "tStartMs": 160480,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "detayına şurada inebileceğiz teknoloji"
+    } ]
+  }, {
+    "tStartMs": 163150,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "benimseme eğrisi formatından bahsedeceğiz."
+    } ]
+  }, {
+    "tStartMs": 166330,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Bu eğrinin aslında partlarından"
+    } ]
+  }, {
+    "tStartMs": 169150,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "bölümlerinden bahsedeceğiz."
+    } ]
+  }, {
+    "tStartMs": 171160,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Bu teknoloji benimseme eğrisinde Erken"
+    } ]
+  }, {
+    "tStartMs": 174280,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Uyananlar, Erken Benimseyenler, Erken"
+    } ]
+  }, {
+    "tStartMs": 176980,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Çoğunluk, Geç Çoğunluk ve Gelenekselciler"
+    } ]
+  }, {
+    "tStartMs": 179170,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "bölümlerinden ayrı ayrı derinlemesine"
+    } ]
+  }, {
+    "tStartMs": 181180,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "örnekler vererek bahsedeceğiz."
+    } ]
+  }, {
+    "tStartMs": 183300,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Bu eğride kullanıcı tarzlarımızı konuştuktan"
+    } ]
+  }, {
+    "tStartMs": 186880,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "sonra da aslında bu kullanıcılar bizle nasıl"
+    } ]
+  }, {
+    "tStartMs": 190390,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "etkileşime giriyor? Biz gelirin neye göre"
+    } ]
+  }, {
+    "tStartMs": 193420,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "kazanmalıyız, ne noktada karlılığa göre bir"
+    } ]
+  }, {
+    "tStartMs": 196780,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "pozisyonu almalıyız, biraz bunu"
+    } ]
+  }, {
+    "tStartMs": 198130,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "tartışacağız. Daha sonra da aslında bütün"
+    } ]
+  }, {
+    "tStartMs": 202060,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "müşterilerimiz aynı değil ama aynı yerde son"
+    } ]
+  }, {
+    "tStartMs": 205720,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "buluyorlar. Yani ürünümüzde en son"
+    } ]
+  }, {
+    "tStartMs": 208540,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "etkileşime giriyorlar."
+    } ]
+  }, {
+    "tStartMs": 209950,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Bu etkileşim kanalları nedir?"
+    } ]
+  }, {
+    "tStartMs": 211660,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Etkileşim sıralaması nedir?"
+    } ]
+  }, {
+    "tStartMs": 213940,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Bizi fark ettiklerinden bir arkadaşlarına"
+    } ]
+  }, {
+    "tStartMs": 216520,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "önerdiklerine kadarki olan yolculuktaki"
+    } ]
+  }, {
+    "tStartMs": 218590,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "adımlardan bahsedeceğiz."
+    } ]
+  }, {
+    "tStartMs": 220480,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Bu modülün kısa bir özeti böyle oldu."
+    } ]
+  }, {
+    "tStartMs": 222820,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "İstersen teknoloji benimseme eğrisinden"
+    } ]
+  }, {
+    "tStartMs": 226200,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "başlayalım. Nedir bu Eğri Abi?"
+    } ]
+  }, {
+    "tStartMs": 227620,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Bir daha vurgulamak istiyorum."
+    } ]
+  }, {
+    "tStartMs": 228700,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Bu oldukça önemli. Çünkü karışan bir şey"
+    } ]
+  }, {
+    "tStartMs": 230860,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "persona başka bir şey."
+    } ]
+  }, {
+    "tStartMs": 232660,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "Teknoloji benimseme eğrisindeki o personaya"
+    } ]
+  }, {
+    "tStartMs": 235670,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "uyan kişinin davranış kalıbı başka bir şey."
+    } ]
+  }, {
+    "tStartMs": 238690,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Yani aynı personaya sahip olabilirsin."
+    } ]
+  }, {
+    "tStartMs": 240550,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Örneğin nedir persona?"
+    } ]
+  }, {
+    "tStartMs": 242260,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "İşte zor beğenen beyaz yakalı, 25 30 yaş"
+    } ]
+  }, {
+    "tStartMs": 247060,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "arasında birisi bir persona."
+    } ]
+  }, {
+    "tStartMs": 249430,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Ama bu personanın mesela erken uyananı var."
+    } ]
+  }, {
+    "tStartMs": 252970,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Erken, benimseyeni var ya da erken çoğunluğu"
+    } ]
+  }, {
+    "tStartMs": 255340,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "var. Nedir? Örnekle gidelim istiyorsan yine"
+    } ]
+  }, {
+    "tStartMs": 257920,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": ". Erken uyanan şu demek sen bir şey yaptın ve"
+    } ]
+  }, {
+    "tStartMs": 260530,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "başkaların yapmadığı olmayan bir şey yaptın."
+    } ]
+  }, {
+    "tStartMs": 262900,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Şimdi bunu anlatman gerekiyor önce"
+    } ]
+  }, {
+    "tStartMs": 264640,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "birilerine."
+    } ]
+  }, {
+    "tStartMs": 265700,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Anlatmak için de denetmen gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 268150,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Çünkü biliyorsunuz zamanımızda artık"
+    } ]
+  }, {
+    "tStartMs": 270070,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "herkesin zamanı kısıtlı."
+    } ]
+  }, {
+    "tStartMs": 271630,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Zaman peşinde koşuyor."
+    } ]
+  }, {
+    "tStartMs": 273010,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Yani bir sürü ürün. Her insanın hayatından"
+    } ]
+  }, {
+    "tStartMs": 275560,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "ne kadar fazla zaman alabilirim diye"
+    } ]
+  }, {
+    "tStartMs": 277210,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "bakıyor. Para peşinden çok zaman peşinde"
+    } ]
+  }, {
+    "tStartMs": 279340,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "koşuyor. Çünkü zamanını alırsan parasını"
+    } ]
+  }, {
+    "tStartMs": 281480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "alabiliyorsunuz ya da onun aldığının zamanı"
+    } ]
+  }, {
+    "tStartMs": 283480,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "ile başkasından para alabiliyorsunuz."
+    } ]
+  }, {
+    "tStartMs": 285100,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "Örneğin reklam."
+    } ]
+  }, {
+    "tStartMs": 285850,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "Reklam göstererek."
+    } ]
+  }, {
+    "tStartMs": 287080,
+    "dDurationMs": 210,
+    "segs": [ {
+      "utf8": ".."
+    } ]
+  }, {
+    "tStartMs": 287290,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "Evet. Dolayısıyla burada kritik olan ilk"
+    } ]
+  }, {
+    "tStartMs": 291700,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "mesajı verirken o mesajı personaya değil"
+    } ]
+  }, {
+    "tStartMs": 295420,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "sadece, aynı zamanda personanın bu eğrideki"
+    } ]
+  }, {
+    "tStartMs": 299050,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "karakteristiğini görenler. Yine örnekten"
+    } ]
+  }, {
+    "tStartMs": 300880,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "gidelim. Erken uyanan şöyle birisi aynı yaş"
+    } ]
+  }, {
+    "tStartMs": 304630,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "grubunda, aynı persona tanımı uyuyor ama"
+    } ]
+  }, {
+    "tStartMs": 307150,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "daha meraklı, daha senin gibi ya da sizin"
+    } ]
+  }, {
+    "tStartMs": 311110,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "gibi bir şeyler yapmak istiyor."
+    } ]
+  }, {
+    "tStartMs": 313060,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Ama o kaynağı ve o yeterli hevesi ya da o"
+    } ]
+  }, {
+    "tStartMs": 317530,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "çevresi yok. O zaman nasıl tanıyacağız biz"
+    } ]
+  }, {
+    "tStartMs": 320950,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "bunu? Deneyecek, hemen bize geri bildirimde"
+    } ]
+  }, {
+    "tStartMs": 323350,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "bulunacak ki böyle yapmışsınız."
+    } ]
+  }, {
+    "tStartMs": 325480,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Ama şöyle yapsanız benim çok daha işimi"
+    } ]
+  }, {
+    "tStartMs": 327250,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "görür."
+    } ]
+  }, {
+    "tStartMs": 328270,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Yani erken benimseyenin kritik özelliği hemen"
+    } ]
+  }, {
+    "tStartMs": 331510,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "denemesi ve size geri bildirim vermesi."
+    } ]
+  }, {
+    "tStartMs": 334830,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Ve de vazgeçmemesi."
+    } ]
+  }, {
+    "tStartMs": 337060,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Çünkü yeni ürünler genellikle problem"
+    } ]
+  }, {
+    "tStartMs": 339220,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "çıkarırlar. Uygulamaysa çöker, bir daha"
+    } ]
+  }, {
+    "tStartMs": 342430,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "yüklemen gerekir. Birçok başka kategorideki"
+    } ]
+  }, {
+    "tStartMs": 345700,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "insanların çöken uygulamayı bir daha"
+    } ]
+  }, {
+    "tStartMs": 347380,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "yüklemediğini görürüz."
+    } ]
+  }, {
+    "tStartMs": 349540,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Ama bu tekrar yükler, hatta döner bir mesaj"
+    } ]
+  }, {
+    "tStartMs": 352750,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "atar. Der ki şöyle şöyle yapınca uygulama"
+    } ]
+  }, {
+    "tStartMs": 354760,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "çöküyor, haberiniz olsun der."
+    } ]
+  }, {
+    "tStartMs": 356200,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Mesela bu tam bir erken uyanan ingilizcesi"
+    } ]
+  }, {
+    "tStartMs": 359020,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "de early innovator bunun.Innovator"
+    } ]
+  }, {
+    "tStartMs": 360770,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "karakteristiği erken benimseyen biraz farklı"
+    } ]
+  }, {
+    "tStartMs": 364020,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "burada. Bir sonraki kategori bunların nüfus"
+    } ]
+  }, {
+    "tStartMs": 366640,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "içindeki dağılımlarını daha sonra"
+    } ]
+  }, {
+    "tStartMs": 368350,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "söyleyeceğim. Şöyle bir kategori o, o da"
+    } ]
+  }, {
+    "tStartMs": 371050,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "deniyor, o da meraklı."
+    } ]
+  }, {
+    "tStartMs": 373000,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Onun özelliği şu, gelecekteki problemlerinin"
+    } ]
+  }, {
+    "tStartMs": 375730,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "farkında ve onları çözmeye çalışıyor."
+    } ]
+  }, {
+    "tStartMs": 377320,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Bugünün problemini çözmeye çalışmıyor ama"
+    } ]
+  }, {
+    "tStartMs": 380350,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "feedback vermiyor."
+    } ]
+  }, {
+    "tStartMs": 381250,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Gelecekteki problemler ne demek ?"
+    } ]
+  }, {
+    "tStartMs": 383230,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Gelecekteki problem şu demek bugün bir"
+    } ]
+  }, {
+    "tStartMs": 385210,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "teknoloji geldi ve o teknoloji nedeniyle bir"
+    } ]
+  }, {
+    "tStartMs": 387520,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "zaman sonra atıyorum mesela blokchain."
+    } ]
+  }, {
+    "tStartMs": 390040,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Tamam mı ? Blockchain bir süre sonra çok"
+    } ]
+  }, {
+    "tStartMs": 391510,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "yaygınlaşacak. Şimdi erken benimseyen blok"
+    } ]
+  }, {
+    "tStartMs": 395060,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "senin  blockchain teknolojisiyle bir ürünü"
+    } ]
+  }, {
+    "tStartMs": 396400,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "gördüğü zaman hemen denemeye başlıyor ama"
+    } ]
+  }, {
+    "tStartMs": 399340,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "geri bildirim vermiyor. Yani erken uyanan"
+    } ]
+  }, {
+    "tStartMs": 401600,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "innovator'dan farklı olarak bunun adı da"
+    } ]
+  }, {
+    "tStartMs": 403550,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "ingilizcede early adopters, early adopter'ı"
+    } ]
+  }, {
+    "tStartMs": 406000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "geribildirim vermemesinden tanıyoruz."
+    } ]
+  }, {
+    "tStartMs": 407800,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Ama innovatora da şöyle benziyor kullanmaya"
+    } ]
+  }, {
+    "tStartMs": 411460,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "devam ediyor. Problem mi çıktı, problem"
+    } ]
+  }, {
+    "tStartMs": 414010,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "değil, sorun değil. Tekrar denerim ben"
+    } ]
+  }, {
+    "tStartMs": 415630,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "diyor. Çöktü mü uygulama okey yine yükledim"
+    } ]
+  }, {
+    "tStartMs": 417760,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "ben şart değil diyor."
+    } ]
+  }, {
+    "tStartMs": 419050,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Ya da işte oyun oynadın, bir şey kazandın."
+    } ]
+  }, {
+    "tStartMs": 421000,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Kazandığın şey görünmüyor."
+    } ]
+  }, {
+    "tStartMs": 422740,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "Kızmıyor sana."
+    } ]
+  }, {
+    "tStartMs": 423700,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Bunlar aynı personada da olabilirler ancak"
+    } ]
+  }, {
+    "tStartMs": 427150,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "farklı teknoloji benimseme evresinde farklı"
+    } ]
+  }, {
+    "tStartMs": 429640,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "karakteristiklere tekabül ederler."
+    } ]
+  }, {
+    "tStartMs": 432520,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Bu yüzden onlar bunun farkında olarak"
+    } ]
+  }, {
+    "tStartMs": 434800,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "kullanıcılara yaklaşmak, biraz sonra"
+    } ]
+  }, {
+    "tStartMs": 436690,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "konuşacağımız bu huni,funnel yapısında"
+    } ]
+  }, {
+    "tStartMs": 440230,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "onları ayırt etmek. Belki doğru teknolojiyi"
+    } ]
+  }, {
+    "tStartMs": 442630,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "kullanıyorlarsa, uygun teknolojiyi"
+    } ]
+  }, {
+    "tStartMs": 444220,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "kullanıyorlarsa bunları etiketlemek ve bir"
+    } ]
+  }, {
+    "tStartMs": 446980,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "şekilde kullanıcılarızı müşterilerinizi"
+    } ]
+  }, {
+    "tStartMs": 448580,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "takip etmek kritik olacaktır."
+    } ]
+  }, {
+    "tStartMs": 450910,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Erken benimseyenler ve erken uyananlardan"
+    } ]
+  }, {
+    "tStartMs": 453100,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "bahsettik. Erken benimseyenler, erken"
+    } ]
+  }, {
+    "tStartMs": 456130,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "uyananlar kadar uzun süre uygulamada"
+    } ]
+  }, {
+    "tStartMs": 458920,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "kalıyorlar mı ? Yani bir noktadan sonra"
+    } ]
+  }, {
+    "tStartMs": 461290,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "vazgeçiyorlar mı uygulamadan?"
+    } ]
+  }, {
+    "tStartMs": 462760,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Evet, her ikisinin de özelliği aslında"
+    } ]
+  }, {
+    "tStartMs": 465280,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "vazgeçmeleri. Erken benimseyenler yani ea"
+    } ]
+  }, {
+    "tStartMs": 468880,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "rly adopters'lar işleri bitince bırakıyorlar."
+    } ]
+  }, {
+    "tStartMs": 471070,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "İnnovators ya da erken uyananlar ise başka"
+    } ]
+  }, {
+    "tStartMs": 475090,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "bir şey bulduğu zaman bırakıyor."
+    } ]
+  }, {
+    "tStartMs": 477250,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Başka bir şeye early innovator oluyor..."
+    } ]
+  }, {
+    "tStartMs": 480430,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "O zaman bırakıyor."
+    } ]
+  }, {
+    "tStartMs": 482140,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Dolayısıyla bunların bırakması temel"
+    } ]
+  }, {
+    "tStartMs": 484060,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "özelliği üzülmeyeceksin. Bunlar"
+    } ]
+  }, {
+    "tStartMs": 485380,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "bırakıyorlar. Şimdi buna dönelim bunların"
+    } ]
+  }, {
+    "tStartMs": 487210,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "sayılarından bahsedelim."
+    } ]
+  }, {
+    "tStartMs": 488350,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Niye böyle bir eğri var?"
+    } ]
+  }, {
+    "tStartMs": 490030,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Bu eğri? Aslında normal dağılım eğrisi yüzde"
+    } ]
+  }, {
+    "tStartMs": 493780,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "2.5, yüzde 13.5, %34, %34 ve yüzde on altı"
+    } ]
+  }, {
+    "tStartMs": 498580,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "diye saydığımız beş tane kategori var."
+    } ]
+  }, {
+    "tStartMs": 502510,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Nereden geliyor bu? Şuradan geliyor."
+    } ]
+  }, {
+    "tStartMs": 503950,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Normal dağılım eğrisinde standart sapma"
+    } ]
+  }, {
+    "tStartMs": 507400,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "diye bir parametre var. Standart sapma"
+    } ]
+  }, {
+    "tStartMs": 509320,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "ortalamadan ne kadar fark olduğunu ölçen bir"
+    } ]
+  }, {
+    "tStartMs": 512050,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "şey çok basit olarak."
+    } ]
+  }, {
+    "tStartMs": 513500,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Bir standart sapma kadar uzak olanlar,"
+    } ]
+  }, {
+    "tStartMs": 515890,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "ortalamadan sola ve sağa doğru erken"
+    } ]
+  }, {
+    "tStartMs": 519580,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "çoğunluk ve geç çoğunluk."
+    } ]
+  }, {
+    "tStartMs": 521230,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Onun bir sigma daha bir standart sapma daha"
+    } ]
+  }, {
+    "tStartMs": 524680,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "sola gittiğinde early adaptor'ı buluyorsun."
+    } ]
+  }, {
+    "tStartMs": 529270,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Bir sigma daha yani bir standart sapma daha"
+    } ]
+  }, {
+    "tStartMs": 531340,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "gittiğinde yüzde ikibuçukluk innovatorları"
+    } ]
+  }, {
+    "tStartMs": 534220,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "buluyoruz. En sağda da ikisinin toplamı"
+    } ]
+  }, {
+    "tStartMs": 537340,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "kadar yüzde on altı kadar bir"
+    } ]
+  }, {
+    "tStartMs": 538630,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "gelenekselciler var."
+    } ]
+  }, {
+    "tStartMs": 540340,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Şimdi bu yeterince büyük topluluklarda,"
+    } ]
+  }, {
+    "tStartMs": 543550,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "nüfuslarda normal dağılım istatistiğin"
+    } ]
+  }, {
+    "tStartMs": 548620,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "kuralı olarak geçerli."
+    } ]
+  }, {
+    "tStartMs": 550030,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Normal dağılımın özelliği yeterince büyük"
+    } ]
+  }, {
+    "tStartMs": 553360,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "topluluklarda, büyük nüfuslarda geçerli"
+    } ]
+  }, {
+    "tStartMs": 555370,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "olmaz. Küçük örneklemlerde de geçerli değil."
+    } ]
+  }, {
+    "tStartMs": 561640,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "O yüzden dikkatli davranmak lazım."
+    } ]
+  }, {
+    "tStartMs": 563650,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Bunun ayrıntısına gireceğiz."
+    } ]
+  }, {
+    "tStartMs": 565330,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Teknoloji benimseme eğrisinin ilk iki"
+    } ]
+  }, {
+    "tStartMs": 567190,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "bölümünü konuştuk."
+    } ]
+  }, {
+    "tStartMs": 568690,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Erken benimseyenler ve erken uyananlar."
+    } ]
+  }, {
+    "tStartMs": 571600,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Bunlardan şimdi diğer kalan bölümleri erken"
+    } ]
+  }, {
+    "tStartMs": 574540,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "çoğunluk, geç çoğunluk ve gelenekselcileri"
+    } ]
+  }, {
+    "tStartMs": 576520,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "konuşacağız. Bir sonraki derste devam edelim."
+    } ]
+  } ]
+}

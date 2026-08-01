@@ -1,0 +1,997 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 3140,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Herkese merhaba bu modülümüz de yatırım"
+    } ]
+  }, {
+    "tStartMs": 5600,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "çeşitleri ve yatırımlara göre farklılıkları"
+    } ]
+  }, {
+    "tStartMs": 8060,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "konuşacağız. Aslında modülleri sıra sıra"
+    } ]
+  }, {
+    "tStartMs": 11390,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "izlerseniz, girişimciliğin yolculuğunda"
+    } ]
+  }, {
+    "tStartMs": 14450,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "yaptığınız uygulamanın veya geliştirdiğiniz"
+    } ]
+  }, {
+    "tStartMs": 16610,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "oyunun yolculuğunda aslında belli bir noktaya"
+    } ]
+  }, {
+    "tStartMs": 19580,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "gelmiş olmak demek bu. Bir önceki modül de"
+    } ]
+  }, {
+    "tStartMs": 23030,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "Startup pitching konuştuk."
+    } ]
+  }, {
+    "tStartMs": 24410,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Yani pich dökümanını nasıl yapmanız gerektiğini, nasıl"
+    } ]
+  }, {
+    "tStartMs": 27110,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "hazırlamanız gerektiği. Farklı kitlelere göre"
+    } ]
+  }, {
+    "tStartMs": 29810,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "nasıl konumlandırmanız gerektiğini konuştuk."
+    } ]
+  }, {
+    "tStartMs": 32690,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Bu noktada da artık o pitch'i yaptıktan sonra"
+    } ]
+  }, {
+    "tStartMs": 36620,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "yatırımcınızın size yaklaşması, ilişkinin"
+    } ]
+  }, {
+    "tStartMs": 39620,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "kurulması ve artık yatırımın alınması var."
+    } ]
+  }, {
+    "tStartMs": 42560,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Ama bu yatırımın bir sürü çeşidi var."
+    } ]
+  }, {
+    "tStartMs": 45740,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "Önce bir bunlardan başlamadan önce yatırım nedir,"
+    } ]
+  }, {
+    "tStartMs": 49970,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "neden alınır? Bir baştan başlayalım istersen."
+    } ]
+  }, {
+    "tStartMs": 52490,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Evet, bir kere şart mıdır?"
+    } ]
+  }, {
+    "tStartMs": 54860,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Sanki şarttır gibi bir genel kanı var."
+    } ]
+  }, {
+    "tStartMs": 57530,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Yaygın kanı var genel demeyeyim de yaygın kanı var."
+    } ]
+  }, {
+    "tStartMs": 60500,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "Bence şart değildir. Biliyorsun dünyada çok güzel"
+    } ]
+  }, {
+    "tStartMs": 64730,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "örnekler var. Hiç yatırımı almadan borsaya,"
+    } ]
+  }, {
+    "tStartMs": 69290,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "halka açılmış ya da ciddi bedellere satılmış"
+    } ]
+  }, {
+    "tStartMs": 73400,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "şirketler var dünyada."
+    } ]
+  }, {
+    "tStartMs": 75380,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "Geleneksel girişimciliğin zaten normal yolu oydu."
+    } ]
+  }, {
+    "tStartMs": 80480,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "Hala da öyle. Ama biz burada daha yeni nesil"
+    } ]
+  }, {
+    "tStartMs": 85150,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "konuştuğumuz için birçok start up'ın ya da"
+    } ]
+  }, {
+    "tStartMs": 89260,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "oyun stüdyosunun yatırım alması, bir noktada"
+    } ]
+  }, {
+    "tStartMs": 92620,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "yatırım alması sanki şart gibi duruyor."
+    } ]
+  }, {
+    "tStartMs": 96130,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Neden peki? Neden şart gibi duruyor?"
+    } ]
+  }, {
+    "tStartMs": 98350,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Ya da geleneksel girişimcilikte neden aslında kendi"
+    } ]
+  }, {
+    "tStartMs": 102040,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "yağında kavrulabiliyorlardı ve şimdi"
+    } ]
+  }, {
+    "tStartMs": 105010,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "yatırımla büyüyorlar? Valla birinci cevap teknoloji."
+    } ]
+  }, {
+    "tStartMs": 109220,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Teknoloji öyle bir kaldıraç etkisi"
+    } ]
+  }, {
+    "tStartMs": 111890,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "yaratıyor ki ne iş yaparsan yap."
+    } ]
+  }, {
+    "tStartMs": 114980,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "En basitinden kullanıcı ve müşteriye erişim"
+    } ]
+  }, {
+    "tStartMs": 119090,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "yöntemleri tamamen değişti."
+    } ]
+  }, {
+    "tStartMs": 120590,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Maliyetler çok düştü. Teknolojinin kullanımı, teknoloji"
+    } ]
+  }, {
+    "tStartMs": 124280,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "yatırımı tamamen değişti."
+    } ]
+  }, {
+    "tStartMs": 125760,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Sıfır yatırımla başlayabiliyorsunuz. İşte bu bulut"
+    } ]
+  }, {
+    "tStartMs": 129650,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "teknolojileri nedeniyle çözümlerin esnekliği"
+    } ]
+  }, {
+    "tStartMs": 133130,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "teknolojiyi kullanarak bir anda çözümünü"
+    } ]
+  }, {
+    "tStartMs": 135860,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "çarpı on iyi hale getirmen ya da müşteri"
+    } ]
+  }, {
+    "tStartMs": 141050,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "hedef kitleleri hızlıca değiştirip üründe çok"
+    } ]
+  }, {
+    "tStartMs": 144230,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "fazla değişiklik yapmadan devam edebilmen"
+    } ]
+  }, {
+    "tStartMs": 147470,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "gibi faktörler var temelde bunlar."
+    } ]
+  }, {
+    "tStartMs": 151250,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "Ama en basit tarafı parasal yatırımın finansal"
+    } ]
+  }, {
+    "tStartMs": 156140,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "sermaye olan ihtiyacın azalmışlığı burada ya"
+    } ]
+  }, {
+    "tStartMs": 159260,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "da zamanlamasının esnekleşmesi diyelim en"
+    } ]
+  }, {
+    "tStartMs": 162440,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "güzel bence ifade bu. Yani parasal sermaye,"
+    } ]
+  }, {
+    "tStartMs": 165140,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "finansal sermaye olan ihtiyacın zamanı ve"
+    } ]
+  }, {
+    "tStartMs": 168080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "miktarı tamamen bulunduğun noktaya göre değişiyor."
+    } ]
+  }, {
+    "tStartMs": 171320,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Halbuki geleneksel de başta"
+    } ]
+  }, {
+    "tStartMs": 172730,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "sermaye, finansal sermaye gerekiyor."
+    } ]
+  }, {
+    "tStartMs": 175310,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Onunla bir yere geliyorsun. Ne yapıyorsun işte, yer"
+    } ]
+  }, {
+    "tStartMs": 178160,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "alıyorsun, tesis kuruyorsun, kira ödüyorsun,"
+    } ]
+  }, {
+    "tStartMs": 181790,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "eleman alıyorsunuz, kuruluş masrafları şu, bu"
+    } ]
+  }, {
+    "tStartMs": 184310,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "falan bunlar şart. Ama yeni nesil girişim"
+    } ]
+  }, {
+    "tStartMs": 187790,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "evde otururken yapılıyor biliyorsun bireysel"
+    } ]
+  }, {
+    "tStartMs": 190040,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "olarak hatta bunu da konuştuk, başka modüller de."
+    } ]
+  }, {
+    "tStartMs": 192770,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "O yüzden de sermayenin türlerinden hızlıca bir bahsedelim."
+    } ]
+  }, {
+    "tStartMs": 196520,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Başka yerlerde de konuştuk da."
+    } ]
+  }, {
+    "tStartMs": 198500,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Sermaye bir finansal tabii para."
+    } ]
+  }, {
+    "tStartMs": 201380,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "İki,entelektüel sermaye var yani senin"
+    } ]
+  }, {
+    "tStartMs": 203810,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "bildiğin bir alanda bir işe girişmen ile hiç"
+    } ]
+  }, {
+    "tStartMs": 206510,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "bilmediğin bir anda bir işe girişmen farklı."
+    } ]
+  }, {
+    "tStartMs": 208850,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Hiç bilmiyorsan bilen birini olman lazım ya"
+    } ]
+  }, {
+    "tStartMs": 211010,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "da oturup öğrenmen lazım."
+    } ]
+  }, {
+    "tStartMs": 212990,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Buna entelektüel sermaye diyoruz."
+    } ]
+  }, {
+    "tStartMs": 216750,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Kültürel sermaye var. Yaptığın işin hangi"
+    } ]
+  }, {
+    "tStartMs": 218880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "ülkede yaptığın ya da hangi ülkenin hangi"
+    } ]
+  }, {
+    "tStartMs": 223470,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "kitlesine yaptığın. Örneğin Amerika'da bir"
+    } ]
+  }, {
+    "tStartMs": 227040,
+    "dDurationMs": 5550,
+    "segs": [ {
+      "utf8": "Latin kökenli ciddi bir nüfus var."
+    } ]
+  }, {
+    "tStartMs": 233040,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Onlara örneğin İspanyolca hatta onların"
+    } ]
+  }, {
+    "tStartMs": 236490,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "ispanyolcasıyla hitap edersen başka sonuç"
+    } ]
+  }, {
+    "tStartMs": 239130,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "alırsın, İngilizce hitap edersen başka sonuç"
+    } ]
+  }, {
+    "tStartMs": 241980,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "almayabilirsin gibi kültürel sermaye var."
+    } ]
+  }, {
+    "tStartMs": 245960,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "İki, sosyal sermaye var buna bu aslında"
+    } ]
+  }, {
+    "tStartMs": 248340,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "geleneksel bir şey. Kimi tanıyorsun, kimi"
+    } ]
+  }, {
+    "tStartMs": 250650,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "tanıştırabilirsin sosyal sermaye ciddi."
+    } ]
+  }, {
+    "tStartMs": 253170,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Çok da geleneksel değil aslında."
+    } ]
+  }, {
+    "tStartMs": 254430,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Yeni nesil girişimlerde de Network'le ve ilişkilerle"
+    } ]
+  }, {
+    "tStartMs": 257520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "büyüyen önemli şeyler hesaplar demeyeyim ama"
+    } ]
+  }, {
+    "tStartMs": 261120,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "müşteri ilişkileri olabilir. Evet, evet."
+    } ]
+  }, {
+    "tStartMs": 262860,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Ama mesela entelektüel sermaye daha çok, aslında"
+    } ]
+  }, {
+    "tStartMs": 267870,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "hepsi var geleneksel de ama bunların"
+    } ]
+  }, {
+    "tStartMs": 269730,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "kullanımı ve onun yarattığı esneklik."
+    } ]
+  }, {
+    "tStartMs": 272610,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Burada temel fark burada. Yani ne zaman ihtiyacın"
+    } ]
+  }, {
+    "tStartMs": 275250,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "varsa gidip o zaman alıyorsun."
+    } ]
+  }, {
+    "tStartMs": 277020,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Baştan yatırımı yapmana gerek yok. Yani işte ölçeğe"
+    } ]
+  }, {
+    "tStartMs": 280770,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "geldiğinde bilmen gereken bir şeyler varsa, o"
+    } ]
+  }, {
+    "tStartMs": 283260,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "güne kadar onu öğrenmem, bilmen de sorman gerekmiyor."
+    } ]
+  }, {
+    "tStartMs": 286950,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Kısa bir özet de geçebiliriz burada."
+    } ]
+  }, {
+    "tStartMs": 289590,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "Hem yatırım türleri hem de yatırımcı türleri farklı."
+    } ]
+  }, {
+    "tStartMs": 294810,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Burada önce yatırım türlerinden başlayalım."
+    } ]
+  }, {
+    "tStartMs": 297210,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "Erken aşama yatırım türleri var."
+    } ]
+  }, {
+    "tStartMs": 298800,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Biraz daha ileri aşamada yapılan yatırım türleri var."
+    } ]
+  }, {
+    "tStartMs": 301440,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Halka arz en ileri aşamada aslında hani halka"
+    } ]
+  }, {
+    "tStartMs": 304260,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "açılma konuları var. Yatırım çeşitlerinden"
+    } ]
+  }, {
+    "tStartMs": 307020,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "biraz özet geçebilir misin?"
+    } ]
+  }, {
+    "tStartMs": 308130,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Sonra derinlemesine girelim. Şimdi aslında bizim"
+    } ]
+  }, {
+    "tStartMs": 310530,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "hep üzerine kurguladığımız bütün eğitim"
+    } ]
+  }, {
+    "tStartMs": 314010,
+    "dDurationMs": 6010,
+    "segs": [ {
+      "utf8": "boyunca konu, girişimin aşamaları ne dedik?"
+    } ]
+  }, {
+    "tStartMs": 320050,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Fikir aşaması dedik, NVP aşaması dedik, ürün"
+    } ]
+  }, {
+    "tStartMs": 324070,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "pazar uyum aşaması dedik ve ölçeklenme aşaması dedik."
+    } ]
+  }, {
+    "tStartMs": 326890,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Bunların her birisi için yatırımlarda isimlendiriliyor."
+    } ]
+  }, {
+    "tStartMs": 330190,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Mesela çekirdek yatırım, seed yatırım deniyor ya da"
+    } ]
+  }, {
+    "tStartMs": 333430,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "onun öncesi fikir aşaması ise pre-seed,"
+    } ]
+  }, {
+    "tStartMs": 335620,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "çekirdek öncesi yatırım deniyor."
+    } ]
+  }, {
+    "tStartMs": 337960,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Sonra işte birkaç tane seed, bir kaç tane çekirdek alabilirsin."
+    } ]
+  }, {
+    "tStartMs": 342070,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "Sonra bir seriler başlıyor seri a,b,c,d,e,f diye gidiyor."
+    } ]
+  }, {
+    "tStartMs": 347350,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "Birçok dünyada bu unicorn olmuş yani değerlemesi dolarla milyar"
+    } ]
+  }, {
+    "tStartMs": 353020,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "doların üzerine çıkmış şirketler böyle"
+    } ]
+  }, {
+    "tStartMs": 355510,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "alfabenin daha sonraki harflerin de"
+    } ]
+  }, {
+    "tStartMs": 357370,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "yatırımlar almış oluyor. Halka açılmayı ayrı"
+    } ]
+  }, {
+    "tStartMs": 360220,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "bir başlık olarak konuşuruz."
+    } ]
+  }, {
+    "tStartMs": 362320,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "Tabii bunları yapabilen, finansal tarafta yapabilen"
+    } ]
+  }, {
+    "tStartMs": 366430,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "yatırımcı tipleri de çok farklı."
+    } ]
+  }, {
+    "tStartMs": 368890,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "Örneğin ilk ailenden, arkadaşından ya da sana çok inanan"
+    } ]
+  }, {
+    "tStartMs": 375210,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "hayranlarından finansal yatırım alıp yola çıkabilirsin."
+    } ]
+  }, {
+    "tStartMs": 380160,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Sonra bir yere geldiğin zaman"
+    } ]
+  }, {
+    "tStartMs": 382410,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "melek yatırımcılar devreye girer, girer ya da"
+    } ]
+  }, {
+    "tStartMs": 385230,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "son zamanlarda artık Türkiye'de de"
+    } ]
+  }, {
+    "tStartMs": 387630,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "gerçekleşmiş olan paya dayalı kitlesel fonlama çözümleri var."
+    } ]
+  }, {
+    "tStartMs": 393360,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Bunlar erken aşama için ciddi opsiyonlar."
+    } ]
+  }, {
+    "tStartMs": 396390,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Hatta fikir aşamasında"
+    } ]
+  }, {
+    "tStartMs": 397530,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "bile yatırım yapabiliyorsun."
+    } ]
+  }, {
+    "tStartMs": 399360,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "Ben de yaptım, sen de yaptın biliyorsun."
+    } ]
+  }, {
+    "tStartMs": 402830,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "Bu büyük kolaylık, bunların bilinmesi bence"
+    } ]
+  }, {
+    "tStartMs": 407970,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "bir girişimcinin bilmesi derken yeterince"
+    } ]
+  }, {
+    "tStartMs": 411480,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "önceden bilinmesi, bir girişimcinin bütün bu"
+    } ]
+  }, {
+    "tStartMs": 413490,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "yolculuğunda çok kritik bir bilgi."
+    } ]
+  }, {
+    "tStartMs": 416370,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Niye? Çünkü ne zaman tam olarak, ne kadar"
+    } ]
+  }, {
+    "tStartMs": 418680,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "paraya ihtiyacın olacağını bilemiyorsun ya işte NVP'yi yaptın."
+    } ]
+  }, {
+    "tStartMs": 423440,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "NVP'yi 10 kişi de denedin çok iyi sonuç aldın"
+    } ]
+  }, {
+    "tStartMs": 426570,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "ama bin kişi de denemen lazım. Bir anda bir o"
+    } ]
+  }, {
+    "tStartMs": 429330,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "bin kişiye erişim masrafı çıktı. Nereden"
+    } ]
+  }, {
+    "tStartMs": 431220,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "bulacağız şimdi bunu değil mi? Diyelim ki iyi"
+    } ]
+  }, {
+    "tStartMs": 434660,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "bir ilişkin var sana işte Google ya da"
+    } ]
+  }, {
+    "tStartMs": 438620,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "benzeri paralı reklam yapan yerlerden işte ne"
+    } ]
+  }, {
+    "tStartMs": 442520,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "bileyim ilişkiler tanımlıyor ya da orada öyle"
+    } ]
+  }, {
+    "tStartMs": 445940,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "bir bilgi know how aktarımı yapıyor ki, sen"
+    } ]
+  }, {
+    "tStartMs": 449090,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "bin kişiye ulaşmak için bin lira"
+    } ]
+  }, {
+    "tStartMs": 450620,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "harcayacağını düşünürken, oradan aldığın"
+    } ]
+  }, {
+    "tStartMs": 452330,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "bilgi ile aslında yüz lirayla yapabilirmişime"
+    } ]
+  }, {
+    "tStartMs": 454490,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "ulaşıyorsun. Entelektüel sermaye geliyor ya"
+    } ]
+  }, {
+    "tStartMs": 457490,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "da işte o tanıştırma sana bir sosyal sermaye"
+    } ]
+  }, {
+    "tStartMs": 459680,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "olarak geliyor. Ama illa da bir yerde bir"
+    } ]
+  }, {
+    "tStartMs": 461990,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "paraya ihtiyaç oluyor. Onun için ne kadar"
+    } ]
+  }, {
+    "tStartMs": 464330,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "önceden bütün bu alternatifleri bilirse"
+    } ]
+  }, {
+    "tStartMs": 467240,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "girişimci ya da oyun stüdyosu kurucusu o"
+    } ]
+  }, {
+    "tStartMs": 469790,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "kadar yoldaki sürtünmesini yavaşlamasını azaltır."
+    } ]
+  }, {
+    "tStartMs": 473060,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Bu yoldaki sürtünme ve yavaşlama"
+    } ]
+  }, {
+    "tStartMs": 476720,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "aslında biraz sonra bir sonraki derste"
+    } ]
+  }, {
+    "tStartMs": 479540,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "konuşacağımız girişimci ve aslında yatırımcı"
+    } ]
+  }, {
+    "tStartMs": 482810,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "ilişkisindeki yatırımcı tipleriyle de alakalı."
+    } ]
+  }, {
+    "tStartMs": 486000,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Evet, yanlış bir zamanda yanlış bir"
+    } ]
+  }, {
+    "tStartMs": 487760,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "yatırımcı tipi ile ilişkiye girersen zaman kaybedebilirsin."
+    } ]
+  }, {
+    "tStartMs": 491990,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "O yüzden bunun detaylarını da bir sonraki derse girelim."
+    } ]
+  }, {
+    "tStartMs": 494490,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "Tamam, daha sonra hepsinin ayrı ayrı nasıl yapıldığına,"
+    } ]
+  }, {
+    "tStartMs": 498320,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "hangi aşamalarda yapıldığına, yatırım"
+    } ]
+  }, {
+    "tStartMs": 501050,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "boyutlarına girelim. Daha sonra da aslında"
+    } ]
+  }, {
+    "tStartMs": 503270,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "kısa bir özetle bu dersi yine noktalarız."
+    } ]
+  }, {
+    "tStartMs": 507410,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "O yüzden bir sonraki derste görüşmek üzere."
+    } ]
+  } ]
+}
